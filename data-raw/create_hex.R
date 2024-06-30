@@ -1,0 +1,16 @@
+hexSticker::sticker(
+  "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lovecraft_signature_1924-02-02.png",
+  package="",
+  spotlight = FALSE,
+  h_size = 1.5,
+  h_color = "black",
+  h_fill = "#fdfdf2",
+  p_size = 0.5,
+  p_y = 0.1,
+  s_x = 1,
+  s_y = 0.95,
+  s_width = 0.95,
+  u_y = 0.1,
+  u_color = "black",
+  filename = "inst/stickers/signature.png"
+)

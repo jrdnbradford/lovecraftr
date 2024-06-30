@@ -1,0 +1,8 @@
+^.github$
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^.Rhistory$
+^\.Rproj\.user$
+^data-raw$
+^.pre-commit-config.yaml$

@@ -1,0 +1,29 @@
+Package: lovecraftr
+Type: Package
+Title: H.P. Lovecraft's works, for text analysis
+Version: 0.1.0
+Authors@R:
+    person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = c("aut", "cre"))
+Description: A collection of H.P. Lovecraft's works, in txt and R's
+    rda format.
+URL: https://github.com/jrdnbradford/lovecraftr
+BugReports: https://github.com/jrdnbradford/lovecraftr/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 2.10)
+Suggests:
+    devtools,
+    dplyr,
+    glue,
+    hexSticker,
+    readr,
+    roxyen2,
+    scales,
+    stringr,
+    testthat (>= 3.0.0),
+    tibble,
+    tidytext
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
