@@ -3,7 +3,7 @@
 \docType{data}
 \name{dreams_in_the_witch_house}
 \alias{dreams_in_the_witch_house}
-\title{"Dreams In The Witch House"}
+\title{"Dreams In The Witch-House"}
 \format{
 A character vector with 1,271 elements,
   with roughly 80 characters per line
@@ -16,7 +16,7 @@ dreams_in_the_witch_house
 }
 \description{
 A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Dreams In The Witch House"
+  H. P. Lovecraft's "Dreams In The Witch-House"
 }
 \examples{
 data("dreams_in_the_witch_house")
