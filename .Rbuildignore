@@ -1,4 +1,3 @@
-^.github$
 ^renv$
 ^renv\.lock$
 ^.*\.Rproj$
