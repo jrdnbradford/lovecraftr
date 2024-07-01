@@ -1,11 +1,11 @@
 Package: lovecraftr
 Type: Package
-Title: H.P. Lovecraft's works, for text analysis
-Version: 0.1.0
+Title: H. P. Lovecraft's works, for text analysis
+Version: 0.1.1
 Authors@R:
     person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = c("aut", "cre"))
-Description: A collection of H.P. Lovecraft's works, in txt and R's
-    rda format.
+Description: A collection of H. P. Lovecraft's works, in txt and R's
+    RDA format.
 URL: https://github.com/jrdnbradford/lovecraftr
 BugReports: https://github.com/jrdnbradford/lovecraftr/issues
 License: MIT + file LICENSE
@@ -19,6 +19,7 @@ Suggests:
     glue,
     hexSticker,
     readr,
+    precommit,
     roxygen2,
     scales,
     stringr,
