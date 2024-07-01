@@ -4,6 +4,7 @@ test_that("there are the right number of exported datasets", {
   expect_equal(length(items), 68)
 })
 
+
 test_that("datasets are loadable", {
   corpus <- data(package = "lovecraftr")
   items <- corpus$results[, "Item"]
