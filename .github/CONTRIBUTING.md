@@ -12,6 +12,8 @@ Contributions and fixes are welcome!
     git checkout -b my-branch
     ```
 
+1. Make your changes
+
 1. Run the [`generate_data.R`](/data-raw/generate_data.R) script
 
 1. Ensure all [`testthat`](https://testthat.r-lib.org/) tests pass
