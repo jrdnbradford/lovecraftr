@@ -1,3 +1,10 @@
+#!/usr/bin/env Rscript 
+
+# This script generates the RDA datasets and their
+# accompanying documentation for {lovecraftr} using
+# the raw txt files in data-raw/corpus
+
+
 raw_txt_path <- file.path("data-raw", "corpus")
 data_docs_file <- file.path("R", "data.R")
 
