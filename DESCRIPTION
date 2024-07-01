@@ -19,7 +19,7 @@ Suggests:
     glue,
     hexSticker,
     readr,
-    roxyen2,
+    roxygen2,
     scales,
     stringr,
     testthat (>= 3.0.0),

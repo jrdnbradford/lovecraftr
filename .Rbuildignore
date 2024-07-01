@@ -1,4 +1,3 @@
-^.github$
 ^renv$
 ^renv\.lock$
 ^.*\.Rproj$
@@ -6,3 +5,4 @@
 ^\.Rproj\.user$
 ^data-raw$
 ^.pre-commit-config.yaml$
+^\.github$
