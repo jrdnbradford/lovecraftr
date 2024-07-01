@@ -3,7 +3,7 @@
 \docType{data}
 \name{pickmans_model}
 \alias{pickmans_model}
-\title{"Pickmans Model"}
+\title{"Pickman's Model"}
 \format{
 A character vector with 455 elements,
   with roughly 80 characters per line
@@ -16,7 +16,7 @@ pickmans_model
 }
 \description{
 A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Pickmans Model"
+  H. P. Lovecraft's "Pickman's Model"
 }
 \examples{
 data("pickmans_model")

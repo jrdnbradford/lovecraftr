@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_descendent}
 \alias{the_descendent}
-\title{"The Descendent"}
+\title{"The Descendant"}
 \format{
 A character vector with 121 elements,
   with roughly 80 characters per line
@@ -16,7 +16,7 @@ the_descendent
 }
 \description{
 A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Descendent"
+  H. P. Lovecraft's "The Descendant"
 }
 \examples{
 data("the_descendent")

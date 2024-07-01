@@ -3,7 +3,7 @@
 \docType{data}
 \name{herbert_west_reanimator}
 \alias{herbert_west_reanimator}
-\title{"Herbert West Reanimator"}
+\title{"Herbert West: Reanimator"}
 \format{
 A character vector with 1,053 elements,
   with roughly 80 characters per line
@@ -16,7 +16,7 @@ herbert_west_reanimator
 }
 \description{
 A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Herbert West Reanimator"
+  H. P. Lovecraft's "Herbert West: Reanimator"
 }
 \examples{
 data("herbert_west_reanimator")

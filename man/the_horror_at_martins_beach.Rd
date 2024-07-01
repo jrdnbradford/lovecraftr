@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_horror_at_martins_beach}
 \alias{the_horror_at_martins_beach}
-\title{"The Horror At Martins Beach"}
+\title{"The Horror At Martin's Beach"}
 \format{
 A character vector with 225 elements,
   with roughly 80 characters per line
@@ -16,7 +16,7 @@ the_horror_at_martins_beach
 }
 \description{
 A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Horror At Martins Beach"
+  H. P. Lovecraft's "The Horror At Martin's Beach"
 }
 \examples{
 data("the_horror_at_martins_beach")
