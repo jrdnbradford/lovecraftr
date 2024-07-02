@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_white_ship}
 \alias{the_white_ship}
-\title{"The White Ship"}
+\title{Dataset of "The White Ship"}
 \format{
-A character vector with 200 elements,
-  with roughly 80 characters per line
+A character vector with 200 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_white_ship
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The White Ship"
+A dataset containing text of H. P. Lovecraft's "The White Ship"
 }
 \examples{
 data("the_white_ship")

@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_dunwich_horror}
 \alias{the_dunwich_horror}
-\title{"The Dunwich Horror"}
+\title{Dataset of "The Dunwich Horror"}
 \format{
-A character vector with 1,533 elements,
-  with roughly 80 characters per line
+A character vector with 1,533 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_dunwich_horror
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Dunwich Horror"
+A dataset containing text of H. P. Lovecraft's "The Dunwich Horror"
 }
 \examples{
 data("the_dunwich_horror")

@@ -3,10 +3,9 @@
 \docType{data}
 \name{through_the_gates_of_the_silver_key}
 \alias{through_the_gates_of_the_silver_key}
-\title{"Through The Gates Of The Silver Key"}
+\title{Dataset of "Through The Gates Of The Silver Key"}
 \format{
-A character vector with 1,305 elements,
-  with roughly 80 characters per line
+A character vector with 1,305 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 through_the_gates_of_the_silver_key
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Through The Gates Of The Silver Key"
+A dataset containing text of H. P. Lovecraft's "Through The Gates Of The Silver Key"
 }
 \examples{
 data("through_the_gates_of_the_silver_key")

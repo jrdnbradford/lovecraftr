@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_alchemist}
 \alias{the_alchemist}
-\title{"The Alchemist"}
+\title{Dataset of "The Alchemist"}
 \format{
-A character vector with 295 elements,
-  with roughly 80 characters per line
+A character vector with 295 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_alchemist
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Alchemist"
+A dataset containing text of H. P. Lovecraft's "The Alchemist"
 }
 \examples{
 data("the_alchemist")

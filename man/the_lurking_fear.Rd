@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_lurking_fear}
 \alias{the_lurking_fear}
-\title{"The Lurking Fear"}
+\title{Dataset of "The Lurking Fear"}
 \format{
-A character vector with 656 elements,
-  with roughly 80 characters per line
+A character vector with 656 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_lurking_fear
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Lurking Fear"
+A dataset containing text of H. P. Lovecraft's "The Lurking Fear"
 }
 \examples{
 data("the_lurking_fear")

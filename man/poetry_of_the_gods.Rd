@@ -3,10 +3,9 @@
 \docType{data}
 \name{poetry_of_the_gods}
 \alias{poetry_of_the_gods}
-\title{"Poetry Of The Gods"}
+\title{Dataset of "Poetry Of The Gods"}
 \format{
-A character vector with 157 elements,
-  with roughly 80 characters per line
+A character vector with 157 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 poetry_of_the_gods
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Poetry Of The Gods"
+A dataset containing text of H. P. Lovecraft's "Poetry Of The Gods"
 }
 \examples{
 data("poetry_of_the_gods")

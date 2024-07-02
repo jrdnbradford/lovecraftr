@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_silver_key}
 \alias{the_silver_key}
-\title{"The Silver Key"}
+\title{Dataset of "The Silver Key"}
 \format{
-A character vector with 404 elements,
-  with roughly 80 characters per line
+A character vector with 404 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_silver_key
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Silver Key"
+A dataset containing text of H. P. Lovecraft's "The Silver Key"
 }
 \examples{
 data("the_silver_key")

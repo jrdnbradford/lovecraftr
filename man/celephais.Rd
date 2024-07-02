@@ -3,10 +3,9 @@
 \docType{data}
 \name{celephais}
 \alias{celephais}
-\title{"Celephais"}
+\title{Dataset of "Celephais"}
 \format{
-A character vector with 202 elements,
-  with roughly 80 characters per line
+A character vector with 202 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 celephais
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Celephais"
+A dataset containing text of H. P. Lovecraft's "Celephais"
 }
 \examples{
 data("celephais")

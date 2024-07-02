@@ -3,10 +3,9 @@
 \docType{data}
 \name{nyarlathotep}
 \alias{nyarlathotep}
-\title{"Nyarlathotep"}
+\title{Dataset of "Nyarlathotep"}
 \format{
-A character vector with 97 elements,
-  with roughly 80 characters per line
+A character vector with 97 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 nyarlathotep
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Nyarlathotep"
+A dataset containing text of H. P. Lovecraft's "Nyarlathotep"
 }
 \examples{
 data("nyarlathotep")

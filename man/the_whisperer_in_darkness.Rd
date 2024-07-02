@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_whisperer_in_darkness}
 \alias{the_whisperer_in_darkness}
-\title{"The Whisperer In Darkness"}
+\title{Dataset of "The Whisperer In Darkness"}
 \format{
-A character vector with 2,303 elements,
-  with roughly 80 characters per line
+A character vector with 2,303 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_whisperer_in_darkness
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Whisperer In Darkness"
+A dataset containing text of H. P. Lovecraft's "The Whisperer In Darkness"
 }
 \examples{
 data("the_whisperer_in_darkness")

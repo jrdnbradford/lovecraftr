@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_tomb}
 \alias{the_tomb}
-\title{"The Tomb"}
+\title{Dataset of "The Tomb"}
 \format{
-A character vector with 366 elements,
-  with roughly 80 characters per line
+A character vector with 366 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_tomb
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Tomb"
+A dataset containing text of H. P. Lovecraft's "The Tomb"
 }
 \examples{
 data("the_tomb")

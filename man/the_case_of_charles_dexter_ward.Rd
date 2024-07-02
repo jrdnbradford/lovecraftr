@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_case_of_charles_dexter_ward}
 \alias{the_case_of_charles_dexter_ward}
-\title{"The Case Of Charles Dexter Ward"}
+\title{Dataset of "The Case Of Charles Dexter Ward"}
 \format{
-A character vector with 4,358 elements,
-  with roughly 80 characters per line
+A character vector with 4,358 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_case_of_charles_dexter_ward
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Case Of Charles Dexter Ward"
+A dataset containing text of H. P. Lovecraft's "The Case Of Charles Dexter Ward"
 }
 \examples{
 data("the_case_of_charles_dexter_ward")

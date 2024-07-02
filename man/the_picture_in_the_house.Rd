@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_picture_in_the_house}
 \alias{the_picture_in_the_house}
-\title{"The Picture In The House"}
+\title{Dataset of "The Picture In The House"}
 \format{
-A character vector with 263 elements,
-  with roughly 80 characters per line
+A character vector with 263 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_picture_in_the_house
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Picture In The House"
+A dataset containing text of H. P. Lovecraft's "The Picture In The House"
 }
 \examples{
 data("the_picture_in_the_house")

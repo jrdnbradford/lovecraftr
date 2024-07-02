@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_strange_high_house_in_the_mist}
 \alias{the_strange_high_house_in_the_mist}
-\title{"The Strange High House In The Mist"}
+\title{Dataset of "The Strange High House In The Mist"}
 \format{
-A character vector with 289 elements,
-  with roughly 80 characters per line
+A character vector with 289 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_strange_high_house_in_the_mist
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Strange High House In The Mist"
+A dataset containing text of H. P. Lovecraft's "The Strange High House In The Mist"
 }
 \examples{
 data("the_strange_high_house_in_the_mist")

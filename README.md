@@ -6,22 +6,46 @@
 
 -H. P. Lovecraft, *The Call of Cthulhu*
 
-## H. P. Lovecraft's Works
+## H. P. Lovecraft Datasets
 
-This package contains H. P. Lovecraft's corpus in both [raw txt form](/data-raw/corpus/) and [R's native RDA format](/data/) for text processing.
+This package contains H. P. Lovecraft's corpus as R datasets for textual analysis.
+
+## Usage
 
 Character vectors of individual works can be accessed in several ways:
 ```R
 cthulhu <- lovecraftr::the_call_of_cthulhu
+head(cthulhu)
+
+#> [1] "THE CALL OF CTHULHU"
+#> [2] ""
+#> [3] "Of such great powers or beings there may be conceivably a survival...a survival"
+#> [4] "of a hugely remote period when...consciousness was manifested, perhaps, in"
+#> [5] "shapes and forms long since withdrawn before the tide of advancing"
+#> [6] "humanity...forms of which poetry and legend alone have caught a flying memory"
 ```
 or
 ```R
 data("the_call_of_cthulhu")
 ```
 
-The entire corpus can be accessed as a `data.frame`/`tbl_df` with:
+The entire corpus can be accessed as a tibble with:
 ```R
-corpus <- lovecraftr::lovecraft()
+corpus <- lovecraftr::lovecraft_corpus()
+
+corpus |>
+  dplyr::filter(title == "The Call Of Cthulhu") |>
+  head()
+
+#> # A tibble: 6 × 2
+#>   title               text
+#>   <chr>               <chr>
+#> 1 The Call Of Cthulhu "THE CALL OF CTHULHU"
+#> 2 The Call Of Cthulhu ""
+#> 3 The Call Of Cthulhu "Of such great powers or beings there may be conceivably …
+#> 4 The Call Of Cthulhu "of a hugely remote period when...consciousness was manif…
+5 The Call Of Cthulhu "shapes and forms long since withdrawn before the tide of…
+6 The Call Of Cthulhu "humanity...forms of which poetry and legend alone have c…
 ```
 or
 ```R

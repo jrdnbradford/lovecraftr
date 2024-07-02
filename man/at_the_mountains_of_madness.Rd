@@ -3,10 +3,9 @@
 \docType{data}
 \name{at_the_mountains_of_madness}
 \alias{at_the_mountains_of_madness}
-\title{"At The Mountains Of Madness"}
+\title{Dataset of "At The Mountains Of Madness"}
 \format{
-A character vector with 3,579 elements,
-  with roughly 80 characters per line
+A character vector with 3,579 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 at_the_mountains_of_madness
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "At The Mountains Of Madness"
+A dataset containing text of H. P. Lovecraft's "At The Mountains Of Madness"
 }
 \examples{
 data("at_the_mountains_of_madness")
