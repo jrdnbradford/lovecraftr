@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_horror_at_redhook}
 \alias{the_horror_at_redhook}
-\title{"The Horror At Red Hook"}
+\title{Dataset of "The Horror At Red Hook"}
 \format{
-A character vector with 702 elements,
-  with roughly 80 characters per line
+A character vector with 702 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_horror_at_redhook
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Horror At Red Hook"
+A dataset containing text of H. P. Lovecraft's "The Horror At Red Hook"
 }
 \examples{
 data("the_horror_at_redhook")

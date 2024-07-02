@@ -3,10 +3,9 @@
 \docType{data}
 \name{cool_air}
 \alias{cool_air}
-\title{"Cool Air"}
+\title{Dataset of "Cool Air"}
 \format{
-A character vector with 292 elements,
-  with roughly 80 characters per line
+A character vector with 292 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 cool_air
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Cool Air"
+A dataset containing text of H. P. Lovecraft's "Cool Air"
 }
 \examples{
 data("cool_air")

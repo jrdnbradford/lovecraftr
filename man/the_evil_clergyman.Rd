@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_evil_clergyman}
 \alias{the_evil_clergyman}
-\title{"The Evil Clergyman"}
+\title{Dataset of "The Evil Clergyman"}
 \format{
-A character vector with 147 elements,
-  with roughly 80 characters per line
+A character vector with 147 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_evil_clergyman
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Evil Clergyman"
+A dataset containing text of H. P. Lovecraft's "The Evil Clergyman"
 }
 \examples{
 data("the_evil_clergyman")

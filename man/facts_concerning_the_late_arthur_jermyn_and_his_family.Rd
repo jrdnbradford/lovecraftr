@@ -3,10 +3,9 @@
 \docType{data}
 \name{facts_concerning_the_late_arthur_jermyn_and_his_family}
 \alias{facts_concerning_the_late_arthur_jermyn_and_his_family}
-\title{"Facts Concerning The Late Arthur Jermyn And His Family"}
+\title{Dataset of "Facts Concerning The Late Arthur Jermyn And His Family"}
 \format{
-A character vector with 303 elements,
-  with roughly 80 characters per line
+A character vector with 303 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 facts_concerning_the_late_arthur_jermyn_and_his_family
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Facts Concerning The Late Arthur Jermyn And His Family"
+A dataset containing text of H. P. Lovecraft's "Facts Concerning The Late Arthur Jermyn And His Family"
 }
 \examples{
 data("facts_concerning_the_late_arthur_jermyn_and_his_family")

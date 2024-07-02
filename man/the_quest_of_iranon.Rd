@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_quest_of_iranon}
 \alias{the_quest_of_iranon}
-\title{"The Quest Of Iranon"}
+\title{Dataset of "The Quest Of Iranon"}
 \format{
-A character vector with 215 elements,
-  with roughly 80 characters per line
+A character vector with 215 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_quest_of_iranon
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Quest Of Iranon"
+A dataset containing text of H. P. Lovecraft's "The Quest Of Iranon"
 }
 \examples{
 data("the_quest_of_iranon")

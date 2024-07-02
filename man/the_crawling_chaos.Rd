@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_crawling_chaos}
 \alias{the_crawling_chaos}
-\title{"The Crawling Chaos"}
+\title{Dataset of "The Crawling Chaos"}
 \format{
-A character vector with 234 elements,
-  with roughly 80 characters per line
+A character vector with 234 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_crawling_chaos
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Crawling Chaos"
+A dataset containing text of H. P. Lovecraft's "The Crawling Chaos"
 }
 \examples{
 data("the_crawling_chaos")

@@ -3,7 +3,7 @@
 \docType{data}
 \name{lovecraft}
 \alias{lovecraft}
-\title{Lovecraft}
+\title{Dataset of Lovecraft's corpus}
 \format{
 A tibble with 43,347 rows and 2 columns:
 \describe{
@@ -18,12 +18,12 @@ Public domain
 lovecraft
 }
 \description{
-A dataset containing UTF-8 plain text of
-  all the H. P. Lovecraft works available in {lovecraftr}
+A dataset containing text of all the H. P. Lovecraft works available in {lovecraftr}
 }
 \examples{
 data("lovecraft")
 lovecraftr::lovecraft
+df <- lovecraftr::lovecraft_corpus()
 
 }
 \keyword{datasets}

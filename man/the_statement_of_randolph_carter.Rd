@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_statement_of_randolph_carter}
 \alias{the_statement_of_randolph_carter}
-\title{"The Statement Of Randolph Carter"}
+\title{Dataset of "The Statement Of Randolph Carter"}
 \format{
-A character vector with 221 elements,
-  with roughly 80 characters per line
+A character vector with 221 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_statement_of_randolph_carter
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Statement Of Randolph Carter"
+A dataset containing text of H. P. Lovecraft's "The Statement Of Randolph Carter"
 }
 \examples{
 data("the_statement_of_randolph_carter")

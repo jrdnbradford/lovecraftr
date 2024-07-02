@@ -3,10 +3,9 @@
 \docType{data}
 \name{what_the_moon_brings}
 \alias{what_the_moon_brings}
-\title{"What The Moon Brings"}
+\title{Dataset of "What The Moon Brings"}
 \format{
-A character vector with 60 elements,
-  with roughly 80 characters per line
+A character vector with 60 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 what_the_moon_brings
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "What The Moon Brings"
+A dataset containing text of H. P. Lovecraft's "What The Moon Brings"
 }
 \examples{
 data("what_the_moon_brings")

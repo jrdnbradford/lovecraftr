@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_cats_of_ulthar}
 \alias{the_cats_of_ulthar}
-\title{"The Cats Of Ulthar"}
+\title{Dataset of "The Cats Of Ulthar"}
 \format{
-A character vector with 109 elements,
-  with roughly 80 characters per line
+A character vector with 109 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_cats_of_ulthar
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Cats Of Ulthar"
+A dataset containing text of H. P. Lovecraft's "The Cats Of Ulthar"
 }
 \examples{
 data("the_cats_of_ulthar")

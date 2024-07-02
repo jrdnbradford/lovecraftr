@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_transition_of_juan_romero}
 \alias{the_transition_of_juan_romero}
-\title{"The Transition Of Juan Romero"}
+\title{Dataset of "The Transition Of Juan Romero"}
 \format{
-A character vector with 234 elements,
-  with roughly 80 characters per line
+A character vector with 234 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_transition_of_juan_romero
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Transition Of Juan Romero"
+A dataset containing text of H. P. Lovecraft's "The Transition Of Juan Romero"
 }
 \examples{
 data("the_transition_of_juan_romero")

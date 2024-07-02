@@ -3,10 +3,9 @@
 \docType{data}
 \name{from_beyond}
 \alias{from_beyond}
-\title{"From Beyond"}
+\title{Dataset of "From Beyond"}
 \format{
-A character vector with 222 elements,
-  with roughly 80 characters per line
+A character vector with 222 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 from_beyond
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "From Beyond"
+A dataset containing text of H. P. Lovecraft's "From Beyond"
 }
 \examples{
 data("from_beyond")

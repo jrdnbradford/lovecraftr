@@ -3,10 +3,9 @@
 \docType{data}
 \name{dagon}
 \alias{dagon}
-\title{"Dagon"}
+\title{Dataset of "Dagon"}
 \format{
-A character vector with 187 elements,
-  with roughly 80 characters per line
+A character vector with 187 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 dagon
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "Dagon"
+A dataset containing text of H. P. Lovecraft's "Dagon"
 }
 \examples{
 data("dagon")

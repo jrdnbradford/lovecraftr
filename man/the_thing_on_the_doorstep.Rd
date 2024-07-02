@@ -3,10 +3,9 @@
 \docType{data}
 \name{the_thing_on_the_doorstep}
 \alias{the_thing_on_the_doorstep}
-\title{"The Thing On The Doorstep"}
+\title{Dataset of "The Thing On The Doorstep"}
 \format{
-A character vector with 931 elements,
-  with roughly 80 characters per line
+A character vector with 931 elements, with roughly 80 characters per line
 }
 \source{
 Public domain
@@ -15,8 +14,7 @@ Public domain
 the_thing_on_the_doorstep
 }
 \description{
-A dataset containing UTF-8 plain text of
-  H. P. Lovecraft's "The Thing On The Doorstep"
+A dataset containing text of H. P. Lovecraft's "The Thing On The Doorstep"
 }
 \examples{
 data("the_thing_on_the_doorstep")
