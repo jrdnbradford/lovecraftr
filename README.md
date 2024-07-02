@@ -1,4 +1,4 @@
-# {lovecraftr} <img src="inst/stickers/signature.png" alt="H. P. Lovecraft's signature in an R package hexagon" width="175" align="right"/>
+# {lovecraftr} <img src="man/figures/logo.png" align="right" height="139" alt="H. P. Lovecraft's signature in an R package hexagon"/>
 
 [![R-CMD-check](https://github.com/jrdnbradford/lovecraftr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jrdnbradford/lovecraftr/actions/workflows/R-CMD-check.yaml)
 
