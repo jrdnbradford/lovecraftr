@@ -14,17 +14,6 @@ LazyData: true
 Depends:
     R (>= 2.10)
 Suggests:
-    devtools,
-    dplyr,
-    glue,
-    hexSticker,
-    readr,
-    precommit,
-    roxygen2,
-    scales,
-    stringr,
     testthat (>= 3.0.0),
-    tibble,
-    tidytext
 Config/testthat/edition: 3
 RoxygenNote: 7.3.2
