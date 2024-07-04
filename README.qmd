@@ -5,7 +5,7 @@ format: gfm
 
 <!-- README.md is rendered from README.qmd. Edit README.qmd and render to update README.md -->
 
-```{r options, echo=FALSE}
+```{R options, echo=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
@@ -29,17 +29,17 @@ This package contains H. P. Lovecraft's corpus as R datasets for textual analysi
 ## Usage
 
 Character vectors of individual works can be accessed in several ways:
-```{r dataset-cthulhu, output=TRUE, eval=TRUE}
+```{R dataset-cthulhu, output=TRUE, eval=TRUE}
 cthulhu <- lovecraftr::the_call_of_cthulhu
 head(cthulhu)
 ```
 or
-```{r data-cthulhu, echo=TRUE, eval=FALSE}
+```{R data-cthulhu, echo=TRUE, eval=FALSE}
 data("the_call_of_cthulhu")
 ```
 
 The entire corpus can be accessed as a tibble with:
-```{r lovecraft-tibble, output=TRUE, eval=TRUE}
+```{R lovecraft-tibble, output=TRUE, eval=TRUE}
 corpus <- lovecraftr::lovecraft_corpus()
 
 corpus |>
@@ -47,19 +47,19 @@ corpus |>
   head()
 ```
 or
-```{r data-lovecraft, echo=TRUE, eval=FALSE}
+```{R data-lovecraft, echo=TRUE, eval=FALSE}
 data("lovecraft")
 ```
 
 ## Installation
 
 Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using {[devtools](https://devtools.r-lib.org/)}:
-```{r devtools-install, echo=TRUE, eval=FALSE}
+```{R devtools-install, echo=TRUE, eval=FALSE}
 # install.packages("devtools")
 devtools::install_github("jrdnbradford/lovecraftr")
 ```
 or {[remotes](https://remotes.r-lib.org//)}:
-```{r remotes-install, echo=TRUE, eval=FALSE}
+```{R remotes-install, echo=TRUE, eval=FALSE}
 # install.packages("remotes")
 remotes::install_github("jrdnbradford/lovecraftr")
 ```
