@@ -30,6 +30,8 @@ jobs:
           packages:
             any::knitr
             any::rmarkdown
+          extra-packages:
+            local::.
 
       - name: Render README
         uses: quarto-dev/quarto-actions/render@v2
