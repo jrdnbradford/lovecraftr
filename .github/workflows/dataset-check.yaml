@@ -8,14 +8,14 @@ on:
     - 'data-raw/generate_data.R'
     - 'data-raw/corpus/*'
 
-name: Datasets
+name: dataset-check
 
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  render-README:
+  dataset-check:
     runs-on: ubuntu-latest
 
     steps:
@@ -35,6 +35,8 @@ jobs:
             any::scales
             any::usethis
             any::dplyr
+            any::readr
+            any::roxygen2
           extra-packages:
             local::.
 
