@@ -14,9 +14,10 @@ Contributions and fixes are welcome!
 
 1. Make your changes
 
-1. Run the [`generate_data.R`](/data-raw/generate_data.R) script
+    * Run the [`generate_data.R`](/data-raw/generate_data.R) script if you made changes to the raw txt files or data documentation
+    * Render [`README.md`](/README.md) from [`README.qmd`](/README.md) if you made changes to the `README`
 
-1. Ensure all [`testthat`](https://testthat.r-lib.org/) tests pass
+1. Ensure all {[`testthat`](https://testthat.r-lib.org/)} tests pass
     ```R
     devtools::test()
     ```
