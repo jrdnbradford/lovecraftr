@@ -6,10 +6,11 @@ on:
 name: render-README
 
 permissions:
-    contents: write
+  contents: write
+  pull-requests: write
 
 jobs:
-  build-deploy:
+  render-README:
     runs-on: ubuntu-latest
 
     steps:
