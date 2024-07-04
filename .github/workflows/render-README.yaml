@@ -1,8 +1,8 @@
 # Workflow derived from https://github.com/quarto-dev/quarto-actions/tree/v2/render
 on:
   push:
-    branches:
-      - '**'
+    pull_request:
+      branches: [main]
 
 name: render-README
 
