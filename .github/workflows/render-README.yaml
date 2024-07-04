@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+      - main
+
+name: render-README
+
+permissions:
+    contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          version: 1.6.1
+
+      - name: Render README
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: GHA - render `README.md`
+          title: Update `README.md`
