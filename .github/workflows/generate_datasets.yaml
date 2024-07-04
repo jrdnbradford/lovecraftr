@@ -1,5 +1,5 @@
 on:
-  push:
+  pull_request:
     paths:
     - 'data-raw/generate_data.R'
     - 'data-raw/corpus/'
