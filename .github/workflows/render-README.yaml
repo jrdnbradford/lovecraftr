@@ -30,6 +30,7 @@ jobs:
           packages:
             any::knitr
             any::rmarkdown
+            any::dplyr
           extra-packages:
             local::.
 
@@ -43,3 +44,5 @@ jobs:
         with:
           commit-message: GHA - render `README.md`
           title: Update `README.md`
+          body: Automated rendering of `README.qmd` by [create-pull-request](https://github.com/peter-evans/create-pull-request) GitHub action
+          labels: documentation
