@@ -42,5 +42,5 @@ jobs:
       - name: Update pull request
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: GHA - render `README.qmd`
+          commit_message: GHA - render `README` from `README.qmd`
           file_pattern: 'README.md'
