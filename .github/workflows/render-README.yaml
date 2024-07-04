@@ -24,6 +24,13 @@ jobs:
         with:
           version: 1.6.1
 
+      - name: Install dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages:
+            any::knitr
+            any::rmarkdown
+
       - name: Render README
         uses: quarto-dev/quarto-actions/render@v2
         with:
