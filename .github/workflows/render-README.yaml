@@ -39,7 +39,7 @@ jobs:
         with:
           path: README.qmd
 
-      - name: Update Pull Request
+      - name: Update pull request
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: GHA - render `README.qmd`
