@@ -43,4 +43,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: GHA - render `README.qmd`
-          file_pattern: 'READDME.md'
+          file_pattern: 'README.md'
