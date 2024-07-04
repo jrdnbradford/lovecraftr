@@ -26,6 +26,8 @@ jobs:
 
       - name: Render README
         uses: quarto-dev/quarto-actions/render@v2
+        with:
+          path: README.qmd
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
