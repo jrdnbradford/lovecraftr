@@ -32,11 +32,11 @@ Character vectors of individual works can be accessed in several ways:
 ``` r
 cthulhu <- lovecraftr::the_call_of_cthulhu
 head(cthulhu)
-#> [1] "THE CALL OF CTHULHU"
-#> [2] ""
+#> [1] "THE CALL OF CTHULHU"                                                            
+#> [2] ""                                                                               
 #> [3] "Of such great powers or beings there may be conceivably a survival...a survival"
-#> [4] "of a hugely remote period when...consciousness was manifested, perhaps, in"
-#> [5] "shapes and forms long since withdrawn before the tide of advancing"
+#> [4] "of a hugely remote period when...consciousness was manifested, perhaps, in"     
+#> [5] "shapes and forms long since withdrawn before the tide of advancing"             
 #> [6] "humanity...forms of which poetry and legend alone have caught a flying memory"
 ```
 
@@ -55,10 +55,10 @@ corpus |>
   dplyr::filter(title == "The Call Of Cthulhu") |>
   head()
 #> # A tibble: 6 × 2
-#>   title               text
-#>   <chr>               <chr>
-#> 1 The Call Of Cthulhu "THE CALL OF CTHULHU"
-#> 2 The Call Of Cthulhu ""
+#>   title               text                                                      
+#>   <chr>               <chr>                                                     
+#> 1 The Call Of Cthulhu "THE CALL OF CTHULHU"                                     
+#> 2 The Call Of Cthulhu ""                                                        
 #> 3 The Call Of Cthulhu "Of such great powers or beings there may be conceivably …
 #> 4 The Call Of Cthulhu "of a hugely remote period when...consciousness was manif…
 #> 5 The Call Of Cthulhu "shapes and forms long since withdrawn before the tide of…
@@ -90,4 +90,4 @@ remotes::install_github("jrdnbradford/lovecraftr")
 
 ## Contributing
 
-See [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
+See [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
