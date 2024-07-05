@@ -3,6 +3,9 @@ on:
   push:
     paths:
     - 'README.qmd'
+  pull_request:
+    paths:
+    - 'README.qmd'
 
 name: README-check
 
