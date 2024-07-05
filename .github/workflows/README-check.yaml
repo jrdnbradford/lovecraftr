@@ -35,6 +35,7 @@ jobs:
             any::devtools
             any::dplyr
             any::knitr
+            any::readr
             any::rmarkdown
             any::tibble
           extra-packages:
