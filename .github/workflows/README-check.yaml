@@ -1,8 +1,5 @@
 # Workflow derived from https://github.com/quarto-dev/quarto-actions/tree/v2/render
 on:
-  push:
-    paths:
-    - 'README.qmd'
   pull_request:
     paths:
     - 'README.qmd'
