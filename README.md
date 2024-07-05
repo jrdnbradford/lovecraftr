@@ -92,8 +92,8 @@ data("lovecraft")
 
 ## Contributing
 
-See [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
+See [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
 
 ## Changelog
 
-See [CHANGELOG.md](/CHANGELOG.md)
+See [CHANGELOG.md](./CHANGELOG.md)
