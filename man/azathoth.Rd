@@ -3,7 +3,7 @@
 \docType{data}
 \name{azathoth}
 \alias{azathoth}
-\title{Dataset of "Azathoth"}
+\title{Dataset of "AZATHOTH"}
 \format{
 A character vector with 37 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 azathoth
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Azathoth"
+A dataset containing text of H. P. Lovecraft's "AZATHOTH"
 }
 \examples{
 data("azathoth")

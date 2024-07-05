@@ -3,7 +3,7 @@
 \docType{data}
 \name{beyond_the_wall_of_sleep}
 \alias{beyond_the_wall_of_sleep}
-\title{Dataset of "Beyond The Wall Of Sleep"}
+\title{Dataset of "BEYOND THE WALL OF SLEEP"}
 \format{
 A character vector with 361 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 beyond_the_wall_of_sleep
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Beyond The Wall Of Sleep"
+A dataset containing text of H. P. Lovecraft's "BEYOND THE WALL OF SLEEP"
 }
 \examples{
 data("beyond_the_wall_of_sleep")

@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_beast_in_the_cave}
 \alias{the_beast_in_the_cave}
-\title{Dataset of "The Beast In The Cave"}
+\title{Dataset of "THE BEAST IN THE CAVE"}
 \format{
 A character vector with 204 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_beast_in_the_cave
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Beast In The Cave"
+A dataset containing text of H. P. Lovecraft's "THE BEAST IN THE CAVE"
 }
 \examples{
 data("the_beast_in_the_cave")

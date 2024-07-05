@@ -3,7 +3,7 @@
 \docType{data}
 \name{imprisoned_with_the_pharoahs}
 \alias{imprisoned_with_the_pharoahs}
-\title{Dataset of "Imprisoned With The Pharaohs"}
+\title{Dataset of "IMPRISONED WITH THE PHARAOHS"}
 \format{
 A character vector with 948 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 imprisoned_with_the_pharoahs
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Imprisoned With The Pharaohs"
+A dataset containing text of H. P. Lovecraft's "IMPRISONED WITH THE PHARAOHS"
 }
 \examples{
 data("imprisoned_with_the_pharoahs")

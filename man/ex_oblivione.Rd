@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex_oblivione}
 \alias{ex_oblivione}
-\title{Dataset of "Ex Oblivione"}
+\title{Dataset of "EX OBLIVIONE"}
 \format{
 A character vector with 66 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 ex_oblivione
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Ex Oblivione"
+A dataset containing text of H. P. Lovecraft's "EX OBLIVIONE"
 }
 \examples{
 data("ex_oblivione")

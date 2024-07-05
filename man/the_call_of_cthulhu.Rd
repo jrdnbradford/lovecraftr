@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_call_of_cthulhu}
 \alias{the_call_of_cthulhu}
-\title{Dataset of "The Call Of Cthulhu"}
+\title{Dataset of "THE CALL OF CTHULHU"}
 \format{
 A character vector with 1,030 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_call_of_cthulhu
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Call Of Cthulhu"
+A dataset containing text of H. P. Lovecraft's "THE CALL OF CTHULHU"
 }
 \examples{
 data("the_call_of_cthulhu")

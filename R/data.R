@@ -2,9 +2,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "At The Mountains Of Madness"
+#' @title Dataset of "AT THE MOUNTAINS OF MADNESS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "At The Mountains Of Madness"
+#' @description A dataset containing text of H. P. Lovecraft's "AT THE MOUNTAINS OF MADNESS"
 #'
 #' @examples
 #' data("at_the_mountains_of_madness")
@@ -20,9 +20,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Azathoth"
+#' @title Dataset of "AZATHOTH"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Azathoth"
+#' @description A dataset containing text of H. P. Lovecraft's "AZATHOTH"
 #'
 #' @examples
 #' data("azathoth")
@@ -38,9 +38,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Beyond The Wall Of Sleep"
+#' @title Dataset of "BEYOND THE WALL OF SLEEP"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Beyond The Wall Of Sleep"
+#' @description A dataset containing text of H. P. Lovecraft's "BEYOND THE WALL OF SLEEP"
 #'
 #' @examples
 #' data("beyond_the_wall_of_sleep")
@@ -56,9 +56,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Celephais"
+#' @title Dataset of "CELEPHAIS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Celephais"
+#' @description A dataset containing text of H. P. Lovecraft's "CELEPHAIS"
 #'
 #' @examples
 #' data("celephais")
@@ -74,9 +74,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Cool Air"
+#' @title Dataset of "COOL AIR"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Cool Air"
+#' @description A dataset containing text of H. P. Lovecraft's "COOL AIR"
 #'
 #' @examples
 #' data("cool_air")
@@ -92,9 +92,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Dagon"
+#' @title Dataset of "DAGON"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Dagon"
+#' @description A dataset containing text of H. P. Lovecraft's "DAGON"
 #'
 #' @examples
 #' data("dagon")
@@ -110,9 +110,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Dreams In The Witch-House"
+#' @title Dataset of "DREAMS IN THE WITCH-HOUSE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Dreams In The Witch-House"
+#' @description A dataset containing text of H. P. Lovecraft's "DREAMS IN THE WITCH-HOUSE"
 #'
 #' @examples
 #' data("dreams_in_the_witch_house")
@@ -128,9 +128,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Ex Oblivione"
+#' @title Dataset of "EX OBLIVIONE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Ex Oblivione"
+#' @description A dataset containing text of H. P. Lovecraft's "EX OBLIVIONE"
 #'
 #' @examples
 #' data("ex_oblivione")
@@ -146,9 +146,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Facts Concerning The Late Arthur Jermyn And His Family"
+#' @title Dataset of "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Facts Concerning The Late Arthur Jermyn And His Family"
+#' @description A dataset containing text of H. P. Lovecraft's "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
 #'
 #' @examples
 #' data("facts_concerning_the_late_arthur_jermyn_and_his_family")
@@ -164,9 +164,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "From Beyond"
+#' @title Dataset of "FROM BEYOND"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "From Beyond"
+#' @description A dataset containing text of H. P. Lovecraft's "FROM BEYOND"
 #'
 #' @examples
 #' data("from_beyond")
@@ -182,9 +182,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "He"
+#' @title Dataset of "HE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "He"
+#' @description A dataset containing text of H. P. Lovecraft's "HE"
 #'
 #' @examples
 #' data("he")
@@ -200,9 +200,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Herbert West: Reanimator"
+#' @title Dataset of "HERBERT WEST: REANIMATOR"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Herbert West: Reanimator"
+#' @description A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
 #'
 #' @examples
 #' data("herbert_west_reanimator")
@@ -218,9 +218,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Hypnos"
+#' @title Dataset of "HYPNOS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Hypnos"
+#' @description A dataset containing text of H. P. Lovecraft's "HYPNOS"
 #'
 #' @examples
 #' data("hypnos")
@@ -236,9 +236,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Imprisoned With The Pharaohs"
+#' @title Dataset of "IMPRISONED WITH THE PHARAOHS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Imprisoned With The Pharaohs"
+#' @description A dataset containing text of H. P. Lovecraft's "IMPRISONED WITH THE PHARAOHS"
 #'
 #' @examples
 #' data("imprisoned_with_the_pharoahs")
@@ -254,9 +254,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "In The Vault"
+#' @title Dataset of "IN THE VAULT"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "In The Vault"
+#' @description A dataset containing text of H. P. Lovecraft's "IN THE VAULT"
 #'
 #' @examples
 #' data("in_the_vault")
@@ -272,9 +272,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Medusa's Coil"
+#' @title Dataset of "MEDUSA'S COIL"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Medusa's Coil"
+#' @description A dataset containing text of H. P. Lovecraft's "MEDUSA'S COIL"
 #'
 #' @examples
 #' data("medusas_coil")
@@ -290,9 +290,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Memory"
+#' @title Dataset of "MEMORY"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Memory"
+#' @description A dataset containing text of H. P. Lovecraft's "MEMORY"
 #'
 #' @examples
 #' data("memory")
@@ -308,9 +308,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Nyarlathotep"
+#' @title Dataset of "NYARLATHOTEP"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Nyarlathotep"
+#' @description A dataset containing text of H. P. Lovecraft's "NYARLATHOTEP"
 #'
 #' @examples
 #' data("nyarlathotep")
@@ -326,9 +326,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Pickman's Model"
+#' @title Dataset of "PICKMAN'S MODEL"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Pickman's Model"
+#' @description A dataset containing text of H. P. Lovecraft's "PICKMAN'S MODEL"
 #'
 #' @examples
 #' data("pickmans_model")
@@ -344,9 +344,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Poetry Of The Gods"
+#' @title Dataset of "POETRY OF THE GODS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Poetry Of The Gods"
+#' @description A dataset containing text of H. P. Lovecraft's "POETRY OF THE GODS"
 #'
 #' @examples
 #' data("poetry_of_the_gods")
@@ -362,9 +362,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Polaris"
+#' @title Dataset of "POLARIS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Polaris"
+#' @description A dataset containing text of H. P. Lovecraft's "POLARIS"
 #'
 #' @examples
 #' data("polaris")
@@ -380,9 +380,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Alchemist"
+#' @title Dataset of "THE ALCHEMIST"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Alchemist"
+#' @description A dataset containing text of H. P. Lovecraft's "THE ALCHEMIST"
 #'
 #' @examples
 #' data("the_alchemist")
@@ -398,9 +398,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Beast In The Cave"
+#' @title Dataset of "THE BEAST IN THE CAVE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Beast In The Cave"
+#' @description A dataset containing text of H. P. Lovecraft's "THE BEAST IN THE CAVE"
 #'
 #' @examples
 #' data("the_beast_in_the_cave")
@@ -416,9 +416,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Book"
+#' @title Dataset of "THE BOOK"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Book"
+#' @description A dataset containing text of H. P. Lovecraft's "THE BOOK"
 #'
 #' @examples
 #' data("the_book")
@@ -434,9 +434,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Call Of Cthulhu"
+#' @title Dataset of "THE CALL OF CTHULHU"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Call Of Cthulhu"
+#' @description A dataset containing text of H. P. Lovecraft's "THE CALL OF CTHULHU"
 #'
 #' @examples
 #' data("the_call_of_cthulhu")
@@ -452,9 +452,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Case Of Charles Dexter Ward"
+#' @title Dataset of "THE CASE OF CHARLES DEXTER WARD"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Case Of Charles Dexter Ward"
+#' @description A dataset containing text of H. P. Lovecraft's "THE CASE OF CHARLES DEXTER WARD"
 #'
 #' @examples
 #' data("the_case_of_charles_dexter_ward")
@@ -470,9 +470,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Cats Of Ulthar"
+#' @title Dataset of "THE CATS OF ULTHAR"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Cats Of Ulthar"
+#' @description A dataset containing text of H. P. Lovecraft's "THE CATS OF ULTHAR"
 #'
 #' @examples
 #' data("the_cats_of_ulthar")
@@ -488,9 +488,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Colour Out Of Space"
+#' @title Dataset of "THE COLOUR OUT OF SPACE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Colour Out Of Space"
+#' @description A dataset containing text of H. P. Lovecraft's "THE COLOUR OUT OF SPACE"
 #'
 #' @examples
 #' data("the_colour_out_of_space")
@@ -506,9 +506,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Crawling Chaos"
+#' @title Dataset of "THE CRAWLING CHAOS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Crawling Chaos"
+#' @description A dataset containing text of H. P. Lovecraft's "THE CRAWLING CHAOS"
 #'
 #' @examples
 #' data("the_crawling_chaos")
@@ -524,9 +524,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Descendant"
+#' @title Dataset of "THE DESCENDANT"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Descendant"
+#' @description A dataset containing text of H. P. Lovecraft's "THE DESCENDANT"
 #'
 #' @examples
 #' data("the_descendent")
@@ -542,9 +542,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Doom That Came To Sarnath"
+#' @title Dataset of "THE DOOM THAT CAME TO SARNATH"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Doom That Came To Sarnath"
+#' @description A dataset containing text of H. P. Lovecraft's "THE DOOM THAT CAME TO SARNATH"
 #'
 #' @examples
 #' data("the_doom_that_came_to_sarnath")
@@ -560,9 +560,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Dream Quest Of Unknown Kadath"
+#' @title Dataset of "THE DREAM QUEST OF UNKNOWN KADATH"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Dream Quest Of Unknown Kadath"
+#' @description A dataset containing text of H. P. Lovecraft's "THE DREAM QUEST OF UNKNOWN KADATH"
 #'
 #' @examples
 #' data("the_dream_quest_of_unknown_kadath")
@@ -578,9 +578,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Dunwich Horror"
+#' @title Dataset of "THE DUNWICH HORROR"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Dunwich Horror"
+#' @description A dataset containing text of H. P. Lovecraft's "THE DUNWICH HORROR"
 #'
 #' @examples
 #' data("the_dunwich_horror")
@@ -596,9 +596,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Evil Clergyman"
+#' @title Dataset of "THE EVIL CLERGYMAN"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Evil Clergyman"
+#' @description A dataset containing text of H. P. Lovecraft's "THE EVIL CLERGYMAN"
 #'
 #' @examples
 #' data("the_evil_clergyman")
@@ -614,9 +614,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Festival"
+#' @title Dataset of "THE FESTIVAL"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Festival"
+#' @description A dataset containing text of H. P. Lovecraft's "THE FESTIVAL"
 #'
 #' @examples
 #' data("the_festival")
@@ -632,9 +632,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Haunter Of The Dark"
+#' @title Dataset of "THE HAUNTER OF THE DARK"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Haunter Of The Dark"
+#' @description A dataset containing text of H. P. Lovecraft's "THE HAUNTER OF THE DARK"
 #'
 #' @examples
 #' data("the_haunter_of_the_dark")
@@ -650,9 +650,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Horror At Martin's Beach"
+#' @title Dataset of "THE HORROR AT MARTIN'S BEACH"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Horror At Martin's Beach"
+#' @description A dataset containing text of H. P. Lovecraft's "THE HORROR AT MARTIN'S BEACH"
 #'
 #' @examples
 #' data("the_horror_at_martins_beach")
@@ -668,9 +668,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Horror At Red Hook"
+#' @title Dataset of "THE HORROR AT RED HOOK"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Horror At Red Hook"
+#' @description A dataset containing text of H. P. Lovecraft's "THE HORROR AT RED HOOK"
 #'
 #' @examples
 #' data("the_horror_at_redhook")
@@ -686,9 +686,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Hound"
+#' @title Dataset of "THE HOUND"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Hound"
+#' @description A dataset containing text of H. P. Lovecraft's "THE HOUND"
 #'
 #' @examples
 #' data("the_hound")
@@ -704,9 +704,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Lurking Fear"
+#' @title Dataset of "THE LURKING FEAR"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Lurking Fear"
+#' @description A dataset containing text of H. P. Lovecraft's "THE LURKING FEAR"
 #'
 #' @examples
 #' data("the_lurking_fear")
@@ -722,9 +722,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Moon Bog"
+#' @title Dataset of "THE MOON BOG"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Moon Bog"
+#' @description A dataset containing text of H. P. Lovecraft's "THE MOON BOG"
 #'
 #' @examples
 #' data("the_moon_bog")
@@ -740,9 +740,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Music Of Erich Zann"
+#' @title Dataset of "THE MUSIC OF ERICH ZANN"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Music Of Erich Zann"
+#' @description A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
 #'
 #' @examples
 #' data("the_music_of_erich_zann")
@@ -758,9 +758,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Nameless City"
+#' @title Dataset of "THE NAMELESS CITY"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Nameless City"
+#' @description A dataset containing text of H. P. Lovecraft's "THE NAMELESS CITY"
 #'
 #' @examples
 #' data("the_nameless_city")
@@ -776,9 +776,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Other Gods"
+#' @title Dataset of "THE OTHER GODS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Other Gods"
+#' @description A dataset containing text of H. P. Lovecraft's "THE OTHER GODS"
 #'
 #' @examples
 #' data("the_other_gods")
@@ -794,9 +794,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Outsider"
+#' @title Dataset of "THE OUTSIDER"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Outsider"
+#' @description A dataset containing text of H. P. Lovecraft's "THE OUTSIDER"
 #'
 #' @examples
 #' data("the_outsider")
@@ -812,9 +812,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Picture In The House"
+#' @title Dataset of "THE PICTURE IN THE HOUSE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Picture In The House"
+#' @description A dataset containing text of H. P. Lovecraft's "THE PICTURE IN THE HOUSE"
 #'
 #' @examples
 #' data("the_picture_in_the_house")
@@ -830,9 +830,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Quest Of Iranon"
+#' @title Dataset of "THE QUEST OF IRANON"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Quest Of Iranon"
+#' @description A dataset containing text of H. P. Lovecraft's "THE QUEST OF IRANON"
 #'
 #' @examples
 #' data("the_quest_of_iranon")
@@ -848,9 +848,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Rats In The Walls"
+#' @title Dataset of "THE RATS IN THE WALLS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Rats In The Walls"
+#' @description A dataset containing text of H. P. Lovecraft's "THE RATS IN THE WALLS"
 #'
 #' @examples
 #' data("the_rats_in_the_walls")
@@ -866,9 +866,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Shadow Out Of Time"
+#' @title Dataset of "THE SHADOW OUT OF TIME"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Shadow Out Of Time"
+#' @description A dataset containing text of H. P. Lovecraft's "THE SHADOW OUT OF TIME"
 #'
 #' @examples
 #' data("the_shadow_out_of_time")
@@ -884,9 +884,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Shadow Over Innsmouth"
+#' @title Dataset of "THE SHADOW OVER INNSMOUTH"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Shadow Over Innsmouth"
+#' @description A dataset containing text of H. P. Lovecraft's "THE SHADOW OVER INNSMOUTH"
 #'
 #' @examples
 #' data("the_shadow_over_innsmouth")
@@ -902,9 +902,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Shunned House"
+#' @title Dataset of "THE SHUNNED HOUSE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Shunned House"
+#' @description A dataset containing text of H. P. Lovecraft's "THE SHUNNED HOUSE"
 #'
 #' @examples
 #' data("the_shunned_house")
@@ -920,9 +920,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Silver Key"
+#' @title Dataset of "THE SILVER KEY"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Silver Key"
+#' @description A dataset containing text of H. P. Lovecraft's "THE SILVER KEY"
 #'
 #' @examples
 #' data("the_silver_key")
@@ -938,9 +938,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Statement Of Randolph Carter"
+#' @title Dataset of "THE STATEMENT OF RANDOLPH CARTER"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Statement Of Randolph Carter"
+#' @description A dataset containing text of H. P. Lovecraft's "THE STATEMENT OF RANDOLPH CARTER"
 #'
 #' @examples
 #' data("the_statement_of_randolph_carter")
@@ -956,9 +956,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Strange High House In The Mist"
+#' @title Dataset of "THE STRANGE HIGH HOUSE IN THE MIST"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Strange High House In The Mist"
+#' @description A dataset containing text of H. P. Lovecraft's "THE STRANGE HIGH HOUSE IN THE MIST"
 #'
 #' @examples
 #' data("the_strange_high_house_in_the_mist")
@@ -974,9 +974,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Street"
+#' @title Dataset of "THE STREET"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Street"
+#' @description A dataset containing text of H. P. Lovecraft's "THE STREET"
 #'
 #' @examples
 #' data("the_street")
@@ -992,9 +992,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Temple"
+#' @title Dataset of "THE TEMPLE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Temple"
+#' @description A dataset containing text of H. P. Lovecraft's "THE TEMPLE"
 #'
 #' @examples
 #' data("the_temple")
@@ -1010,9 +1010,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Terrible Old Man"
+#' @title Dataset of "THE TERRIBLE OLD MAN"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Terrible Old Man"
+#' @description A dataset containing text of H. P. Lovecraft's "THE TERRIBLE OLD MAN"
 #'
 #' @examples
 #' data("the_terrible_old_man")
@@ -1028,9 +1028,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Thing On The Doorstep"
+#' @title Dataset of "THE THING ON THE DOORSTEP"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Thing On The Doorstep"
+#' @description A dataset containing text of H. P. Lovecraft's "THE THING ON THE DOORSTEP"
 #'
 #' @examples
 #' data("the_thing_on_the_doorstep")
@@ -1046,9 +1046,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Tomb"
+#' @title Dataset of "THE TOMB"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Tomb"
+#' @description A dataset containing text of H. P. Lovecraft's "THE TOMB"
 #'
 #' @examples
 #' data("the_tomb")
@@ -1064,9 +1064,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Transition Of Juan Romero"
+#' @title Dataset of "THE TRANSITION OF JUAN ROMERO"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Transition Of Juan Romero"
+#' @description A dataset containing text of H. P. Lovecraft's "THE TRANSITION OF JUAN ROMERO"
 #'
 #' @examples
 #' data("the_transition_of_juan_romero")
@@ -1082,9 +1082,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Tree"
+#' @title Dataset of "THE TREE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Tree"
+#' @description A dataset containing text of H. P. Lovecraft's "THE TREE"
 #'
 #' @examples
 #' data("the_tree")
@@ -1100,9 +1100,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Unnamable"
+#' @title Dataset of "THE UNNAMABLE"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Unnamable"
+#' @description A dataset containing text of H. P. Lovecraft's "THE UNNAMABLE"
 #'
 #' @examples
 #' data("the_unnamable")
@@ -1118,9 +1118,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Very Old Folk"
+#' @title Dataset of "THE VERY OLD FOLK"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Very Old Folk"
+#' @description A dataset containing text of H. P. Lovecraft's "THE VERY OLD FOLK"
 #'
 #' @examples
 #' data("the_very_old_folk")
@@ -1136,9 +1136,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Whisperer In Darkness"
+#' @title Dataset of "THE WHISPERER IN DARKNESS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The Whisperer In Darkness"
+#' @description A dataset containing text of H. P. Lovecraft's "THE WHISPERER IN DARKNESS"
 #'
 #' @examples
 #' data("the_whisperer_in_darkness")
@@ -1154,9 +1154,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The White Ship"
+#' @title Dataset of "THE WHITE SHIP"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "The White Ship"
+#' @description A dataset containing text of H. P. Lovecraft's "THE WHITE SHIP"
 #'
 #' @examples
 #' data("the_white_ship")
@@ -1172,9 +1172,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Through The Gates Of The Silver Key"
+#' @title Dataset of "THROUGH THE GATES OF THE SILVER KEY"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "Through The Gates Of The Silver Key"
+#' @description A dataset containing text of H. P. Lovecraft's "THROUGH THE GATES OF THE SILVER KEY"
 #'
 #' @examples
 #' data("through_the_gates_of_the_silver_key")
@@ -1190,9 +1190,9 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "What The Moon Brings"
+#' @title Dataset of "WHAT THE MOON BRINGS"
 #'
-#' @description A dataset containing text of H. P. Lovecraft's "What The Moon Brings"
+#' @description A dataset containing text of H. P. Lovecraft's "WHAT THE MOON BRINGS"
 #'
 #' @examples
 #' data("what_the_moon_brings")

@@ -3,7 +3,7 @@
 \docType{data}
 \name{he}
 \alias{he}
-\title{Dataset of "He"}
+\title{Dataset of "HE"}
 \format{
 A character vector with 360 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 he
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "He"
+A dataset containing text of H. P. Lovecraft's "HE"
 }
 \examples{
 data("he")

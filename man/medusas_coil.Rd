@@ -3,7 +3,7 @@
 \docType{data}
 \name{medusas_coil}
 \alias{medusas_coil}
-\title{Dataset of "Medusa's Coil"}
+\title{Dataset of "MEDUSA'S COIL"}
 \format{
 A character vector with 1,443 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 medusas_coil
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Medusa's Coil"
+A dataset containing text of H. P. Lovecraft's "MEDUSA'S COIL"
 }
 \examples{
 data("medusas_coil")

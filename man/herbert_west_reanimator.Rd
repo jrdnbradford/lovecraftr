@@ -3,7 +3,7 @@
 \docType{data}
 \name{herbert_west_reanimator}
 \alias{herbert_west_reanimator}
-\title{Dataset of "Herbert West: Reanimator"}
+\title{Dataset of "HERBERT WEST: REANIMATOR"}
 \format{
 A character vector with 1,053 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 herbert_west_reanimator
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Herbert West: Reanimator"
+A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
 }
 \examples{
 data("herbert_west_reanimator")

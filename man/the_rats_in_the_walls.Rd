@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_rats_in_the_walls}
 \alias{the_rats_in_the_walls}
-\title{Dataset of "The Rats In The Walls"}
+\title{Dataset of "THE RATS IN THE WALLS"}
 \format{
 A character vector with 691 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_rats_in_the_walls
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Rats In The Walls"
+A dataset containing text of H. P. Lovecraft's "THE RATS IN THE WALLS"
 }
 \examples{
 data("the_rats_in_the_walls")

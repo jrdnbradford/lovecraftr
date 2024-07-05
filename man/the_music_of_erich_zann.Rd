@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_music_of_erich_zann}
 \alias{the_music_of_erich_zann}
-\title{Dataset of "The Music Of Erich Zann"}
+\title{Dataset of "THE MUSIC OF ERICH ZANN"}
 \format{
 A character vector with 285 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_music_of_erich_zann
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Music Of Erich Zann"
+A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
 }
 \examples{
 data("the_music_of_erich_zann")
