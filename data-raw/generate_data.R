@@ -42,10 +42,7 @@ for (txt in corpus) {
   assign(txt, text)
   do.call(usethis::use_data, list(dataset_name, overwrite = TRUE))
 
-  title <- text |>
-    head(1) |>
-    stringr::str_to_title()
-
+  title <- head(text, 1)
   dataset_docs <- glue::glue(docs_template)
   docs <- c(docs, dataset_docs)
 

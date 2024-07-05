@@ -3,7 +3,7 @@
 \docType{data}
 \name{memory}
 \alias{memory}
-\title{Dataset of "Memory"}
+\title{Dataset of "MEMORY"}
 \format{
 A character vector with 31 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 memory
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Memory"
+A dataset containing text of H. P. Lovecraft's "MEMORY"
 }
 \examples{
 data("memory")

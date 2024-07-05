@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_nameless_city}
 \alias{the_nameless_city}
-\title{Dataset of "The Nameless City"}
+\title{Dataset of "THE NAMELESS CITY"}
 \format{
 A character vector with 418 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_nameless_city
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Nameless City"
+A dataset containing text of H. P. Lovecraft's "THE NAMELESS CITY"
 }
 \examples{
 data("the_nameless_city")

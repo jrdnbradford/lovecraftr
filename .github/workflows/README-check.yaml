@@ -1,8 +1,5 @@
 # Workflow derived from https://github.com/quarto-dev/quarto-actions/tree/v2/render
 on:
-  push:
-    paths:
-    - 'README.qmd'
   pull_request:
     paths:
     - 'README.qmd'
@@ -32,9 +29,12 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages:
-            any::knitr
-            any::rmarkdown
+            any::devtools
             any::dplyr
+            any::knitr
+            any::readr
+            any::rmarkdown
+            any::tibble
           extra-packages:
             local::.
 

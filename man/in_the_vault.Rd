@@ -3,7 +3,7 @@
 \docType{data}
 \name{in_the_vault}
 \alias{in_the_vault}
-\title{Dataset of "In The Vault"}
+\title{Dataset of "IN THE VAULT"}
 \format{
 A character vector with 272 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 in_the_vault
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "In The Vault"
+A dataset containing text of H. P. Lovecraft's "IN THE VAULT"
 }
 \examples{
 data("in_the_vault")

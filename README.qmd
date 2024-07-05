@@ -24,9 +24,23 @@ knitr::opts_chunk$set(
 
 -[H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft), *The Call of Cthulhu*
 
-## H. P. Lovecraft Datasets
+{`lovecraftr`} contains H. P. Lovecraft's corpus as R datasets for textual analysis. This repository contains both the raw txt files and RDA files. See [H. P. Lovecraft Datasets](#h-p-lovecraft-datasets) below for the list of available works.
 
-This package contains H. P. Lovecraft's corpus as R datasets for textual analysis.
+## Installation
+
+```{R load-package, echo=FALSE}
+devtools::load_all()
+```
+Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using {[devtools](https://devtools.r-lib.org/)}:
+```{R devtools-install, echo=TRUE, eval=FALSE, output=FALSE}
+# install.packages("devtools")
+devtools::install_github("jrdnbradford/lovecraftr")
+```
+or {[remotes](https://remotes.r-lib.org//)}:
+```{R remotes-install, echo=TRUE, eval=FALSE, output=FALSE}
+# install.packages("remotes")
+remotes::install_github("jrdnbradford/lovecraftr")
+```
 
 ## Usage
 
@@ -45,7 +59,7 @@ The entire corpus can be accessed as a tibble with:
 corpus <- lovecraftr::lovecraft_corpus()
 
 corpus |>
-  dplyr::filter(title == "The Call Of Cthulhu") |>
+  dplyr::filter(title == "THE CALL OF CTHULHU") |>
   head()
 ```
 or
@@ -53,19 +67,27 @@ or
 data("lovecraft")
 ```
 
-## Installation
-
-Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using {[devtools](https://devtools.r-lib.org/)}:
-```{R devtools-install, echo=TRUE, eval=FALSE}
-# install.packages("devtools")
-devtools::install_github("jrdnbradford/lovecraftr")
-```
-or {[remotes](https://remotes.r-lib.org//)}:
-```{R remotes-install, echo=TRUE, eval=FALSE}
-# install.packages("remotes")
-remotes::install_github("jrdnbradford/lovecraftr")
-```
-
 ## Contributing
 
 See [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
+
+## H. P. Lovecraft Datasets
+
+```{R file-table-setup, output=FALSE, echo=FALSE, eval=TRUE}
+raw_files <- list.files(file.path("data-raw", "corpus"), full.names = TRUE)
+titles <- readr::read_lines(raw_files, n_max = 1)
+datasets <- list.files("data", full.names = TRUE)
+path_to_remove <- "data/lovecraft.rda"
+datasets <- setdiff(datasets, path_to_remove)
+
+files <- tibble::tibble(
+  Title = titles,
+  TXT = paste0("[TXT](./", raw_files, ")"),
+  RDA = paste0("[RDA](./", datasets, ")")
+)
+```
+
+```{R file-table, output=TRUE, echo=FALSE, eval=TRUE}
+files |>
+  knitr::kable()
+```

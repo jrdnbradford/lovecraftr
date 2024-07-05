@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_street}
 \alias{the_street}
-\title{Dataset of "The Street"}
+\title{Dataset of "THE STREET"}
 \format{
 A character vector with 183 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_street
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Street"
+A dataset containing text of H. P. Lovecraft's "THE STREET"
 }
 \examples{
 data("the_street")

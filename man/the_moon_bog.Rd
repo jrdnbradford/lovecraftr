@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_moon_bog}
 \alias{the_moon_bog}
-\title{Dataset of "The Moon Bog"}
+\title{Dataset of "THE MOON BOG"}
 \format{
 A character vector with 266 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_moon_bog
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Moon Bog"
+A dataset containing text of H. P. Lovecraft's "THE MOON BOG"
 }
 \examples{
 data("the_moon_bog")
