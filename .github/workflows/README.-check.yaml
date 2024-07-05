@@ -4,14 +4,14 @@ on:
     paths:
     - 'README.qmd'
 
-name: render-README
+name: README-check
 
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  render-README:
+  README-check:
     runs-on: ubuntu-latest
 
     steps:
