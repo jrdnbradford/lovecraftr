@@ -34,14 +34,15 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages:
-            any::glue
-            any::scales
-            any::usethis
             any::dplyr
-            any::readr
-            any::tibble
-            any::roxygen2
+            any::glue
             any::lubridate
+            any::readr
+            any::rmarkdown
+            any::roxygen2
+            any::scales
+            any::tibble
+            any::usethis
           extra-packages:
             local::.
 
