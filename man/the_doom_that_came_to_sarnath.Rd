@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_doom_that_came_to_sarnath}
 \alias{the_doom_that_came_to_sarnath}
-\title{Dataset of "The Doom That Came To Sarnath"}
+\title{Dataset of "THE DOOM THAT CAME TO SARNATH"}
 \format{
 A character vector with 218 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_doom_that_came_to_sarnath
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Doom That Came To Sarnath"
+A dataset containing text of H. P. Lovecraft's "THE DOOM THAT CAME TO SARNATH"
 }
 \examples{
 data("the_doom_that_came_to_sarnath")

@@ -3,7 +3,7 @@
 \docType{data}
 \name{polaris}
 \alias{polaris}
-\title{Dataset of "Polaris"}
+\title{Dataset of "POLARIS"}
 \format{
 A character vector with 129 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 polaris
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Polaris"
+A dataset containing text of H. P. Lovecraft's "POLARIS"
 }
 \examples{
 data("polaris")

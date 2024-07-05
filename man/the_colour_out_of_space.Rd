@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_colour_out_of_space}
 \alias{the_colour_out_of_space}
-\title{Dataset of "The Colour Out Of Space"}
+\title{Dataset of "THE COLOUR OUT OF SPACE"}
 \format{
 A character vector with 967 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_colour_out_of_space
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Colour Out Of Space"
+A dataset containing text of H. P. Lovecraft's "THE COLOUR OUT OF SPACE"
 }
 \examples{
 data("the_colour_out_of_space")

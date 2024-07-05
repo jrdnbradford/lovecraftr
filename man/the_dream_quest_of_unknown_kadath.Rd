@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_dream_quest_of_unknown_kadath}
 \alias{the_dream_quest_of_unknown_kadath}
-\title{Dataset of "The Dream Quest Of Unknown Kadath"}
+\title{Dataset of "THE DREAM QUEST OF UNKNOWN KADATH"}
 \format{
 A character vector with 3,475 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_dream_quest_of_unknown_kadath
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Dream Quest Of Unknown Kadath"
+A dataset containing text of H. P. Lovecraft's "THE DREAM QUEST OF UNKNOWN KADATH"
 }
 \examples{
 data("the_dream_quest_of_unknown_kadath")

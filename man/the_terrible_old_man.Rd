@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_terrible_old_man}
 \alias{the_terrible_old_man}
-\title{Dataset of "The Terrible Old Man"}
+\title{Dataset of "THE TERRIBLE OLD MAN"}
 \format{
 A character vector with 87 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_terrible_old_man
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Terrible Old Man"
+A dataset containing text of H. P. Lovecraft's "THE TERRIBLE OLD MAN"
 }
 \examples{
 data("the_terrible_old_man")

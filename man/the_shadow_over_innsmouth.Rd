@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_shadow_over_innsmouth}
 \alias{the_shadow_over_innsmouth}
-\title{Dataset of "The Shadow Over Innsmouth"}
+\title{Dataset of "THE SHADOW OVER INNSMOUTH"}
 \format{
 A character vector with 2,318 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_shadow_over_innsmouth
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Shadow Over Innsmouth"
+A dataset containing text of H. P. Lovecraft's "THE SHADOW OVER INNSMOUTH"
 }
 \examples{
 data("the_shadow_over_innsmouth")

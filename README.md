@@ -27,6 +27,23 @@ Call of Cthulhu*
 This package contains H. P. Lovecraft’s corpus as R datasets for textual
 analysis.
 
+## Installation
+
+Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using
+{[devtools](https://devtools.r-lib.org/)}:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("jrdnbradford/lovecraftr")
+```
+
+or {[remotes](https://remotes.r-lib.org//)}:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("jrdnbradford/lovecraftr")
+```
+
 ## Usage
 
 Character vectors of individual works can be accessed in several ways:
@@ -54,17 +71,17 @@ The entire corpus can be accessed as a tibble with:
 corpus <- lovecraftr::lovecraft_corpus()
 
 corpus |>
-  dplyr::filter(title == "The Call Of Cthulhu") |>
+  dplyr::filter(title == "THE CALL OF CTHULHU") |>
   head()
 #> # A tibble: 6 × 2
 #>   title               text                                                      
 #>   <chr>               <chr>                                                     
-#> 1 The Call Of Cthulhu "THE CALL OF CTHULHU"                                     
-#> 2 The Call Of Cthulhu ""                                                        
-#> 3 The Call Of Cthulhu "Of such great powers or beings there may be conceivably …
-#> 4 The Call Of Cthulhu "of a hugely remote period when...consciousness was manif…
-#> 5 The Call Of Cthulhu "shapes and forms long since withdrawn before the tide of…
-#> 6 The Call Of Cthulhu "humanity...forms of which poetry and legend alone have c…
+#> 1 THE CALL OF CTHULHU "THE CALL OF CTHULHU"                                     
+#> 2 THE CALL OF CTHULHU ""                                                        
+#> 3 THE CALL OF CTHULHU "Of such great powers or beings there may be conceivably …
+#> 4 THE CALL OF CTHULHU "of a hugely remote period when...consciousness was manif…
+#> 5 THE CALL OF CTHULHU "shapes and forms long since withdrawn before the tide of…
+#> 6 THE CALL OF CTHULHU "humanity...forms of which poetry and legend alone have c…
 ```
 
 or
@@ -73,23 +90,10 @@ or
 data("lovecraft")
 ```
 
-## Installation
-
-Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using
-{[devtools](https://devtools.r-lib.org/)}:
-
-``` r
-# install.packages("devtools")
-devtools::install_github("jrdnbradford/lovecraftr")
-```
-
-or {[remotes](https://remotes.r-lib.org//)}:
-
-``` r
-# install.packages("remotes")
-remotes::install_github("jrdnbradford/lovecraftr")
-```
-
 ## Contributing
 
-See [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
+See [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
+
+## Changelog
+
+See [CHANGELOG.md](/CHANGELOG.md)

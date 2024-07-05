@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_haunter_of_the_dark}
 \alias{the_haunter_of_the_dark}
-\title{Dataset of "The Haunter Of The Dark"}
+\title{Dataset of "THE HAUNTER OF THE DARK"}
 \format{
 A character vector with 828 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_haunter_of_the_dark
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Haunter Of The Dark"
+A dataset containing text of H. P. Lovecraft's "THE HAUNTER OF THE DARK"
 }
 \examples{
 data("the_haunter_of_the_dark")

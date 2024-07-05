@@ -29,14 +29,16 @@ knitr::opts_chunk$set(
 This package contains H. P. Lovecraft's corpus as R datasets for textual analysis.
 
 ## Installation
-
+```{R load-package, echo=FALSE}
+devtools::load_all()
+```
 Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using {[devtools](https://devtools.r-lib.org/)}:
-```{R devtools-install, echo=TRUE, eval=TRUE}
+```{R devtools-install, echo=TRUE, eval=FALSE, output=FALSE}
 # install.packages("devtools")
 devtools::install_github("jrdnbradford/lovecraftr")
 ```
 or {[remotes](https://remotes.r-lib.org//)}:
-```{R remotes-install, echo=TRUE, eval=FALSE}
+```{R remotes-install, echo=TRUE, eval=FALSE, output=FALSE}
 # install.packages("remotes")
 remotes::install_github("jrdnbradford/lovecraftr")
 ```

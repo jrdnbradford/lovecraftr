@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_other_gods}
 \alias{the_other_gods}
-\title{Dataset of "The Other Gods"}
+\title{Dataset of "THE OTHER GODS"}
 \format{
 A character vector with 160 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_other_gods
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Other Gods"
+A dataset containing text of H. P. Lovecraft's "THE OTHER GODS"
 }
 \examples{
 data("the_other_gods")

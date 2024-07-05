@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_shunned_house}
 \alias{the_shunned_house}
-\title{Dataset of "The Shunned House"}
+\title{Dataset of "THE SHUNNED HOUSE"}
 \format{
 A character vector with 916 elements, with roughly 80 characters per line
 }
@@ -14,7 +14,7 @@ Public domain
 the_shunned_house
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Shunned House"
+A dataset containing text of H. P. Lovecraft's "THE SHUNNED HOUSE"
 }
 \examples{
 data("the_shunned_house")
