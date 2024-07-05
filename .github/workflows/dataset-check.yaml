@@ -3,10 +3,12 @@ on:
     paths:
     - 'data-raw/generate_data.R'
     - 'data-raw/corpus/*'
+    - 'CHANGELOG.qmd'
   pull_request:
     paths:
     - 'data-raw/generate_data.R'
     - 'data-raw/corpus/*'
+    - 'CHANGELOG.qmd'
 
 name: dataset-check
 
@@ -37,15 +39,29 @@ jobs:
             any::usethis
             any::dplyr
             any::readr
+            any::tibble
             any::roxygen2
+            any::lubridate
           extra-packages:
             local::.
 
-      - name: Run Rscript
+      - name: Generate datasets and docs
         run: Rscript 'data-raw/generate_data.R'
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          version: 1.6.1
+
+      - name: Render CHANGELOG
+        uses: quarto-dev/quarto-actions/render@v2
+        with:
+          path: CHANGELOG.qmd
 
       - name: Update pull request
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Regenerate datasets and/or dataset documentation
-          file_pattern: 'R/data.R data/*.rda'
+          file_pattern: 'R/data.R data/*.rda CHANGELOG.md'

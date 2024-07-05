@@ -1,0 +1,34 @@
+---
+title: "{lovecraftr} Changelog"
+format: gfm
+---
+<!-- CHANGELOG.md is rendered from CHANGELOG.qmd. Do not edit CHANGELOG.md by hand. -->
+
+```{R setup, output=FALSE, echo=FALSE, eval=TRUE}
+library(dplyr)
+library(tibble)
+library(readr)
+library(fs)
+library(lubridate)
+
+raw_files <- list.files(file.path("data-raw", "corpus"), full.names = TRUE)
+titles <- read_lines(raw_files, n_max = 1)
+datasets <- list.files("data", full.names = TRUE)
+path_to_remove <- "data/lovecraft.rda"
+datasets <- setdiff(datasets, path_to_remove)
+raw_file_info <- file_info(raw_files)["modification_time"]
+dataset_file_info <- file_info(datasets)["modification_time"]
+raw_file_info$modification_time <- as_datetime(raw_file_info$modification_time)
+dataset_file_info$modification_time <- as_datetime(dataset_file_info$modification_time)
+
+changelog <- tibble(
+  Dataset = titles,
+  "Raw Last Updated" = raw_file_info$modification_time,
+  "Dataset Last Updated" = dataset_file_info$modification_time
+)
+```
+
+```{R changelog, output=TRUE, echo=FALSE, eval=TRUE}
+changelog %>%
+  knitr::kable()
+```

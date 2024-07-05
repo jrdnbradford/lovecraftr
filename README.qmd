@@ -28,6 +28,19 @@ knitr::opts_chunk$set(
 
 This package contains H. P. Lovecraft's corpus as R datasets for textual analysis.
 
+## Installation
+
+Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using {[devtools](https://devtools.r-lib.org/)}:
+```{R devtools-install, echo=TRUE, eval=TRUE}
+# install.packages("devtools")
+devtools::install_github("jrdnbradford/lovecraftr")
+```
+or {[remotes](https://remotes.r-lib.org//)}:
+```{R remotes-install, echo=TRUE, eval=FALSE}
+# install.packages("remotes")
+remotes::install_github("jrdnbradford/lovecraftr")
+```
+
 ## Usage
 
 Character vectors of individual works can be accessed in several ways:
@@ -45,7 +58,7 @@ The entire corpus can be accessed as a tibble with:
 corpus <- lovecraftr::lovecraft_corpus()
 
 corpus |>
-  dplyr::filter(title == "The Call Of Cthulhu") |>
+  dplyr::filter(title == "THE CALL OF CTHULHU") |>
   head()
 ```
 or
@@ -53,19 +66,10 @@ or
 data("lovecraft")
 ```
 
-## Installation
-
-Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using {[devtools](https://devtools.r-lib.org/)}:
-```{R devtools-install, echo=TRUE, eval=FALSE}
-# install.packages("devtools")
-devtools::install_github("jrdnbradford/lovecraftr")
-```
-or {[remotes](https://remotes.r-lib.org//)}:
-```{R remotes-install, echo=TRUE, eval=FALSE}
-# install.packages("remotes")
-remotes::install_github("jrdnbradford/lovecraftr")
-```
-
 ## Contributing
 
 See [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
+
+## Changelog
+
+See [CHANGELOG.md](/CHANGELOG.md)
