@@ -7,3 +7,4 @@
 ^data-raw$
 ^.pre-commit-config.yaml$
 ^\.github$
+^LICENSE\.md$
