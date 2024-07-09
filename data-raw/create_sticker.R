@@ -21,7 +21,7 @@ hexSticker::sticker(
   u_y = 0.1,
   u_color = "black",
   filename = raw_log_path,
-  dpi: 600
+  dpi = 600
 )
 
 usethis::use_logo(raw_log_path)
