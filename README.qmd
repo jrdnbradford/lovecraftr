@@ -71,6 +71,14 @@ data("lovecraft")
 
 See [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
 
+## Citation
+
+Please cite this package if you use it.
+
+```{R citation, echo=TRUE, eval=TRUE}
+citation("lovecraftr")
+```
+
 ## H. P. Lovecraft Datasets
 
 ```{R file-table-setup, output=FALSE, echo=FALSE, eval=TRUE}
