@@ -18,7 +18,7 @@ Public domain
 lovecraft
 }
 \description{
-A dataset containing text of all the H. P. Lovecraft works available in {lovecraftr}
+A dataset containing text of all the H. P. Lovecraft works available in this package
 }
 \examples{
 data("lovecraft")
