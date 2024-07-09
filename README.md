@@ -94,6 +94,27 @@ data("lovecraft")
 
 See [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
 
+## Citation
+
+Please cite this package if you use it.
+
+``` r
+citation("lovecraftr")
+#> To cite package 'lovecraftr' in publications use:
+#> 
+#>   Bradford J (2024). _lovecraftr: H. P. Lovecraft's works, for text
+#>   analysis_. <https://github.com/jrdnbradford/lovecraftr/>.
+#> 
+#> A BibTeX entry for LaTeX users is
+#> 
+#>   @Manual{,
+#>     title = {lovecraftr: H. P. Lovecraft's works, for text analysis},
+#>     author = {Jordan Bradford},
+#>     year = {2024},
+#>     url = {https://github.com/jrdnbradford/lovecraftr/},
+#>   }
+```
+
 ## H. P. Lovecraft Datasets
 
 | Title | TXT | RDA |
