@@ -1,4 +1,6 @@
 # Workflow derived from https://github.com/quarto-dev/quarto-actions/tree/v2/render
+# Ensures that README.md is up to date with README.qmd
+# by rendering, committing, and pushing changes to PR
 on:
   pull_request:
     paths:

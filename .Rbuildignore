@@ -5,6 +5,6 @@
 ^.Rhistory$
 ^\.Rproj\.user$
 ^data-raw$
-^.pre-commit-config.yaml$
 ^\.github$
 ^LICENSE\.md$
+^\.pre-commit-config\.yaml$

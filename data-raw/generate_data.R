@@ -58,7 +58,7 @@ num_cols <- ncol(lovecraft)
 corpus_docs <- glue::glue("{header}
 #' @title Dataset of Lovecraft's corpus
 #'
-#' @description A dataset containing text of all the H. P. Lovecraft works available in {{lovecraftr}}
+#' @description A dataset containing text of all the H. P. Lovecraft works available in this package
 #'
 #' @examples
 #' data(\"lovecraft\")

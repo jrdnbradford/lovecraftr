@@ -93,6 +93,10 @@ data("lovecraft")
 
 See [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
 
+## License
+
+MIT. See [LICENSE.md](./LICENSE.md).
+
 ## Citation
 
 Please cite this package if you use it.
