@@ -1,3 +1,8 @@
+#!/usr/bin/env Rscript
+
+# This script generates the hex sticker for the packages
+
+
 signature_url <- "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lovecraft_signature_1924-02-02.png"
 signature_dest_path <- file.path("data-raw", "stickers", "signature.png")
 raw_log_path <- file.path("data-raw", "stickers", "logo-raw.png")
