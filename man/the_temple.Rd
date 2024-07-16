@@ -5,20 +5,25 @@
 \alias{the_temple}
 \title{Dataset of "THE TEMPLE"}
 \format{
-A character vector with 450 elements, with roughly 80 characters per line
+A character vector with 450 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_temple}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_temple.rda}{RDA file} to use with R.
 }
 \usage{
-the_temple
+data(the_temple)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE TEMPLE"
 }
 \examples{
-data("the_temple")
-lovecraftr::the_temple
+\dontrun{
+library(lovecraftr)
+data(the_temple)
 
+the_temple <- lovecraftr::the_temple
+}
 }
 \keyword{datasets}

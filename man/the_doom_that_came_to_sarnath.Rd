@@ -5,20 +5,25 @@
 \alias{the_doom_that_came_to_sarnath}
 \title{Dataset of "THE DOOM THAT CAME TO SARNATH"}
 \format{
-A character vector with 218 elements, with roughly 80 characters per line
+A character vector with 218 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_doom_that_came_to_sarnath}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_doom_that_came_to_sarnath.rda}{RDA file} to use with R.
 }
 \usage{
-the_doom_that_came_to_sarnath
+data(the_doom_that_came_to_sarnath)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE DOOM THAT CAME TO SARNATH"
 }
 \examples{
-data("the_doom_that_came_to_sarnath")
-lovecraftr::the_doom_that_came_to_sarnath
+\dontrun{
+library(lovecraftr)
+data(the_doom_that_came_to_sarnath)
 
+the_doom_that_came_to_sarnath <- lovecraftr::the_doom_that_came_to_sarnath
+}
 }
 \keyword{datasets}

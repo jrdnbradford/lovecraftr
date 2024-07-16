@@ -3,16 +3,23 @@
 ##################################################################################
 
 #' @title Dataset of "AT THE MOUNTAINS OF MADNESS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "AT THE MOUNTAINS OF MADNESS"
+#' @usage data(at_the_mountains_of_madness)
+#' @format A character vector with 3,579 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("at_the_mountains_of_madness")
-#' lovecraftr::at_the_mountains_of_madness
+#' \dontrun{
+#' library(lovecraftr)
+#' data(at_the_mountains_of_madness)
 #'
-#' @format A character vector with 3,579 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' at_the_mountains_of_madness <- lovecraftr::at_the_mountains_of_madness
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/at_the_mountains_of_madness)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/at_the_mountains_of_madness.rda).
+#' @md
 "at_the_mountains_of_madness"
 
 ##################################################################################
@@ -21,16 +28,23 @@
 ##################################################################################
 
 #' @title Dataset of "AZATHOTH"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "AZATHOTH"
+#' @usage data(azathoth)
+#' @format A character vector with 37 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("azathoth")
-#' lovecraftr::azathoth
+#' \dontrun{
+#' library(lovecraftr)
+#' data(azathoth)
 #'
-#' @format A character vector with 37 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' azathoth <- lovecraftr::azathoth
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/azathoth)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/azathoth.rda).
+#' @md
 "azathoth"
 
 ##################################################################################
@@ -39,16 +53,23 @@
 ##################################################################################
 
 #' @title Dataset of "BEYOND THE WALL OF SLEEP"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "BEYOND THE WALL OF SLEEP"
+#' @usage data(beyond_the_wall_of_sleep)
+#' @format A character vector with 361 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("beyond_the_wall_of_sleep")
-#' lovecraftr::beyond_the_wall_of_sleep
+#' \dontrun{
+#' library(lovecraftr)
+#' data(beyond_the_wall_of_sleep)
 #'
-#' @format A character vector with 361 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' beyond_the_wall_of_sleep <- lovecraftr::beyond_the_wall_of_sleep
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda).
+#' @md
 "beyond_the_wall_of_sleep"
 
 ##################################################################################
@@ -57,16 +78,23 @@
 ##################################################################################
 
 #' @title Dataset of "CELEPHAIS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "CELEPHAIS"
+#' @usage data(celephais)
+#' @format A character vector with 202 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("celephais")
-#' lovecraftr::celephais
+#' \dontrun{
+#' library(lovecraftr)
+#' data(celephais)
 #'
-#' @format A character vector with 202 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' celephais <- lovecraftr::celephais
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/celephais)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/celephais.rda).
+#' @md
 "celephais"
 
 ##################################################################################
@@ -75,16 +103,23 @@
 ##################################################################################
 
 #' @title Dataset of "COOL AIR"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "COOL AIR"
+#' @usage data(cool_air)
+#' @format A character vector with 292 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("cool_air")
-#' lovecraftr::cool_air
+#' \dontrun{
+#' library(lovecraftr)
+#' data(cool_air)
 #'
-#' @format A character vector with 292 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' cool_air <- lovecraftr::cool_air
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/cool_air)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/cool_air.rda).
+#' @md
 "cool_air"
 
 ##################################################################################
@@ -93,16 +128,23 @@
 ##################################################################################
 
 #' @title Dataset of "DAGON"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "DAGON"
+#' @usage data(dagon)
+#' @format A character vector with 187 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("dagon")
-#' lovecraftr::dagon
+#' \dontrun{
+#' library(lovecraftr)
+#' data(dagon)
 #'
-#' @format A character vector with 187 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' dagon <- lovecraftr::dagon
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dagon)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/dagon.rda).
+#' @md
 "dagon"
 
 ##################################################################################
@@ -111,16 +153,23 @@
 ##################################################################################
 
 #' @title Dataset of "DREAMS IN THE WITCH-HOUSE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "DREAMS IN THE WITCH-HOUSE"
+#' @usage data(dreams_in_the_witch_house)
+#' @format A character vector with 1,271 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("dreams_in_the_witch_house")
-#' lovecraftr::dreams_in_the_witch_house
+#' \dontrun{
+#' library(lovecraftr)
+#' data(dreams_in_the_witch_house)
 #'
-#' @format A character vector with 1,271 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' dreams_in_the_witch_house <- lovecraftr::dreams_in_the_witch_house
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dreams_in_the_witch_house)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/dreams_in_the_witch_house.rda).
+#' @md
 "dreams_in_the_witch_house"
 
 ##################################################################################
@@ -129,16 +178,23 @@
 ##################################################################################
 
 #' @title Dataset of "EX OBLIVIONE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "EX OBLIVIONE"
+#' @usage data(ex_oblivione)
+#' @format A character vector with 66 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("ex_oblivione")
-#' lovecraftr::ex_oblivione
+#' \dontrun{
+#' library(lovecraftr)
+#' data(ex_oblivione)
 #'
-#' @format A character vector with 66 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' ex_oblivione <- lovecraftr::ex_oblivione
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/ex_oblivione)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/ex_oblivione.rda).
+#' @md
 "ex_oblivione"
 
 ##################################################################################
@@ -147,16 +203,23 @@
 ##################################################################################
 
 #' @title Dataset of "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
+#' @usage data(facts_concerning_the_late_arthur_jermyn_and_his_family)
+#' @format A character vector with 303 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("facts_concerning_the_late_arthur_jermyn_and_his_family")
-#' lovecraftr::facts_concerning_the_late_arthur_jermyn_and_his_family
+#' \dontrun{
+#' library(lovecraftr)
+#' data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 #'
-#' @format A character vector with 303 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' facts_concerning_the_late_arthur_jermyn_and_his_family <- lovecraftr::facts_concerning_the_late_arthur_jermyn_and_his_family
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/facts_concerning_the_late_arthur_jermyn_and_his_family)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/facts_concerning_the_late_arthur_jermyn_and_his_family.rda).
+#' @md
 "facts_concerning_the_late_arthur_jermyn_and_his_family"
 
 ##################################################################################
@@ -165,16 +228,23 @@
 ##################################################################################
 
 #' @title Dataset of "FROM BEYOND"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "FROM BEYOND"
+#' @usage data(from_beyond)
+#' @format A character vector with 222 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("from_beyond")
-#' lovecraftr::from_beyond
+#' \dontrun{
+#' library(lovecraftr)
+#' data(from_beyond)
 #'
-#' @format A character vector with 222 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' from_beyond <- lovecraftr::from_beyond
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/from_beyond)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/from_beyond.rda).
+#' @md
 "from_beyond"
 
 ##################################################################################
@@ -183,16 +253,23 @@
 ##################################################################################
 
 #' @title Dataset of "HE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "HE"
+#' @usage data(he)
+#' @format A character vector with 360 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("he")
-#' lovecraftr::he
+#' \dontrun{
+#' library(lovecraftr)
+#' data(he)
 #'
-#' @format A character vector with 360 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' he <- lovecraftr::he
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/he)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/he.rda).
+#' @md
 "he"
 
 ##################################################################################
@@ -201,16 +278,23 @@
 ##################################################################################
 
 #' @title Dataset of "HERBERT WEST: REANIMATOR"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
+#' @usage data(herbert_west_reanimator)
+#' @format A character vector with 1,053 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("herbert_west_reanimator")
-#' lovecraftr::herbert_west_reanimator
+#' \dontrun{
+#' library(lovecraftr)
+#' data(herbert_west_reanimator)
 #'
-#' @format A character vector with 1,053 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' herbert_west_reanimator <- lovecraftr::herbert_west_reanimator
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/herbert_west_reanimator)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/herbert_west_reanimator.rda).
+#' @md
 "herbert_west_reanimator"
 
 ##################################################################################
@@ -219,16 +303,23 @@
 ##################################################################################
 
 #' @title Dataset of "HYPNOS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "HYPNOS"
+#' @usage data(hypnos)
+#' @format A character vector with 233 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("hypnos")
-#' lovecraftr::hypnos
+#' \dontrun{
+#' library(lovecraftr)
+#' data(hypnos)
 #'
-#' @format A character vector with 233 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' hypnos <- lovecraftr::hypnos
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/hypnos)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/hypnos.rda).
+#' @md
 "hypnos"
 
 ##################################################################################
@@ -237,16 +328,23 @@
 ##################################################################################
 
 #' @title Dataset of "IMPRISONED WITH THE PHARAOHS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "IMPRISONED WITH THE PHARAOHS"
+#' @usage data(imprisoned_with_the_pharoahs)
+#' @format A character vector with 948 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("imprisoned_with_the_pharoahs")
-#' lovecraftr::imprisoned_with_the_pharoahs
+#' \dontrun{
+#' library(lovecraftr)
+#' data(imprisoned_with_the_pharoahs)
 #'
-#' @format A character vector with 948 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' imprisoned_with_the_pharoahs <- lovecraftr::imprisoned_with_the_pharoahs
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda).
+#' @md
 "imprisoned_with_the_pharoahs"
 
 ##################################################################################
@@ -255,16 +353,23 @@
 ##################################################################################
 
 #' @title Dataset of "IN THE VAULT"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "IN THE VAULT"
+#' @usage data(in_the_vault)
+#' @format A character vector with 272 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("in_the_vault")
-#' lovecraftr::in_the_vault
+#' \dontrun{
+#' library(lovecraftr)
+#' data(in_the_vault)
 #'
-#' @format A character vector with 272 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' in_the_vault <- lovecraftr::in_the_vault
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/in_the_vault)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/in_the_vault.rda).
+#' @md
 "in_the_vault"
 
 ##################################################################################
@@ -273,16 +378,23 @@
 ##################################################################################
 
 #' @title Dataset of "MEDUSA'S COIL"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "MEDUSA'S COIL"
+#' @usage data(medusas_coil)
+#' @format A character vector with 1,443 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("medusas_coil")
-#' lovecraftr::medusas_coil
+#' \dontrun{
+#' library(lovecraftr)
+#' data(medusas_coil)
 #'
-#' @format A character vector with 1,443 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' medusas_coil <- lovecraftr::medusas_coil
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/medusas_coil)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/medusas_coil.rda).
+#' @md
 "medusas_coil"
 
 ##################################################################################
@@ -291,16 +403,23 @@
 ##################################################################################
 
 #' @title Dataset of "MEMORY"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "MEMORY"
+#' @usage data(memory)
+#' @format A character vector with 31 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("memory")
-#' lovecraftr::memory
+#' \dontrun{
+#' library(lovecraftr)
+#' data(memory)
 #'
-#' @format A character vector with 31 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' memory <- lovecraftr::memory
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/memory)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/memory.rda).
+#' @md
 "memory"
 
 ##################################################################################
@@ -309,16 +428,23 @@
 ##################################################################################
 
 #' @title Dataset of "NYARLATHOTEP"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "NYARLATHOTEP"
+#' @usage data(nyarlathotep)
+#' @format A character vector with 97 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("nyarlathotep")
-#' lovecraftr::nyarlathotep
+#' \dontrun{
+#' library(lovecraftr)
+#' data(nyarlathotep)
 #'
-#' @format A character vector with 97 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' nyarlathotep <- lovecraftr::nyarlathotep
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/nyarlathotep)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/nyarlathotep.rda).
+#' @md
 "nyarlathotep"
 
 ##################################################################################
@@ -327,16 +453,23 @@
 ##################################################################################
 
 #' @title Dataset of "PICKMAN'S MODEL"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "PICKMAN'S MODEL"
+#' @usage data(pickmans_model)
+#' @format A character vector with 455 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("pickmans_model")
-#' lovecraftr::pickmans_model
+#' \dontrun{
+#' library(lovecraftr)
+#' data(pickmans_model)
 #'
-#' @format A character vector with 455 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' pickmans_model <- lovecraftr::pickmans_model
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/pickmans_model)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/pickmans_model.rda).
+#' @md
 "pickmans_model"
 
 ##################################################################################
@@ -345,16 +478,23 @@
 ##################################################################################
 
 #' @title Dataset of "POETRY OF THE GODS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "POETRY OF THE GODS"
+#' @usage data(poetry_of_the_gods)
+#' @format A character vector with 157 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("poetry_of_the_gods")
-#' lovecraftr::poetry_of_the_gods
+#' \dontrun{
+#' library(lovecraftr)
+#' data(poetry_of_the_gods)
 #'
-#' @format A character vector with 157 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' poetry_of_the_gods <- lovecraftr::poetry_of_the_gods
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/poetry_of_the_gods)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/poetry_of_the_gods.rda).
+#' @md
 "poetry_of_the_gods"
 
 ##################################################################################
@@ -363,16 +503,23 @@
 ##################################################################################
 
 #' @title Dataset of "POLARIS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "POLARIS"
+#' @usage data(polaris)
+#' @format A character vector with 129 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("polaris")
-#' lovecraftr::polaris
+#' \dontrun{
+#' library(lovecraftr)
+#' data(polaris)
 #'
-#' @format A character vector with 129 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' polaris <- lovecraftr::polaris
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/polaris)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/polaris.rda).
+#' @md
 "polaris"
 
 ##################################################################################
@@ -381,16 +528,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE ALCHEMIST"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE ALCHEMIST"
+#' @usage data(the_alchemist)
+#' @format A character vector with 295 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_alchemist")
-#' lovecraftr::the_alchemist
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_alchemist)
 #'
-#' @format A character vector with 295 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_alchemist <- lovecraftr::the_alchemist
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_alchemist)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_alchemist.rda).
+#' @md
 "the_alchemist"
 
 ##################################################################################
@@ -399,16 +553,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE BEAST IN THE CAVE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE BEAST IN THE CAVE"
+#' @usage data(the_beast_in_the_cave)
+#' @format A character vector with 204 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_beast_in_the_cave")
-#' lovecraftr::the_beast_in_the_cave
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_beast_in_the_cave)
 #'
-#' @format A character vector with 204 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_beast_in_the_cave <- lovecraftr::the_beast_in_the_cave
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_beast_in_the_cave)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_beast_in_the_cave.rda).
+#' @md
 "the_beast_in_the_cave"
 
 ##################################################################################
@@ -417,16 +578,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE BOOK"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE BOOK"
+#' @usage data(the_book)
+#' @format A character vector with 95 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_book")
-#' lovecraftr::the_book
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_book)
 #'
-#' @format A character vector with 95 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_book <- lovecraftr::the_book
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_book)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_book.rda).
+#' @md
 "the_book"
 
 ##################################################################################
@@ -435,16 +603,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE CALL OF CTHULHU"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE CALL OF CTHULHU"
+#' @usage data(the_call_of_cthulhu)
+#' @format A character vector with 1,030 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_call_of_cthulhu")
-#' lovecraftr::the_call_of_cthulhu
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_call_of_cthulhu)
 #'
-#' @format A character vector with 1,030 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_call_of_cthulhu <- lovecraftr::the_call_of_cthulhu
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_call_of_cthulhu)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_call_of_cthulhu.rda).
+#' @md
 "the_call_of_cthulhu"
 
 ##################################################################################
@@ -453,16 +628,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE CASE OF CHARLES DEXTER WARD"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE CASE OF CHARLES DEXTER WARD"
+#' @usage data(the_case_of_charles_dexter_ward)
+#' @format A character vector with 4,358 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_case_of_charles_dexter_ward")
-#' lovecraftr::the_case_of_charles_dexter_ward
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_case_of_charles_dexter_ward)
 #'
-#' @format A character vector with 4,358 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_case_of_charles_dexter_ward <- lovecraftr::the_case_of_charles_dexter_ward
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_case_of_charles_dexter_ward)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_case_of_charles_dexter_ward.rda).
+#' @md
 "the_case_of_charles_dexter_ward"
 
 ##################################################################################
@@ -471,16 +653,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE CATS OF ULTHAR"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE CATS OF ULTHAR"
+#' @usage data(the_cats_of_ulthar)
+#' @format A character vector with 109 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_cats_of_ulthar")
-#' lovecraftr::the_cats_of_ulthar
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_cats_of_ulthar)
 #'
-#' @format A character vector with 109 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_cats_of_ulthar <- lovecraftr::the_cats_of_ulthar
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_cats_of_ulthar)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_cats_of_ulthar.rda).
+#' @md
 "the_cats_of_ulthar"
 
 ##################################################################################
@@ -489,16 +678,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE COLOUR OUT OF SPACE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE COLOUR OUT OF SPACE"
+#' @usage data(the_colour_out_of_space)
+#' @format A character vector with 967 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_colour_out_of_space")
-#' lovecraftr::the_colour_out_of_space
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_colour_out_of_space)
 #'
-#' @format A character vector with 967 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_colour_out_of_space <- lovecraftr::the_colour_out_of_space
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_colour_out_of_space)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_colour_out_of_space.rda).
+#' @md
 "the_colour_out_of_space"
 
 ##################################################################################
@@ -507,16 +703,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE CRAWLING CHAOS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE CRAWLING CHAOS"
+#' @usage data(the_crawling_chaos)
+#' @format A character vector with 234 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_crawling_chaos")
-#' lovecraftr::the_crawling_chaos
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_crawling_chaos)
 #'
-#' @format A character vector with 234 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_crawling_chaos <- lovecraftr::the_crawling_chaos
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_crawling_chaos)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_crawling_chaos.rda).
+#' @md
 "the_crawling_chaos"
 
 ##################################################################################
@@ -525,16 +728,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE DESCENDANT"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE DESCENDANT"
+#' @usage data(the_descendent)
+#' @format A character vector with 121 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_descendent")
-#' lovecraftr::the_descendent
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_descendent)
 #'
-#' @format A character vector with 121 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_descendent <- lovecraftr::the_descendent
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_descendent)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_descendent.rda).
+#' @md
 "the_descendent"
 
 ##################################################################################
@@ -543,16 +753,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE DOOM THAT CAME TO SARNATH"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE DOOM THAT CAME TO SARNATH"
+#' @usage data(the_doom_that_came_to_sarnath)
+#' @format A character vector with 218 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_doom_that_came_to_sarnath")
-#' lovecraftr::the_doom_that_came_to_sarnath
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_doom_that_came_to_sarnath)
 #'
-#' @format A character vector with 218 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_doom_that_came_to_sarnath <- lovecraftr::the_doom_that_came_to_sarnath
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_doom_that_came_to_sarnath)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_doom_that_came_to_sarnath.rda).
+#' @md
 "the_doom_that_came_to_sarnath"
 
 ##################################################################################
@@ -561,16 +778,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE DREAM QUEST OF UNKNOWN KADATH"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE DREAM QUEST OF UNKNOWN KADATH"
+#' @usage data(the_dream_quest_of_unknown_kadath)
+#' @format A character vector with 3,475 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_dream_quest_of_unknown_kadath")
-#' lovecraftr::the_dream_quest_of_unknown_kadath
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_dream_quest_of_unknown_kadath)
 #'
-#' @format A character vector with 3,475 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_dream_quest_of_unknown_kadath <- lovecraftr::the_dream_quest_of_unknown_kadath
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dream_quest_of_unknown_kadath)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dream_quest_of_unknown_kadath.rda).
+#' @md
 "the_dream_quest_of_unknown_kadath"
 
 ##################################################################################
@@ -579,16 +803,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE DUNWICH HORROR"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE DUNWICH HORROR"
+#' @usage data(the_dunwich_horror)
+#' @format A character vector with 1,533 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_dunwich_horror")
-#' lovecraftr::the_dunwich_horror
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_dunwich_horror)
 #'
-#' @format A character vector with 1,533 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_dunwich_horror <- lovecraftr::the_dunwich_horror
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dunwich_horror)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dunwich_horror.rda).
+#' @md
 "the_dunwich_horror"
 
 ##################################################################################
@@ -597,16 +828,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE EVIL CLERGYMAN"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE EVIL CLERGYMAN"
+#' @usage data(the_evil_clergyman)
+#' @format A character vector with 147 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_evil_clergyman")
-#' lovecraftr::the_evil_clergyman
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_evil_clergyman)
 #'
-#' @format A character vector with 147 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_evil_clergyman <- lovecraftr::the_evil_clergyman
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_evil_clergyman)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_evil_clergyman.rda).
+#' @md
 "the_evil_clergyman"
 
 ##################################################################################
@@ -615,16 +853,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE FESTIVAL"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE FESTIVAL"
+#' @usage data(the_festival)
+#' @format A character vector with 303 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_festival")
-#' lovecraftr::the_festival
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_festival)
 #'
-#' @format A character vector with 303 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_festival <- lovecraftr::the_festival
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_festival)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_festival.rda).
+#' @md
 "the_festival"
 
 ##################################################################################
@@ -633,16 +878,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE HAUNTER OF THE DARK"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE HAUNTER OF THE DARK"
+#' @usage data(the_haunter_of_the_dark)
+#' @format A character vector with 828 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_haunter_of_the_dark")
-#' lovecraftr::the_haunter_of_the_dark
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_haunter_of_the_dark)
 #'
-#' @format A character vector with 828 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_haunter_of_the_dark <- lovecraftr::the_haunter_of_the_dark
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_haunter_of_the_dark)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_haunter_of_the_dark.rda).
+#' @md
 "the_haunter_of_the_dark"
 
 ##################################################################################
@@ -651,16 +903,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE HORROR AT MARTIN'S BEACH"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE HORROR AT MARTIN'S BEACH"
+#' @usage data(the_horror_at_martins_beach)
+#' @format A character vector with 225 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_horror_at_martins_beach")
-#' lovecraftr::the_horror_at_martins_beach
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_horror_at_martins_beach)
 #'
-#' @format A character vector with 225 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_horror_at_martins_beach <- lovecraftr::the_horror_at_martins_beach
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_martins_beach)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_martins_beach.rda).
+#' @md
 "the_horror_at_martins_beach"
 
 ##################################################################################
@@ -669,16 +928,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE HORROR AT RED HOOK"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE HORROR AT RED HOOK"
+#' @usage data(the_horror_at_redhook)
+#' @format A character vector with 702 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_horror_at_redhook")
-#' lovecraftr::the_horror_at_redhook
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_horror_at_redhook)
 #'
-#' @format A character vector with 702 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_horror_at_redhook <- lovecraftr::the_horror_at_redhook
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_redhook)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_redhook.rda).
+#' @md
 "the_horror_at_redhook"
 
 ##################################################################################
@@ -687,16 +953,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE HOUND"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE HOUND"
+#' @usage data(the_hound)
+#' @format A character vector with 266 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_hound")
-#' lovecraftr::the_hound
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_hound)
 #'
-#' @format A character vector with 266 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_hound <- lovecraftr::the_hound
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_hound)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_hound.rda).
+#' @md
 "the_hound"
 
 ##################################################################################
@@ -705,16 +978,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE LURKING FEAR"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE LURKING FEAR"
+#' @usage data(the_lurking_fear)
+#' @format A character vector with 656 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_lurking_fear")
-#' lovecraftr::the_lurking_fear
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_lurking_fear)
 #'
-#' @format A character vector with 656 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_lurking_fear <- lovecraftr::the_lurking_fear
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_lurking_fear)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_lurking_fear.rda).
+#' @md
 "the_lurking_fear"
 
 ##################################################################################
@@ -723,16 +1003,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE MOON BOG"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE MOON BOG"
+#' @usage data(the_moon_bog)
+#' @format A character vector with 266 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_moon_bog")
-#' lovecraftr::the_moon_bog
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_moon_bog)
 #'
-#' @format A character vector with 266 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_moon_bog <- lovecraftr::the_moon_bog
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_moon_bog)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_moon_bog.rda).
+#' @md
 "the_moon_bog"
 
 ##################################################################################
@@ -741,16 +1028,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE MUSIC OF ERICH ZANN"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
+#' @usage data(the_music_of_erich_zann)
+#' @format A character vector with 285 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_music_of_erich_zann")
-#' lovecraftr::the_music_of_erich_zann
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_music_of_erich_zann)
 #'
-#' @format A character vector with 285 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_music_of_erich_zann <- lovecraftr::the_music_of_erich_zann
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda).
+#' @md
 "the_music_of_erich_zann"
 
 ##################################################################################
@@ -759,16 +1053,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE NAMELESS CITY"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE NAMELESS CITY"
+#' @usage data(the_nameless_city)
+#' @format A character vector with 418 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_nameless_city")
-#' lovecraftr::the_nameless_city
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_nameless_city)
 #'
-#' @format A character vector with 418 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_nameless_city <- lovecraftr::the_nameless_city
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_nameless_city)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_nameless_city.rda).
+#' @md
 "the_nameless_city"
 
 ##################################################################################
@@ -777,16 +1078,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE OTHER GODS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE OTHER GODS"
+#' @usage data(the_other_gods)
+#' @format A character vector with 160 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_other_gods")
-#' lovecraftr::the_other_gods
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_other_gods)
 #'
-#' @format A character vector with 160 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_other_gods <- lovecraftr::the_other_gods
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_other_gods)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_other_gods.rda).
+#' @md
 "the_other_gods"
 
 ##################################################################################
@@ -795,16 +1103,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE OUTSIDER"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE OUTSIDER"
+#' @usage data(the_outsider)
+#' @format A character vector with 213 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_outsider")
-#' lovecraftr::the_outsider
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_outsider)
 #'
-#' @format A character vector with 213 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_outsider <- lovecraftr::the_outsider
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_outsider)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_outsider.rda).
+#' @md
 "the_outsider"
 
 ##################################################################################
@@ -813,16 +1128,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE PICTURE IN THE HOUSE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE PICTURE IN THE HOUSE"
+#' @usage data(the_picture_in_the_house)
+#' @format A character vector with 263 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_picture_in_the_house")
-#' lovecraftr::the_picture_in_the_house
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_picture_in_the_house)
 #'
-#' @format A character vector with 263 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_picture_in_the_house <- lovecraftr::the_picture_in_the_house
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_picture_in_the_house)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_picture_in_the_house.rda).
+#' @md
 "the_picture_in_the_house"
 
 ##################################################################################
@@ -831,16 +1153,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE QUEST OF IRANON"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE QUEST OF IRANON"
+#' @usage data(the_quest_of_iranon)
+#' @format A character vector with 215 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_quest_of_iranon")
-#' lovecraftr::the_quest_of_iranon
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_quest_of_iranon)
 #'
-#' @format A character vector with 215 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_quest_of_iranon <- lovecraftr::the_quest_of_iranon
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_quest_of_iranon)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_quest_of_iranon.rda).
+#' @md
 "the_quest_of_iranon"
 
 ##################################################################################
@@ -849,16 +1178,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE RATS IN THE WALLS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE RATS IN THE WALLS"
+#' @usage data(the_rats_in_the_walls)
+#' @format A character vector with 691 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_rats_in_the_walls")
-#' lovecraftr::the_rats_in_the_walls
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_rats_in_the_walls)
 #'
-#' @format A character vector with 691 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_rats_in_the_walls <- lovecraftr::the_rats_in_the_walls
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_rats_in_the_walls)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_rats_in_the_walls.rda).
+#' @md
 "the_rats_in_the_walls"
 
 ##################################################################################
@@ -867,16 +1203,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE SHADOW OUT OF TIME"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE SHADOW OUT OF TIME"
+#' @usage data(the_shadow_out_of_time)
+#' @format A character vector with 2,529 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_shadow_out_of_time")
-#' lovecraftr::the_shadow_out_of_time
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_shadow_out_of_time)
 #'
-#' @format A character vector with 2,529 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_shadow_out_of_time <- lovecraftr::the_shadow_out_of_time
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_out_of_time)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_out_of_time.rda).
+#' @md
 "the_shadow_out_of_time"
 
 ##################################################################################
@@ -885,16 +1228,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE SHADOW OVER INNSMOUTH"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE SHADOW OVER INNSMOUTH"
+#' @usage data(the_shadow_over_innsmouth)
+#' @format A character vector with 2,318 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_shadow_over_innsmouth")
-#' lovecraftr::the_shadow_over_innsmouth
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_shadow_over_innsmouth)
 #'
-#' @format A character vector with 2,318 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_shadow_over_innsmouth <- lovecraftr::the_shadow_over_innsmouth
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_over_innsmouth)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_over_innsmouth.rda).
+#' @md
 "the_shadow_over_innsmouth"
 
 ##################################################################################
@@ -903,16 +1253,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE SHUNNED HOUSE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE SHUNNED HOUSE"
+#' @usage data(the_shunned_house)
+#' @format A character vector with 916 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_shunned_house")
-#' lovecraftr::the_shunned_house
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_shunned_house)
 #'
-#' @format A character vector with 916 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_shunned_house <- lovecraftr::the_shunned_house
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shunned_house)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shunned_house.rda).
+#' @md
 "the_shunned_house"
 
 ##################################################################################
@@ -921,16 +1278,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE SILVER KEY"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE SILVER KEY"
+#' @usage data(the_silver_key)
+#' @format A character vector with 404 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_silver_key")
-#' lovecraftr::the_silver_key
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_silver_key)
 #'
-#' @format A character vector with 404 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_silver_key <- lovecraftr::the_silver_key
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_silver_key)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_silver_key.rda).
+#' @md
 "the_silver_key"
 
 ##################################################################################
@@ -939,16 +1303,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE STATEMENT OF RANDOLPH CARTER"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE STATEMENT OF RANDOLPH CARTER"
+#' @usage data(the_statement_of_randolph_carter)
+#' @format A character vector with 221 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_statement_of_randolph_carter")
-#' lovecraftr::the_statement_of_randolph_carter
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_statement_of_randolph_carter)
 #'
-#' @format A character vector with 221 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_statement_of_randolph_carter <- lovecraftr::the_statement_of_randolph_carter
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_statement_of_randolph_carter)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_statement_of_randolph_carter.rda).
+#' @md
 "the_statement_of_randolph_carter"
 
 ##################################################################################
@@ -957,16 +1328,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE STRANGE HIGH HOUSE IN THE MIST"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE STRANGE HIGH HOUSE IN THE MIST"
+#' @usage data(the_strange_high_house_in_the_mist)
+#' @format A character vector with 289 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_strange_high_house_in_the_mist")
-#' lovecraftr::the_strange_high_house_in_the_mist
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_strange_high_house_in_the_mist)
 #'
-#' @format A character vector with 289 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_strange_high_house_in_the_mist <- lovecraftr::the_strange_high_house_in_the_mist
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_strange_high_house_in_the_mist)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_strange_high_house_in_the_mist.rda).
+#' @md
 "the_strange_high_house_in_the_mist"
 
 ##################################################################################
@@ -975,16 +1353,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE STREET"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE STREET"
+#' @usage data(the_street)
+#' @format A character vector with 183 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_street")
-#' lovecraftr::the_street
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_street)
 #'
-#' @format A character vector with 183 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_street <- lovecraftr::the_street
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_street)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_street.rda).
+#' @md
 "the_street"
 
 ##################################################################################
@@ -993,16 +1378,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE TEMPLE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE TEMPLE"
+#' @usage data(the_temple)
+#' @format A character vector with 450 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_temple")
-#' lovecraftr::the_temple
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_temple)
 #'
-#' @format A character vector with 450 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_temple <- lovecraftr::the_temple
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_temple)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_temple.rda).
+#' @md
 "the_temple"
 
 ##################################################################################
@@ -1011,16 +1403,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE TERRIBLE OLD MAN"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE TERRIBLE OLD MAN"
+#' @usage data(the_terrible_old_man)
+#' @format A character vector with 87 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_terrible_old_man")
-#' lovecraftr::the_terrible_old_man
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_terrible_old_man)
 #'
-#' @format A character vector with 87 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_terrible_old_man <- lovecraftr::the_terrible_old_man
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_terrible_old_man)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_terrible_old_man.rda).
+#' @md
 "the_terrible_old_man"
 
 ##################################################################################
@@ -1029,16 +1428,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE THING ON THE DOORSTEP"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE THING ON THE DOORSTEP"
+#' @usage data(the_thing_on_the_doorstep)
+#' @format A character vector with 931 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_thing_on_the_doorstep")
-#' lovecraftr::the_thing_on_the_doorstep
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_thing_on_the_doorstep)
 #'
-#' @format A character vector with 931 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_thing_on_the_doorstep <- lovecraftr::the_thing_on_the_doorstep
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_thing_on_the_doorstep)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_thing_on_the_doorstep.rda).
+#' @md
 "the_thing_on_the_doorstep"
 
 ##################################################################################
@@ -1047,16 +1453,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE TOMB"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE TOMB"
+#' @usage data(the_tomb)
+#' @format A character vector with 366 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_tomb")
-#' lovecraftr::the_tomb
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_tomb)
 #'
-#' @format A character vector with 366 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_tomb <- lovecraftr::the_tomb
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tomb)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tomb.rda).
+#' @md
 "the_tomb"
 
 ##################################################################################
@@ -1065,16 +1478,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE TRANSITION OF JUAN ROMERO"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE TRANSITION OF JUAN ROMERO"
+#' @usage data(the_transition_of_juan_romero)
+#' @format A character vector with 234 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_transition_of_juan_romero")
-#' lovecraftr::the_transition_of_juan_romero
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_transition_of_juan_romero)
 #'
-#' @format A character vector with 234 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_transition_of_juan_romero <- lovecraftr::the_transition_of_juan_romero
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_transition_of_juan_romero)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_transition_of_juan_romero.rda).
+#' @md
 "the_transition_of_juan_romero"
 
 ##################################################################################
@@ -1083,16 +1503,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE TREE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE TREE"
+#' @usage data(the_tree)
+#' @format A character vector with 127 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_tree")
-#' lovecraftr::the_tree
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_tree)
 #'
-#' @format A character vector with 127 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_tree <- lovecraftr::the_tree
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tree)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tree.rda).
+#' @md
 "the_tree"
 
 ##################################################################################
@@ -1101,16 +1528,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE UNNAMABLE"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE UNNAMABLE"
+#' @usage data(the_unnamable)
+#' @format A character vector with 239 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_unnamable")
-#' lovecraftr::the_unnamable
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_unnamable)
 #'
-#' @format A character vector with 239 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_unnamable <- lovecraftr::the_unnamable
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_unnamable)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_unnamable.rda).
+#' @md
 "the_unnamable"
 
 ##################################################################################
@@ -1119,16 +1553,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE VERY OLD FOLK"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE VERY OLD FOLK"
+#' @usage data(the_very_old_folk)
+#' @format A character vector with 210 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_very_old_folk")
-#' lovecraftr::the_very_old_folk
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_very_old_folk)
 #'
-#' @format A character vector with 210 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_very_old_folk <- lovecraftr::the_very_old_folk
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_very_old_folk)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_very_old_folk.rda).
+#' @md
 "the_very_old_folk"
 
 ##################################################################################
@@ -1137,16 +1578,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE WHISPERER IN DARKNESS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE WHISPERER IN DARKNESS"
+#' @usage data(the_whisperer_in_darkness)
+#' @format A character vector with 2,303 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_whisperer_in_darkness")
-#' lovecraftr::the_whisperer_in_darkness
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_whisperer_in_darkness)
 #'
-#' @format A character vector with 2,303 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_whisperer_in_darkness <- lovecraftr::the_whisperer_in_darkness
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_whisperer_in_darkness)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_whisperer_in_darkness.rda).
+#' @md
 "the_whisperer_in_darkness"
 
 ##################################################################################
@@ -1155,16 +1603,23 @@
 ##################################################################################
 
 #' @title Dataset of "THE WHITE SHIP"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THE WHITE SHIP"
+#' @usage data(the_white_ship)
+#' @format A character vector with 200 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("the_white_ship")
-#' lovecraftr::the_white_ship
+#' \dontrun{
+#' library(lovecraftr)
+#' data(the_white_ship)
 #'
-#' @format A character vector with 200 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' the_white_ship <- lovecraftr::the_white_ship
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_white_ship)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_white_ship.rda).
+#' @md
 "the_white_ship"
 
 ##################################################################################
@@ -1173,16 +1628,23 @@
 ##################################################################################
 
 #' @title Dataset of "THROUGH THE GATES OF THE SILVER KEY"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "THROUGH THE GATES OF THE SILVER KEY"
+#' @usage data(through_the_gates_of_the_silver_key)
+#' @format A character vector with 1,305 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("through_the_gates_of_the_silver_key")
-#' lovecraftr::through_the_gates_of_the_silver_key
+#' \dontrun{
+#' library(lovecraftr)
+#' data(through_the_gates_of_the_silver_key)
 #'
-#' @format A character vector with 1,305 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' through_the_gates_of_the_silver_key <- lovecraftr::through_the_gates_of_the_silver_key
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/through_the_gates_of_the_silver_key)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/through_the_gates_of_the_silver_key.rda).
+#' @md
 "through_the_gates_of_the_silver_key"
 
 ##################################################################################
@@ -1191,16 +1653,23 @@
 ##################################################################################
 
 #' @title Dataset of "WHAT THE MOON BRINGS"
-#'
 #' @description A dataset containing text of H. P. Lovecraft's "WHAT THE MOON BRINGS"
+#' @usage data(what_the_moon_brings)
+#' @format A character vector with 60 elements, with roughly 80 characters per line.
 #'
 #' @examples
-#' data("what_the_moon_brings")
-#' lovecraftr::what_the_moon_brings
+#' \dontrun{
+#' library(lovecraftr)
+#' data(what_the_moon_brings)
 #'
-#' @format A character vector with 60 elements, with roughly 80 characters per line
-#'
-#' @source Public domain
+#' what_the_moon_brings <- lovecraftr::what_the_moon_brings
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/what_the_moon_brings)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/what_the_moon_brings.rda).
+#' @md
 "what_the_moon_brings"
 
 ##################################################################################
@@ -1209,19 +1678,21 @@
 ##################################################################################
 
 #' @title Dataset of Lovecraft's corpus
-#'
-#' @description A dataset containing text of all the H. P. Lovecraft works available in this package
-#'
-#' @examples
-#' data("lovecraft")
-#' lovecraftr::lovecraft
-#' df <- lovecraftr::lovecraft_corpus()
-#'
+#' @description A dataset containing text of all the H. P. Lovecraft works available in this package.
+#' @usage data(lovecraft)
 #' @format A tibble with 43,347 rows and 2 columns:
 #' \describe{
 #'   \item{title}{Title of the work}
 #'   \item{text}{~80 characters of text from the title}
 #' }
 #'
-#' @source Public domain
+#' @examples
+#' \dontrun{
+#' data(lovecraft)
+#' corpus <- lovecraftr::lovecraft
+#' }
+#' @docType data
+#' @keywords datasets
+#' @source Public domain.
+#' @md
 "lovecraft"

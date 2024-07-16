@@ -5,20 +5,25 @@
 \alias{the_moon_bog}
 \title{Dataset of "THE MOON BOG"}
 \format{
-A character vector with 266 elements, with roughly 80 characters per line
+A character vector with 266 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_moon_bog}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_moon_bog.rda}{RDA file} to use with R.
 }
 \usage{
-the_moon_bog
+data(the_moon_bog)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE MOON BOG"
 }
 \examples{
-data("the_moon_bog")
-lovecraftr::the_moon_bog
+\dontrun{
+library(lovecraftr)
+data(the_moon_bog)
 
+the_moon_bog <- lovecraftr::the_moon_bog
+}
 }
 \keyword{datasets}

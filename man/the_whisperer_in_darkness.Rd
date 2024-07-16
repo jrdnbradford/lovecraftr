@@ -5,20 +5,25 @@
 \alias{the_whisperer_in_darkness}
 \title{Dataset of "THE WHISPERER IN DARKNESS"}
 \format{
-A character vector with 2,303 elements, with roughly 80 characters per line
+A character vector with 2,303 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_whisperer_in_darkness}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_whisperer_in_darkness.rda}{RDA file} to use with R.
 }
 \usage{
-the_whisperer_in_darkness
+data(the_whisperer_in_darkness)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE WHISPERER IN DARKNESS"
 }
 \examples{
-data("the_whisperer_in_darkness")
-lovecraftr::the_whisperer_in_darkness
+\dontrun{
+library(lovecraftr)
+data(the_whisperer_in_darkness)
 
+the_whisperer_in_darkness <- lovecraftr::the_whisperer_in_darkness
+}
 }
 \keyword{datasets}

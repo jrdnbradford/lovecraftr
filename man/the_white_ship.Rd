@@ -5,20 +5,25 @@
 \alias{the_white_ship}
 \title{Dataset of "THE WHITE SHIP"}
 \format{
-A character vector with 200 elements, with roughly 80 characters per line
+A character vector with 200 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_white_ship}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_white_ship.rda}{RDA file} to use with R.
 }
 \usage{
-the_white_ship
+data(the_white_ship)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE WHITE SHIP"
 }
 \examples{
-data("the_white_ship")
-lovecraftr::the_white_ship
+\dontrun{
+library(lovecraftr)
+data(the_white_ship)
 
+the_white_ship <- lovecraftr::the_white_ship
+}
 }
 \keyword{datasets}

@@ -5,20 +5,25 @@
 \alias{the_alchemist}
 \title{Dataset of "THE ALCHEMIST"}
 \format{
-A character vector with 295 elements, with roughly 80 characters per line
+A character vector with 295 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_alchemist}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_alchemist.rda}{RDA file} to use with R.
 }
 \usage{
-the_alchemist
+data(the_alchemist)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE ALCHEMIST"
 }
 \examples{
-data("the_alchemist")
-lovecraftr::the_alchemist
+\dontrun{
+library(lovecraftr)
+data(the_alchemist)
 
+the_alchemist <- lovecraftr::the_alchemist
+}
 }
 \keyword{datasets}

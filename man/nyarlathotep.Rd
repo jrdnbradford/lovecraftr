@@ -5,20 +5,25 @@
 \alias{nyarlathotep}
 \title{Dataset of "NYARLATHOTEP"}
 \format{
-A character vector with 97 elements, with roughly 80 characters per line
+A character vector with 97 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/nyarlathotep}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/nyarlathotep.rda}{RDA file} to use with R.
 }
 \usage{
-nyarlathotep
+data(nyarlathotep)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "NYARLATHOTEP"
 }
 \examples{
-data("nyarlathotep")
-lovecraftr::nyarlathotep
+\dontrun{
+library(lovecraftr)
+data(nyarlathotep)
 
+nyarlathotep <- lovecraftr::nyarlathotep
+}
 }
 \keyword{datasets}

@@ -5,20 +5,25 @@
 \alias{the_strange_high_house_in_the_mist}
 \title{Dataset of "THE STRANGE HIGH HOUSE IN THE MIST"}
 \format{
-A character vector with 289 elements, with roughly 80 characters per line
+A character vector with 289 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_strange_high_house_in_the_mist}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_strange_high_house_in_the_mist.rda}{RDA file} to use with R.
 }
 \usage{
-the_strange_high_house_in_the_mist
+data(the_strange_high_house_in_the_mist)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE STRANGE HIGH HOUSE IN THE MIST"
 }
 \examples{
-data("the_strange_high_house_in_the_mist")
-lovecraftr::the_strange_high_house_in_the_mist
+\dontrun{
+library(lovecraftr)
+data(the_strange_high_house_in_the_mist)
 
+the_strange_high_house_in_the_mist <- lovecraftr::the_strange_high_house_in_the_mist
+}
 }
 \keyword{datasets}

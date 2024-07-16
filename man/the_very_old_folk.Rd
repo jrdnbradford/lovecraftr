@@ -5,20 +5,25 @@
 \alias{the_very_old_folk}
 \title{Dataset of "THE VERY OLD FOLK"}
 \format{
-A character vector with 210 elements, with roughly 80 characters per line
+A character vector with 210 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_very_old_folk}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_very_old_folk.rda}{RDA file} to use with R.
 }
 \usage{
-the_very_old_folk
+data(the_very_old_folk)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE VERY OLD FOLK"
 }
 \examples{
-data("the_very_old_folk")
-lovecraftr::the_very_old_folk
+\dontrun{
+library(lovecraftr)
+data(the_very_old_folk)
 
+the_very_old_folk <- lovecraftr::the_very_old_folk
+}
 }
 \keyword{datasets}

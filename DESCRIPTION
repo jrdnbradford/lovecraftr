@@ -1,11 +1,11 @@
 Package: lovecraftr
 Type: Package
 Title: H. P. Lovecraft's works, for text analysis
-Version: 0.1.3
+Version: 0.2.0
 Authors@R:
     person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = c("aut", "cre"))
 Description: A collection of H. P. Lovecraft's works as R datasets.
-URL: https://github.com/jrdnbradford/lovecraftr
+URL: https://github.com/jrdnbradford/lovecraftr, https://jrdnbradford.github.io/lovecraftr/
 BugReports: https://github.com/jrdnbradford/lovecraftr/issues
 License: MIT + file LICENSE
 Encoding: UTF-8

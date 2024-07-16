@@ -80,24 +80,3 @@ Please cite this package if you use it.
 ```{R citation, echo=TRUE, eval=TRUE}
 citation("lovecraftr")
 ```
-
-## H. P. Lovecraft Datasets
-
-```{R file-table-setup, output=FALSE, echo=FALSE, eval=TRUE}
-raw_files <- list.files(file.path("data-raw", "corpus"), full.names = TRUE)
-titles <- readr::read_lines(raw_files, n_max = 1)
-datasets <- list.files("data", full.names = TRUE)
-path_to_remove <- "data/lovecraft.rda"
-datasets <- setdiff(datasets, path_to_remove)
-
-files <- tibble::tibble(
-  Title = titles,
-  TXT = paste0("[TXT](./", raw_files, ")"),
-  RDA = paste0("[RDA](./", datasets, ")")
-)
-```
-
-```{R file-table, output=TRUE, echo=FALSE, eval=TRUE}
-files |>
-  knitr::kable()
-```

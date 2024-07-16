@@ -5,20 +5,25 @@
 \alias{dreams_in_the_witch_house}
 \title{Dataset of "DREAMS IN THE WITCH-HOUSE"}
 \format{
-A character vector with 1,271 elements, with roughly 80 characters per line
+A character vector with 1,271 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dreams_in_the_witch_house}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/dreams_in_the_witch_house.rda}{RDA file} to use with R.
 }
 \usage{
-dreams_in_the_witch_house
+data(dreams_in_the_witch_house)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "DREAMS IN THE WITCH-HOUSE"
 }
 \examples{
-data("dreams_in_the_witch_house")
-lovecraftr::dreams_in_the_witch_house
+\dontrun{
+library(lovecraftr)
+data(dreams_in_the_witch_house)
 
+dreams_in_the_witch_house <- lovecraftr::dreams_in_the_witch_house
+}
 }
 \keyword{datasets}

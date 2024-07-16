@@ -5,20 +5,25 @@
 \alias{herbert_west_reanimator}
 \title{Dataset of "HERBERT WEST: REANIMATOR"}
 \format{
-A character vector with 1,053 elements, with roughly 80 characters per line
+A character vector with 1,053 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/herbert_west_reanimator}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/herbert_west_reanimator.rda}{RDA file} to use with R.
 }
 \usage{
-herbert_west_reanimator
+data(herbert_west_reanimator)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
 }
 \examples{
-data("herbert_west_reanimator")
-lovecraftr::herbert_west_reanimator
+\dontrun{
+library(lovecraftr)
+data(herbert_west_reanimator)
 
+herbert_west_reanimator <- lovecraftr::herbert_west_reanimator
+}
 }
 \keyword{datasets}

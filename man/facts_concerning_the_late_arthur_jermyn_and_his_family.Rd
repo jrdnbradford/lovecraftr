@@ -5,20 +5,25 @@
 \alias{facts_concerning_the_late_arthur_jermyn_and_his_family}
 \title{Dataset of "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"}
 \format{
-A character vector with 303 elements, with roughly 80 characters per line
+A character vector with 303 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/facts_concerning_the_late_arthur_jermyn_and_his_family}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/facts_concerning_the_late_arthur_jermyn_and_his_family.rda}{RDA file} to use with R.
 }
 \usage{
-facts_concerning_the_late_arthur_jermyn_and_his_family
+data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
 }
 \examples{
-data("facts_concerning_the_late_arthur_jermyn_and_his_family")
-lovecraftr::facts_concerning_the_late_arthur_jermyn_and_his_family
+\dontrun{
+library(lovecraftr)
+data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 
+facts_concerning_the_late_arthur_jermyn_and_his_family <- lovecraftr::facts_concerning_the_late_arthur_jermyn_and_his_family
+}
 }
 \keyword{datasets}

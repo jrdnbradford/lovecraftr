@@ -5,20 +5,25 @@
 \alias{from_beyond}
 \title{Dataset of "FROM BEYOND"}
 \format{
-A character vector with 222 elements, with roughly 80 characters per line
+A character vector with 222 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/from_beyond}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/from_beyond.rda}{RDA file} to use with R.
 }
 \usage{
-from_beyond
+data(from_beyond)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "FROM BEYOND"
 }
 \examples{
-data("from_beyond")
-lovecraftr::from_beyond
+\dontrun{
+library(lovecraftr)
+data(from_beyond)
 
+from_beyond <- lovecraftr::from_beyond
+}
 }
 \keyword{datasets}

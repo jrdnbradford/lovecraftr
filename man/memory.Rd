@@ -5,20 +5,25 @@
 \alias{memory}
 \title{Dataset of "MEMORY"}
 \format{
-A character vector with 31 elements, with roughly 80 characters per line
+A character vector with 31 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/memory}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/memory.rda}{RDA file} to use with R.
 }
 \usage{
-memory
+data(memory)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "MEMORY"
 }
 \examples{
-data("memory")
-lovecraftr::memory
+\dontrun{
+library(lovecraftr)
+data(memory)
 
+memory <- lovecraftr::memory
+}
 }
 \keyword{datasets}
