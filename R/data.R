@@ -17,8 +17,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/at_the_mountains_of_madness) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/at_the_mountains_of_madness.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/at_the_mountains_of_madness)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/at_the_mountains_of_madness.rda).
 #' @md
 "at_the_mountains_of_madness"
 
@@ -42,8 +42,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/azathoth) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/azathoth.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/azathoth)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/azathoth.rda).
 #' @md
 "azathoth"
 
@@ -67,8 +67,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda).
 #' @md
 "beyond_the_wall_of_sleep"
 
@@ -92,8 +92,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/celephais) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/celephais.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/celephais)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/celephais.rda).
 #' @md
 "celephais"
 
@@ -117,8 +117,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/cool_air) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/cool_air.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/cool_air)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/cool_air.rda).
 #' @md
 "cool_air"
 
@@ -142,8 +142,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dagon) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/dagon.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dagon)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/dagon.rda).
 #' @md
 "dagon"
 
@@ -167,8 +167,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dreams_in_the_witch_house) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/dreams_in_the_witch_house.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dreams_in_the_witch_house)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/dreams_in_the_witch_house.rda).
 #' @md
 "dreams_in_the_witch_house"
 
@@ -192,8 +192,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/ex_oblivione) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/ex_oblivione.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/ex_oblivione)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/ex_oblivione.rda).
 #' @md
 "ex_oblivione"
 
@@ -217,8 +217,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/facts_concerning_the_late_arthur_jermyn_and_his_family) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/facts_concerning_the_late_arthur_jermyn_and_his_family.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/facts_concerning_the_late_arthur_jermyn_and_his_family)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/facts_concerning_the_late_arthur_jermyn_and_his_family.rda).
 #' @md
 "facts_concerning_the_late_arthur_jermyn_and_his_family"
 
@@ -242,8 +242,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/from_beyond) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/from_beyond.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/from_beyond)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/from_beyond.rda).
 #' @md
 "from_beyond"
 
@@ -267,8 +267,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/he) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/he.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/he)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/he.rda).
 #' @md
 "he"
 
@@ -292,8 +292,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/herbert_west_reanimator) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/herbert_west_reanimator.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/herbert_west_reanimator)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/herbert_west_reanimator.rda).
 #' @md
 "herbert_west_reanimator"
 
@@ -317,8 +317,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/hypnos) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/hypnos.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/hypnos)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/hypnos.rda).
 #' @md
 "hypnos"
 
@@ -342,8 +342,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda).
 #' @md
 "imprisoned_with_the_pharoahs"
 
@@ -367,8 +367,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/in_the_vault) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/in_the_vault.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/in_the_vault)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/in_the_vault.rda).
 #' @md
 "in_the_vault"
 
@@ -392,8 +392,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/medusas_coil) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/medusas_coil.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/medusas_coil)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/medusas_coil.rda).
 #' @md
 "medusas_coil"
 
@@ -417,8 +417,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/memory) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/memory.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/memory)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/memory.rda).
 #' @md
 "memory"
 
@@ -442,8 +442,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/nyarlathotep) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/nyarlathotep.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/nyarlathotep)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/nyarlathotep.rda).
 #' @md
 "nyarlathotep"
 
@@ -467,8 +467,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/pickmans_model) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/pickmans_model.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/pickmans_model)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/pickmans_model.rda).
 #' @md
 "pickmans_model"
 
@@ -492,8 +492,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/poetry_of_the_gods) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/poetry_of_the_gods.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/poetry_of_the_gods)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/poetry_of_the_gods.rda).
 #' @md
 "poetry_of_the_gods"
 
@@ -517,8 +517,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/polaris) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/polaris.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/polaris)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/polaris.rda).
 #' @md
 "polaris"
 
@@ -542,8 +542,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_alchemist) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_alchemist.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_alchemist)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_alchemist.rda).
 #' @md
 "the_alchemist"
 
@@ -567,8 +567,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_beast_in_the_cave) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_beast_in_the_cave.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_beast_in_the_cave)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_beast_in_the_cave.rda).
 #' @md
 "the_beast_in_the_cave"
 
@@ -592,8 +592,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_book) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_book.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_book)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_book.rda).
 #' @md
 "the_book"
 
@@ -617,8 +617,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_call_of_cthulhu) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_call_of_cthulhu.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_call_of_cthulhu)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_call_of_cthulhu.rda).
 #' @md
 "the_call_of_cthulhu"
 
@@ -642,8 +642,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_case_of_charles_dexter_ward) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_case_of_charles_dexter_ward.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_case_of_charles_dexter_ward)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_case_of_charles_dexter_ward.rda).
 #' @md
 "the_case_of_charles_dexter_ward"
 
@@ -667,8 +667,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_cats_of_ulthar) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_cats_of_ulthar.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_cats_of_ulthar)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_cats_of_ulthar.rda).
 #' @md
 "the_cats_of_ulthar"
 
@@ -692,8 +692,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_colour_out_of_space) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_colour_out_of_space.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_colour_out_of_space)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_colour_out_of_space.rda).
 #' @md
 "the_colour_out_of_space"
 
@@ -717,8 +717,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_crawling_chaos) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_crawling_chaos.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_crawling_chaos)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_crawling_chaos.rda).
 #' @md
 "the_crawling_chaos"
 
@@ -742,8 +742,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_descendent) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_descendent.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_descendent)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_descendent.rda).
 #' @md
 "the_descendent"
 
@@ -767,8 +767,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_doom_that_came_to_sarnath) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_doom_that_came_to_sarnath.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_doom_that_came_to_sarnath)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_doom_that_came_to_sarnath.rda).
 #' @md
 "the_doom_that_came_to_sarnath"
 
@@ -792,8 +792,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dream_quest_of_unknown_kadath) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dream_quest_of_unknown_kadath.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dream_quest_of_unknown_kadath)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dream_quest_of_unknown_kadath.rda).
 #' @md
 "the_dream_quest_of_unknown_kadath"
 
@@ -817,8 +817,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dunwich_horror) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dunwich_horror.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dunwich_horror)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dunwich_horror.rda).
 #' @md
 "the_dunwich_horror"
 
@@ -842,8 +842,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_evil_clergyman) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_evil_clergyman.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_evil_clergyman)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_evil_clergyman.rda).
 #' @md
 "the_evil_clergyman"
 
@@ -867,8 +867,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_festival) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_festival.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_festival)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_festival.rda).
 #' @md
 "the_festival"
 
@@ -892,8 +892,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_haunter_of_the_dark) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_haunter_of_the_dark.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_haunter_of_the_dark)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_haunter_of_the_dark.rda).
 #' @md
 "the_haunter_of_the_dark"
 
@@ -917,8 +917,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_martins_beach) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_martins_beach.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_martins_beach)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_martins_beach.rda).
 #' @md
 "the_horror_at_martins_beach"
 
@@ -942,8 +942,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_redhook) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_redhook.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_redhook)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_redhook.rda).
 #' @md
 "the_horror_at_redhook"
 
@@ -967,8 +967,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_hound) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_hound.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_hound)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_hound.rda).
 #' @md
 "the_hound"
 
@@ -992,8 +992,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_lurking_fear) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_lurking_fear.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_lurking_fear)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_lurking_fear.rda).
 #' @md
 "the_lurking_fear"
 
@@ -1017,8 +1017,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_moon_bog) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_moon_bog.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_moon_bog)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_moon_bog.rda).
 #' @md
 "the_moon_bog"
 
@@ -1042,8 +1042,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda).
 #' @md
 "the_music_of_erich_zann"
 
@@ -1067,8 +1067,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_nameless_city) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_nameless_city.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_nameless_city)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_nameless_city.rda).
 #' @md
 "the_nameless_city"
 
@@ -1092,8 +1092,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_other_gods) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_other_gods.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_other_gods)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_other_gods.rda).
 #' @md
 "the_other_gods"
 
@@ -1117,8 +1117,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_outsider) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_outsider.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_outsider)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_outsider.rda).
 #' @md
 "the_outsider"
 
@@ -1142,8 +1142,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_picture_in_the_house) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_picture_in_the_house.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_picture_in_the_house)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_picture_in_the_house.rda).
 #' @md
 "the_picture_in_the_house"
 
@@ -1167,8 +1167,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_quest_of_iranon) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_quest_of_iranon.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_quest_of_iranon)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_quest_of_iranon.rda).
 #' @md
 "the_quest_of_iranon"
 
@@ -1192,8 +1192,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_rats_in_the_walls) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_rats_in_the_walls.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_rats_in_the_walls)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_rats_in_the_walls.rda).
 #' @md
 "the_rats_in_the_walls"
 
@@ -1217,8 +1217,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_out_of_time) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_out_of_time.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_out_of_time)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_out_of_time.rda).
 #' @md
 "the_shadow_out_of_time"
 
@@ -1242,8 +1242,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_over_innsmouth) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_over_innsmouth.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_over_innsmouth)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_over_innsmouth.rda).
 #' @md
 "the_shadow_over_innsmouth"
 
@@ -1267,8 +1267,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shunned_house) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shunned_house.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shunned_house)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shunned_house.rda).
 #' @md
 "the_shunned_house"
 
@@ -1292,8 +1292,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_silver_key) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_silver_key.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_silver_key)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_silver_key.rda).
 #' @md
 "the_silver_key"
 
@@ -1317,8 +1317,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_statement_of_randolph_carter) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_statement_of_randolph_carter.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_statement_of_randolph_carter)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_statement_of_randolph_carter.rda).
 #' @md
 "the_statement_of_randolph_carter"
 
@@ -1342,8 +1342,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_strange_high_house_in_the_mist) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_strange_high_house_in_the_mist.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_strange_high_house_in_the_mist)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_strange_high_house_in_the_mist.rda).
 #' @md
 "the_strange_high_house_in_the_mist"
 
@@ -1367,8 +1367,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_street) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_street.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_street)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_street.rda).
 #' @md
 "the_street"
 
@@ -1392,8 +1392,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_temple) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_temple.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_temple)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_temple.rda).
 #' @md
 "the_temple"
 
@@ -1417,8 +1417,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_terrible_old_man) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_terrible_old_man.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_terrible_old_man)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_terrible_old_man.rda).
 #' @md
 "the_terrible_old_man"
 
@@ -1442,8 +1442,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_thing_on_the_doorstep) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_thing_on_the_doorstep.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_thing_on_the_doorstep)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_thing_on_the_doorstep.rda).
 #' @md
 "the_thing_on_the_doorstep"
 
@@ -1467,8 +1467,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tomb) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tomb.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tomb)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tomb.rda).
 #' @md
 "the_tomb"
 
@@ -1492,8 +1492,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_transition_of_juan_romero) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_transition_of_juan_romero.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_transition_of_juan_romero)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_transition_of_juan_romero.rda).
 #' @md
 "the_transition_of_juan_romero"
 
@@ -1517,8 +1517,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tree) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tree.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tree)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tree.rda).
 #' @md
 "the_tree"
 
@@ -1542,8 +1542,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_unnamable) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_unnamable.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_unnamable)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_unnamable.rda).
 #' @md
 "the_unnamable"
 
@@ -1567,8 +1567,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_very_old_folk) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_very_old_folk.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_very_old_folk)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_very_old_folk.rda).
 #' @md
 "the_very_old_folk"
 
@@ -1592,8 +1592,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_whisperer_in_darkness) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_whisperer_in_darkness.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_whisperer_in_darkness)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_whisperer_in_darkness.rda).
 #' @md
 "the_whisperer_in_darkness"
 
@@ -1617,8 +1617,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_white_ship) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_white_ship.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_white_ship)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_white_ship.rda).
 #' @md
 "the_white_ship"
 
@@ -1642,8 +1642,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/through_the_gates_of_the_silver_key) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/through_the_gates_of_the_silver_key.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/through_the_gates_of_the_silver_key)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/through_the_gates_of_the_silver_key.rda).
 #' @md
 "through_the_gates_of_the_silver_key"
 
@@ -1667,8 +1667,8 @@
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
-#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/what_the_moon_brings) or download
-#'   the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/what_the_moon_brings.rda) to use with R.
+#'   See the [raw text file](https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/what_the_moon_brings)
+#'   or download the [RDA file](https://github.com/jrdnbradford/lovecraftr/raw/main/data/what_the_moon_brings.rda).
 #' @md
 "what_the_moon_brings"
 
