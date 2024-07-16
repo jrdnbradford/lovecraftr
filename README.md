@@ -22,20 +22,21 @@ Call of Cthulhu*
 
 {`lovecraftr`} contains H. P. Lovecraft’s corpus as R datasets for
 textual analysis. This repository contains both the raw txt files and
-RDA files. See [H. P. Lovecraft Datasets](#h-p-lovecraft-datasets) below
+RDA files. See the
+[reference](https://jrdnbradford.github.io/lovecraftr/reference/index.html)
 for the list of available works.
 
 ## Installation
 
 Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using
-{[devtools](https://devtools.r-lib.org/)}:
+{[`devtools`](https://devtools.r-lib.org/)}:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("jrdnbradford/lovecraftr")
 ```
 
-or {[remotes](https://remotes.r-lib.org//)}:
+or {[`remotes`](https://remotes.r-lib.org//)}:
 
 ``` r
 # install.packages("remotes")
