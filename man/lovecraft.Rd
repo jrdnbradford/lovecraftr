@@ -7,23 +7,23 @@
 \format{
 A tibble with 43,347 rows and 2 columns:
 \describe{
-  \item{title}{Title of the work}
-  \item{text}{~80 characters of text from the title}
+\item{title}{Title of the work}
+\item{text}{~80 characters of text from the title}
 }
 }
 \source{
-Public domain
+Public domain.
 }
 \usage{
-lovecraft
+data(lovecraft)
 }
 \description{
-A dataset containing text of all the H. P. Lovecraft works available in this package
+A dataset containing text of all the H. P. Lovecraft works available in this package.
 }
 \examples{
-data("lovecraft")
-lovecraftr::lovecraft
-df <- lovecraftr::lovecraft_corpus()
-
+\dontrun{
+data(lovecraft)
+corpus <- lovecraftr::lovecraft
+}
 }
 \keyword{datasets}

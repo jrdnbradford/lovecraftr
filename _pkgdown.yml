@@ -1,0 +1,17 @@
+url: https://jrdnbradford.github.io/lovecraftr/
+template:
+  bootstrap: 5
+  light-switch: true
+
+reference:
+- title: Data
+  desc: >
+    {`lovecraftr`} contains the following datasets.
+  contents:
+  - has_keyword("datasets")
+
+- title: Functions
+  desc: >
+    {`lovecraftr`} contains the following functions.
+  contents:
+  - lovecraft_corpus

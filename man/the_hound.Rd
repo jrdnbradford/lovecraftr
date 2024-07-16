@@ -5,20 +5,25 @@
 \alias{the_hound}
 \title{Dataset of "THE HOUND"}
 \format{
-A character vector with 266 elements, with roughly 80 characters per line
+A character vector with 266 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_hound}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_hound.rda}{RDA file} to use with R.
 }
 \usage{
-the_hound
+data(the_hound)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE HOUND"
 }
 \examples{
-data("the_hound")
-lovecraftr::the_hound
+\dontrun{
+library(lovecraftr)
+data(the_hound)
 
+the_hound <- lovecraftr::the_hound
+}
 }
 \keyword{datasets}

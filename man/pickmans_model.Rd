@@ -5,20 +5,25 @@
 \alias{pickmans_model}
 \title{Dataset of "PICKMAN'S MODEL"}
 \format{
-A character vector with 455 elements, with roughly 80 characters per line
+A character vector with 455 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/pickmans_model}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/pickmans_model.rda}{RDA file} to use with R.
 }
 \usage{
-pickmans_model
+data(pickmans_model)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "PICKMAN'S MODEL"
 }
 \examples{
-data("pickmans_model")
-lovecraftr::pickmans_model
+\dontrun{
+library(lovecraftr)
+data(pickmans_model)
 
+pickmans_model <- lovecraftr::pickmans_model
+}
 }
 \keyword{datasets}

@@ -5,20 +5,25 @@
 \alias{ex_oblivione}
 \title{Dataset of "EX OBLIVIONE"}
 \format{
-A character vector with 66 elements, with roughly 80 characters per line
+A character vector with 66 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/ex_oblivione}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/ex_oblivione.rda}{RDA file} to use with R.
 }
 \usage{
-ex_oblivione
+data(ex_oblivione)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "EX OBLIVIONE"
 }
 \examples{
-data("ex_oblivione")
-lovecraftr::ex_oblivione
+\dontrun{
+library(lovecraftr)
+data(ex_oblivione)
 
+ex_oblivione <- lovecraftr::ex_oblivione
+}
 }
 \keyword{datasets}

@@ -5,20 +5,25 @@
 \alias{in_the_vault}
 \title{Dataset of "IN THE VAULT"}
 \format{
-A character vector with 272 elements, with roughly 80 characters per line
+A character vector with 272 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/in_the_vault}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/in_the_vault.rda}{RDA file} to use with R.
 }
 \usage{
-in_the_vault
+data(in_the_vault)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "IN THE VAULT"
 }
 \examples{
-data("in_the_vault")
-lovecraftr::in_the_vault
+\dontrun{
+library(lovecraftr)
+data(in_the_vault)
 
+in_the_vault <- lovecraftr::in_the_vault
+}
 }
 \keyword{datasets}

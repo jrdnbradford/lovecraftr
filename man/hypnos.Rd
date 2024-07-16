@@ -5,20 +5,25 @@
 \alias{hypnos}
 \title{Dataset of "HYPNOS"}
 \format{
-A character vector with 233 elements, with roughly 80 characters per line
+A character vector with 233 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/hypnos}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/hypnos.rda}{RDA file} to use with R.
 }
 \usage{
-hypnos
+data(hypnos)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "HYPNOS"
 }
 \examples{
-data("hypnos")
-lovecraftr::hypnos
+\dontrun{
+library(lovecraftr)
+data(hypnos)
 
+hypnos <- lovecraftr::hypnos
+}
 }
 \keyword{datasets}

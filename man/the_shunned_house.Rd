@@ -5,20 +5,25 @@
 \alias{the_shunned_house}
 \title{Dataset of "THE SHUNNED HOUSE"}
 \format{
-A character vector with 916 elements, with roughly 80 characters per line
+A character vector with 916 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shunned_house}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shunned_house.rda}{RDA file} to use with R.
 }
 \usage{
-the_shunned_house
+data(the_shunned_house)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE SHUNNED HOUSE"
 }
 \examples{
-data("the_shunned_house")
-lovecraftr::the_shunned_house
+\dontrun{
+library(lovecraftr)
+data(the_shunned_house)
 
+the_shunned_house <- lovecraftr::the_shunned_house
+}
 }
 \keyword{datasets}

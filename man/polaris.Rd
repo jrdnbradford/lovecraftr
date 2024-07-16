@@ -5,20 +5,25 @@
 \alias{polaris}
 \title{Dataset of "POLARIS"}
 \format{
-A character vector with 129 elements, with roughly 80 characters per line
+A character vector with 129 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/polaris}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/polaris.rda}{RDA file} to use with R.
 }
 \usage{
-polaris
+data(polaris)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "POLARIS"
 }
 \examples{
-data("polaris")
-lovecraftr::polaris
+\dontrun{
+library(lovecraftr)
+data(polaris)
 
+polaris <- lovecraftr::polaris
+}
 }
 \keyword{datasets}

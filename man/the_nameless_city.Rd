@@ -5,20 +5,25 @@
 \alias{the_nameless_city}
 \title{Dataset of "THE NAMELESS CITY"}
 \format{
-A character vector with 418 elements, with roughly 80 characters per line
+A character vector with 418 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_nameless_city}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_nameless_city.rda}{RDA file} to use with R.
 }
 \usage{
-the_nameless_city
+data(the_nameless_city)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE NAMELESS CITY"
 }
 \examples{
-data("the_nameless_city")
-lovecraftr::the_nameless_city
+\dontrun{
+library(lovecraftr)
+data(the_nameless_city)
 
+the_nameless_city <- lovecraftr::the_nameless_city
+}
 }
 \keyword{datasets}

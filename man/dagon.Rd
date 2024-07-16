@@ -5,20 +5,25 @@
 \alias{dagon}
 \title{Dataset of "DAGON"}
 \format{
-A character vector with 187 elements, with roughly 80 characters per line
+A character vector with 187 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dagon}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/dagon.rda}{RDA file} to use with R.
 }
 \usage{
-dagon
+data(dagon)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "DAGON"
 }
 \examples{
-data("dagon")
-lovecraftr::dagon
+\dontrun{
+library(lovecraftr)
+data(dagon)
 
+dagon <- lovecraftr::dagon
+}
 }
 \keyword{datasets}

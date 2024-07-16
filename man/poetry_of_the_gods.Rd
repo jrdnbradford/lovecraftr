@@ -5,20 +5,25 @@
 \alias{poetry_of_the_gods}
 \title{Dataset of "POETRY OF THE GODS"}
 \format{
-A character vector with 157 elements, with roughly 80 characters per line
+A character vector with 157 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/poetry_of_the_gods}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/poetry_of_the_gods.rda}{RDA file} to use with R.
 }
 \usage{
-poetry_of_the_gods
+data(poetry_of_the_gods)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "POETRY OF THE GODS"
 }
 \examples{
-data("poetry_of_the_gods")
-lovecraftr::poetry_of_the_gods
+\dontrun{
+library(lovecraftr)
+data(poetry_of_the_gods)
 
+poetry_of_the_gods <- lovecraftr::poetry_of_the_gods
+}
 }
 \keyword{datasets}

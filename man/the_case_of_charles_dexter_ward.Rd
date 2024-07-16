@@ -5,20 +5,25 @@
 \alias{the_case_of_charles_dexter_ward}
 \title{Dataset of "THE CASE OF CHARLES DEXTER WARD"}
 \format{
-A character vector with 4,358 elements, with roughly 80 characters per line
+A character vector with 4,358 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_case_of_charles_dexter_ward}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_case_of_charles_dexter_ward.rda}{RDA file} to use with R.
 }
 \usage{
-the_case_of_charles_dexter_ward
+data(the_case_of_charles_dexter_ward)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE CASE OF CHARLES DEXTER WARD"
 }
 \examples{
-data("the_case_of_charles_dexter_ward")
-lovecraftr::the_case_of_charles_dexter_ward
+\dontrun{
+library(lovecraftr)
+data(the_case_of_charles_dexter_ward)
 
+the_case_of_charles_dexter_ward <- lovecraftr::the_case_of_charles_dexter_ward
+}
 }
 \keyword{datasets}

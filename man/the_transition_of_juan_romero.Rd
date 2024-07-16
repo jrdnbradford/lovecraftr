@@ -5,20 +5,25 @@
 \alias{the_transition_of_juan_romero}
 \title{Dataset of "THE TRANSITION OF JUAN ROMERO"}
 \format{
-A character vector with 234 elements, with roughly 80 characters per line
+A character vector with 234 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_transition_of_juan_romero}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_transition_of_juan_romero.rda}{RDA file} to use with R.
 }
 \usage{
-the_transition_of_juan_romero
+data(the_transition_of_juan_romero)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE TRANSITION OF JUAN ROMERO"
 }
 \examples{
-data("the_transition_of_juan_romero")
-lovecraftr::the_transition_of_juan_romero
+\dontrun{
+library(lovecraftr)
+data(the_transition_of_juan_romero)
 
+the_transition_of_juan_romero <- lovecraftr::the_transition_of_juan_romero
+}
 }
 \keyword{datasets}

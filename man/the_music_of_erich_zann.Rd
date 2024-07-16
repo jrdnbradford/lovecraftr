@@ -5,20 +5,25 @@
 \alias{the_music_of_erich_zann}
 \title{Dataset of "THE MUSIC OF ERICH ZANN"}
 \format{
-A character vector with 285 elements, with roughly 80 characters per line
+A character vector with 285 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda}{RDA file} to use with R.
 }
 \usage{
-the_music_of_erich_zann
+data(the_music_of_erich_zann)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
 }
 \examples{
-data("the_music_of_erich_zann")
-lovecraftr::the_music_of_erich_zann
+\dontrun{
+library(lovecraftr)
+data(the_music_of_erich_zann)
 
+the_music_of_erich_zann <- lovecraftr::the_music_of_erich_zann
+}
 }
 \keyword{datasets}

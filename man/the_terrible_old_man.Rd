@@ -5,20 +5,25 @@
 \alias{the_terrible_old_man}
 \title{Dataset of "THE TERRIBLE OLD MAN"}
 \format{
-A character vector with 87 elements, with roughly 80 characters per line
+A character vector with 87 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_terrible_old_man}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_terrible_old_man.rda}{RDA file} to use with R.
 }
 \usage{
-the_terrible_old_man
+data(the_terrible_old_man)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE TERRIBLE OLD MAN"
 }
 \examples{
-data("the_terrible_old_man")
-lovecraftr::the_terrible_old_man
+\dontrun{
+library(lovecraftr)
+data(the_terrible_old_man)
 
+the_terrible_old_man <- lovecraftr::the_terrible_old_man
+}
 }
 \keyword{datasets}

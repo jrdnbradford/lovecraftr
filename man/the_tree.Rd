@@ -5,20 +5,25 @@
 \alias{the_tree}
 \title{Dataset of "THE TREE"}
 \format{
-A character vector with 127 elements, with roughly 80 characters per line
+A character vector with 127 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_tree}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_tree.rda}{RDA file} to use with R.
 }
 \usage{
-the_tree
+data(the_tree)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE TREE"
 }
 \examples{
-data("the_tree")
-lovecraftr::the_tree
+\dontrun{
+library(lovecraftr)
+data(the_tree)
 
+the_tree <- lovecraftr::the_tree
+}
 }
 \keyword{datasets}

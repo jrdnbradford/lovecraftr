@@ -5,20 +5,25 @@
 \alias{azathoth}
 \title{Dataset of "AZATHOTH"}
 \format{
-A character vector with 37 elements, with roughly 80 characters per line
+A character vector with 37 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/azathoth}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/azathoth.rda}{RDA file} to use with R.
 }
 \usage{
-azathoth
+data(azathoth)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "AZATHOTH"
 }
 \examples{
-data("azathoth")
-lovecraftr::azathoth
+\dontrun{
+library(lovecraftr)
+data(azathoth)
 
+azathoth <- lovecraftr::azathoth
+}
 }
 \keyword{datasets}

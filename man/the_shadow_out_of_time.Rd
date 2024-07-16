@@ -5,20 +5,25 @@
 \alias{the_shadow_out_of_time}
 \title{Dataset of "THE SHADOW OUT OF TIME"}
 \format{
-A character vector with 2,529 elements, with roughly 80 characters per line
+A character vector with 2,529 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_shadow_out_of_time}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_shadow_out_of_time.rda}{RDA file} to use with R.
 }
 \usage{
-the_shadow_out_of_time
+data(the_shadow_out_of_time)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE SHADOW OUT OF TIME"
 }
 \examples{
-data("the_shadow_out_of_time")
-lovecraftr::the_shadow_out_of_time
+\dontrun{
+library(lovecraftr)
+data(the_shadow_out_of_time)
 
+the_shadow_out_of_time <- lovecraftr::the_shadow_out_of_time
+}
 }
 \keyword{datasets}

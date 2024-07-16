@@ -8,3 +8,7 @@
 ^\.github$
 ^LICENSE\.md$
 ^\.pre-commit-config\.yaml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^vignettes/*_files$

@@ -5,20 +5,25 @@
 \alias{the_horror_at_redhook}
 \title{Dataset of "THE HORROR AT RED HOOK"}
 \format{
-A character vector with 702 elements, with roughly 80 characters per line
+A character vector with 702 elements, with roughly 80 characters per line.
 }
 \source{
-Public domain
+Public domain.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_horror_at_redhook}{raw text file} or download
+the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_horror_at_redhook.rda}{RDA file} to use with R.
 }
 \usage{
-the_horror_at_redhook
+data(the_horror_at_redhook)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE HORROR AT RED HOOK"
 }
 \examples{
-data("the_horror_at_redhook")
-lovecraftr::the_horror_at_redhook
+\dontrun{
+library(lovecraftr)
+data(the_horror_at_redhook)
 
+the_horror_at_redhook <- lovecraftr::the_horror_at_redhook
+}
 }
 \keyword{datasets}
