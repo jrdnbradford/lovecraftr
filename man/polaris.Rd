@@ -9,21 +9,13 @@ A character vector with 129 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/polaris}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/polaris.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/polaris}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/polaris.rda}{RDA file}.
 }
 \usage{
 data(polaris)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "POLARIS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(polaris)
-
-polaris <- lovecraftr::polaris
-}
 }
 \keyword{datasets}

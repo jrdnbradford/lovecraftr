@@ -9,21 +9,13 @@ A character vector with 234 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_crawling_chaos}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_crawling_chaos.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_crawling_chaos}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_crawling_chaos.rda}{RDA file}.
 }
 \usage{
 data(the_crawling_chaos)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE CRAWLING CHAOS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_crawling_chaos)
-
-the_crawling_chaos <- lovecraftr::the_crawling_chaos
-}
 }
 \keyword{datasets}

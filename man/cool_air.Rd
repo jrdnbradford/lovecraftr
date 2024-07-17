@@ -9,21 +9,13 @@ A character vector with 292 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/cool_air}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/cool_air.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/cool_air}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/cool_air.rda}{RDA file}.
 }
 \usage{
 data(cool_air)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "COOL AIR"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(cool_air)
-
-cool_air <- lovecraftr::cool_air
-}
 }
 \keyword{datasets}

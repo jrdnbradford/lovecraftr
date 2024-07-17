@@ -9,21 +9,13 @@ A character vector with 263 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_picture_in_the_house}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_picture_in_the_house.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_picture_in_the_house}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_picture_in_the_house.rda}{RDA file}.
 }
 \usage{
 data(the_picture_in_the_house)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE PICTURE IN THE HOUSE"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_picture_in_the_house)
-
-the_picture_in_the_house <- lovecraftr::the_picture_in_the_house
-}
 }
 \keyword{datasets}

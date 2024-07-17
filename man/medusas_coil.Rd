@@ -9,21 +9,13 @@ A character vector with 1,443 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/medusas_coil}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/medusas_coil.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/medusas_coil}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/medusas_coil.rda}{RDA file}.
 }
 \usage{
 data(medusas_coil)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "MEDUSA'S COIL"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(medusas_coil)
-
-medusas_coil <- lovecraftr::medusas_coil
-}
 }
 \keyword{datasets}

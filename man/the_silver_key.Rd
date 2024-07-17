@@ -9,21 +9,13 @@ A character vector with 404 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_silver_key}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_silver_key.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_silver_key}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_silver_key.rda}{RDA file}.
 }
 \usage{
 data(the_silver_key)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE SILVER KEY"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_silver_key)
-
-the_silver_key <- lovecraftr::the_silver_key
-}
 }
 \keyword{datasets}

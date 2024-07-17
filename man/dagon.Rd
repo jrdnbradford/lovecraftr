@@ -9,21 +9,13 @@ A character vector with 187 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dagon}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/dagon.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/dagon}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/dagon.rda}{RDA file}.
 }
 \usage{
 data(dagon)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "DAGON"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(dagon)
-
-dagon <- lovecraftr::dagon
-}
 }
 \keyword{datasets}

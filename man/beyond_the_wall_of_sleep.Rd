@@ -9,21 +9,13 @@ A character vector with 361 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda}{RDA file}.
 }
 \usage{
 data(beyond_the_wall_of_sleep)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "BEYOND THE WALL OF SLEEP"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(beyond_the_wall_of_sleep)
-
-beyond_the_wall_of_sleep <- lovecraftr::beyond_the_wall_of_sleep
-}
 }
 \keyword{datasets}

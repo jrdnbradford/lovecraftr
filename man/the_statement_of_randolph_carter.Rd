@@ -9,21 +9,13 @@ A character vector with 221 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_statement_of_randolph_carter}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_statement_of_randolph_carter.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_statement_of_randolph_carter}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_statement_of_randolph_carter.rda}{RDA file}.
 }
 \usage{
 data(the_statement_of_randolph_carter)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE STATEMENT OF RANDOLPH CARTER"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_statement_of_randolph_carter)
-
-the_statement_of_randolph_carter <- lovecraftr::the_statement_of_randolph_carter
-}
 }
 \keyword{datasets}

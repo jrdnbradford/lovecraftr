@@ -9,21 +9,13 @@ A character vector with 455 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/pickmans_model}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/pickmans_model.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/pickmans_model}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/pickmans_model.rda}{RDA file}.
 }
 \usage{
 data(pickmans_model)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "PICKMAN'S MODEL"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(pickmans_model)
-
-pickmans_model <- lovecraftr::pickmans_model
-}
 }
 \keyword{datasets}

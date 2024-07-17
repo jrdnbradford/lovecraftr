@@ -9,21 +9,13 @@ A character vector with 109 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_cats_of_ulthar}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_cats_of_ulthar.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_cats_of_ulthar}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_cats_of_ulthar.rda}{RDA file}.
 }
 \usage{
 data(the_cats_of_ulthar)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE CATS OF ULTHAR"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_cats_of_ulthar)
-
-the_cats_of_ulthar <- lovecraftr::the_cats_of_ulthar
-}
 }
 \keyword{datasets}

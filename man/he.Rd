@@ -9,21 +9,13 @@ A character vector with 360 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/he}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/he.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/he}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/he.rda}{RDA file}.
 }
 \usage{
 data(he)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "HE"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(he)
-
-he <- lovecraftr::he
-}
 }
 \keyword{datasets}
