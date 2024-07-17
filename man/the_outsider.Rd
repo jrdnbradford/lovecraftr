@@ -9,21 +9,13 @@ A character vector with 213 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_outsider}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_outsider.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_outsider}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_outsider.rda}{RDA file}.
 }
 \usage{
 data(the_outsider)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE OUTSIDER"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_outsider)
-
-the_outsider <- lovecraftr::the_outsider
-}
 }
 \keyword{datasets}

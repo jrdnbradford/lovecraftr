@@ -9,21 +9,13 @@ A character vector with 3,475 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dream_quest_of_unknown_kadath}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dream_quest_of_unknown_kadath.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dream_quest_of_unknown_kadath}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dream_quest_of_unknown_kadath.rda}{RDA file}.
 }
 \usage{
 data(the_dream_quest_of_unknown_kadath)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE DREAM QUEST OF UNKNOWN KADATH"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_dream_quest_of_unknown_kadath)
-
-the_dream_quest_of_unknown_kadath <- lovecraftr::the_dream_quest_of_unknown_kadath
-}
 }
 \keyword{datasets}

@@ -9,21 +9,13 @@ A character vector with 202 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/celephais}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/celephais.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/celephais}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/celephais.rda}{RDA file}.
 }
 \usage{
 data(celephais)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "CELEPHAIS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(celephais)
-
-celephais <- lovecraftr::celephais
-}
 }
 \keyword{datasets}

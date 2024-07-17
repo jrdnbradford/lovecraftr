@@ -9,21 +9,13 @@ A character vector with 303 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/facts_concerning_the_late_arthur_jermyn_and_his_family}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/facts_concerning_the_late_arthur_jermyn_and_his_family.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/facts_concerning_the_late_arthur_jermyn_and_his_family}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/facts_concerning_the_late_arthur_jermyn_and_his_family.rda}{RDA file}.
 }
 \usage{
 data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(facts_concerning_the_late_arthur_jermyn_and_his_family)
-
-facts_concerning_the_late_arthur_jermyn_and_his_family <- lovecraftr::facts_concerning_the_late_arthur_jermyn_and_his_family
-}
 }
 \keyword{datasets}

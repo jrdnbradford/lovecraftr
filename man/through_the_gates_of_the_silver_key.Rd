@@ -9,21 +9,13 @@ A character vector with 1,305 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/through_the_gates_of_the_silver_key}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/through_the_gates_of_the_silver_key.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/through_the_gates_of_the_silver_key}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/through_the_gates_of_the_silver_key.rda}{RDA file}.
 }
 \usage{
 data(through_the_gates_of_the_silver_key)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THROUGH THE GATES OF THE SILVER KEY"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(through_the_gates_of_the_silver_key)
-
-through_the_gates_of_the_silver_key <- lovecraftr::through_the_gates_of_the_silver_key
-}
 }
 \keyword{datasets}

@@ -9,21 +9,13 @@ A character vector with 931 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_thing_on_the_doorstep}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_thing_on_the_doorstep.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_thing_on_the_doorstep}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_thing_on_the_doorstep.rda}{RDA file}.
 }
 \usage{
 data(the_thing_on_the_doorstep)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE THING ON THE DOORSTEP"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_thing_on_the_doorstep)
-
-the_thing_on_the_doorstep <- lovecraftr::the_thing_on_the_doorstep
-}
 }
 \keyword{datasets}

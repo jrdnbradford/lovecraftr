@@ -9,21 +9,13 @@ A character vector with 285 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda}{RDA file}.
 }
 \usage{
 data(the_music_of_erich_zann)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_music_of_erich_zann)
-
-the_music_of_erich_zann <- lovecraftr::the_music_of_erich_zann
-}
 }
 \keyword{datasets}

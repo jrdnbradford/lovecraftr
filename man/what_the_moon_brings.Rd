@@ -9,21 +9,13 @@ A character vector with 60 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/what_the_moon_brings}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/what_the_moon_brings.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/what_the_moon_brings}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/what_the_moon_brings.rda}{RDA file}.
 }
 \usage{
 data(what_the_moon_brings)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "WHAT THE MOON BRINGS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(what_the_moon_brings)
-
-what_the_moon_brings <- lovecraftr::what_the_moon_brings
-}
 }
 \keyword{datasets}

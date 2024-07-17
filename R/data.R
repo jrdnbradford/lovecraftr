@@ -6,14 +6,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "AT THE MOUNTAINS OF MADNESS"
 #' @usage data(at_the_mountains_of_madness)
 #' @format A character vector with 3,579 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(at_the_mountains_of_madness)
-#'
-#' at_the_mountains_of_madness <- lovecraftr::at_the_mountains_of_madness
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -31,14 +23,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "AZATHOTH"
 #' @usage data(azathoth)
 #' @format A character vector with 37 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(azathoth)
-#'
-#' azathoth <- lovecraftr::azathoth
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -56,14 +40,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "BEYOND THE WALL OF SLEEP"
 #' @usage data(beyond_the_wall_of_sleep)
 #' @format A character vector with 361 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(beyond_the_wall_of_sleep)
-#'
-#' beyond_the_wall_of_sleep <- lovecraftr::beyond_the_wall_of_sleep
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -81,14 +57,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "CELEPHAIS"
 #' @usage data(celephais)
 #' @format A character vector with 202 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(celephais)
-#'
-#' celephais <- lovecraftr::celephais
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -106,14 +74,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "COOL AIR"
 #' @usage data(cool_air)
 #' @format A character vector with 292 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(cool_air)
-#'
-#' cool_air <- lovecraftr::cool_air
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -131,14 +91,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "DAGON"
 #' @usage data(dagon)
 #' @format A character vector with 187 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(dagon)
-#'
-#' dagon <- lovecraftr::dagon
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -156,14 +108,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "DREAMS IN THE WITCH-HOUSE"
 #' @usage data(dreams_in_the_witch_house)
 #' @format A character vector with 1,271 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(dreams_in_the_witch_house)
-#'
-#' dreams_in_the_witch_house <- lovecraftr::dreams_in_the_witch_house
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -181,14 +125,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "EX OBLIVIONE"
 #' @usage data(ex_oblivione)
 #' @format A character vector with 66 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(ex_oblivione)
-#'
-#' ex_oblivione <- lovecraftr::ex_oblivione
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -206,14 +142,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
 #' @usage data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 #' @format A character vector with 303 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(facts_concerning_the_late_arthur_jermyn_and_his_family)
-#'
-#' facts_concerning_the_late_arthur_jermyn_and_his_family <- lovecraftr::facts_concerning_the_late_arthur_jermyn_and_his_family
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -231,14 +159,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "FROM BEYOND"
 #' @usage data(from_beyond)
 #' @format A character vector with 222 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(from_beyond)
-#'
-#' from_beyond <- lovecraftr::from_beyond
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -256,14 +176,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "HE"
 #' @usage data(he)
 #' @format A character vector with 360 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(he)
-#'
-#' he <- lovecraftr::he
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -281,14 +193,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
 #' @usage data(herbert_west_reanimator)
 #' @format A character vector with 1,053 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(herbert_west_reanimator)
-#'
-#' herbert_west_reanimator <- lovecraftr::herbert_west_reanimator
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -306,14 +210,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "HYPNOS"
 #' @usage data(hypnos)
 #' @format A character vector with 233 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(hypnos)
-#'
-#' hypnos <- lovecraftr::hypnos
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -331,14 +227,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "IMPRISONED WITH THE PHARAOHS"
 #' @usage data(imprisoned_with_the_pharoahs)
 #' @format A character vector with 948 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(imprisoned_with_the_pharoahs)
-#'
-#' imprisoned_with_the_pharoahs <- lovecraftr::imprisoned_with_the_pharoahs
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -356,14 +244,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "IN THE VAULT"
 #' @usage data(in_the_vault)
 #' @format A character vector with 272 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(in_the_vault)
-#'
-#' in_the_vault <- lovecraftr::in_the_vault
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -381,14 +261,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "MEDUSA'S COIL"
 #' @usage data(medusas_coil)
 #' @format A character vector with 1,443 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(medusas_coil)
-#'
-#' medusas_coil <- lovecraftr::medusas_coil
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -406,14 +278,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "MEMORY"
 #' @usage data(memory)
 #' @format A character vector with 31 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(memory)
-#'
-#' memory <- lovecraftr::memory
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -431,14 +295,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "NYARLATHOTEP"
 #' @usage data(nyarlathotep)
 #' @format A character vector with 97 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(nyarlathotep)
-#'
-#' nyarlathotep <- lovecraftr::nyarlathotep
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -456,14 +312,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "PICKMAN'S MODEL"
 #' @usage data(pickmans_model)
 #' @format A character vector with 455 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(pickmans_model)
-#'
-#' pickmans_model <- lovecraftr::pickmans_model
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -481,14 +329,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "POETRY OF THE GODS"
 #' @usage data(poetry_of_the_gods)
 #' @format A character vector with 157 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(poetry_of_the_gods)
-#'
-#' poetry_of_the_gods <- lovecraftr::poetry_of_the_gods
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -506,14 +346,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "POLARIS"
 #' @usage data(polaris)
 #' @format A character vector with 129 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(polaris)
-#'
-#' polaris <- lovecraftr::polaris
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -531,14 +363,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE ALCHEMIST"
 #' @usage data(the_alchemist)
 #' @format A character vector with 295 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_alchemist)
-#'
-#' the_alchemist <- lovecraftr::the_alchemist
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -556,14 +380,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE BEAST IN THE CAVE"
 #' @usage data(the_beast_in_the_cave)
 #' @format A character vector with 204 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_beast_in_the_cave)
-#'
-#' the_beast_in_the_cave <- lovecraftr::the_beast_in_the_cave
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -581,14 +397,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE BOOK"
 #' @usage data(the_book)
 #' @format A character vector with 95 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_book)
-#'
-#' the_book <- lovecraftr::the_book
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -606,14 +414,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE CALL OF CTHULHU"
 #' @usage data(the_call_of_cthulhu)
 #' @format A character vector with 1,030 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_call_of_cthulhu)
-#'
-#' the_call_of_cthulhu <- lovecraftr::the_call_of_cthulhu
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -631,14 +431,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE CASE OF CHARLES DEXTER WARD"
 #' @usage data(the_case_of_charles_dexter_ward)
 #' @format A character vector with 4,358 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_case_of_charles_dexter_ward)
-#'
-#' the_case_of_charles_dexter_ward <- lovecraftr::the_case_of_charles_dexter_ward
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -656,14 +448,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE CATS OF ULTHAR"
 #' @usage data(the_cats_of_ulthar)
 #' @format A character vector with 109 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_cats_of_ulthar)
-#'
-#' the_cats_of_ulthar <- lovecraftr::the_cats_of_ulthar
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -681,14 +465,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE COLOUR OUT OF SPACE"
 #' @usage data(the_colour_out_of_space)
 #' @format A character vector with 967 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_colour_out_of_space)
-#'
-#' the_colour_out_of_space <- lovecraftr::the_colour_out_of_space
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -706,14 +482,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE CRAWLING CHAOS"
 #' @usage data(the_crawling_chaos)
 #' @format A character vector with 234 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_crawling_chaos)
-#'
-#' the_crawling_chaos <- lovecraftr::the_crawling_chaos
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -731,14 +499,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE DESCENDANT"
 #' @usage data(the_descendent)
 #' @format A character vector with 121 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_descendent)
-#'
-#' the_descendent <- lovecraftr::the_descendent
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -756,14 +516,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE DOOM THAT CAME TO SARNATH"
 #' @usage data(the_doom_that_came_to_sarnath)
 #' @format A character vector with 218 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_doom_that_came_to_sarnath)
-#'
-#' the_doom_that_came_to_sarnath <- lovecraftr::the_doom_that_came_to_sarnath
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -781,14 +533,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE DREAM QUEST OF UNKNOWN KADATH"
 #' @usage data(the_dream_quest_of_unknown_kadath)
 #' @format A character vector with 3,475 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_dream_quest_of_unknown_kadath)
-#'
-#' the_dream_quest_of_unknown_kadath <- lovecraftr::the_dream_quest_of_unknown_kadath
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -806,14 +550,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE DUNWICH HORROR"
 #' @usage data(the_dunwich_horror)
 #' @format A character vector with 1,533 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_dunwich_horror)
-#'
-#' the_dunwich_horror <- lovecraftr::the_dunwich_horror
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -831,14 +567,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE EVIL CLERGYMAN"
 #' @usage data(the_evil_clergyman)
 #' @format A character vector with 147 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_evil_clergyman)
-#'
-#' the_evil_clergyman <- lovecraftr::the_evil_clergyman
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -856,14 +584,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE FESTIVAL"
 #' @usage data(the_festival)
 #' @format A character vector with 303 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_festival)
-#'
-#' the_festival <- lovecraftr::the_festival
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -881,14 +601,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE HAUNTER OF THE DARK"
 #' @usage data(the_haunter_of_the_dark)
 #' @format A character vector with 828 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_haunter_of_the_dark)
-#'
-#' the_haunter_of_the_dark <- lovecraftr::the_haunter_of_the_dark
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -906,14 +618,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE HORROR AT MARTIN'S BEACH"
 #' @usage data(the_horror_at_martins_beach)
 #' @format A character vector with 225 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_horror_at_martins_beach)
-#'
-#' the_horror_at_martins_beach <- lovecraftr::the_horror_at_martins_beach
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -931,14 +635,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE HORROR AT RED HOOK"
 #' @usage data(the_horror_at_redhook)
 #' @format A character vector with 702 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_horror_at_redhook)
-#'
-#' the_horror_at_redhook <- lovecraftr::the_horror_at_redhook
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -956,14 +652,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE HOUND"
 #' @usage data(the_hound)
 #' @format A character vector with 266 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_hound)
-#'
-#' the_hound <- lovecraftr::the_hound
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -981,14 +669,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE LURKING FEAR"
 #' @usage data(the_lurking_fear)
 #' @format A character vector with 656 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_lurking_fear)
-#'
-#' the_lurking_fear <- lovecraftr::the_lurking_fear
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1006,14 +686,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE MOON BOG"
 #' @usage data(the_moon_bog)
 #' @format A character vector with 266 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_moon_bog)
-#'
-#' the_moon_bog <- lovecraftr::the_moon_bog
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1031,14 +703,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
 #' @usage data(the_music_of_erich_zann)
 #' @format A character vector with 285 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_music_of_erich_zann)
-#'
-#' the_music_of_erich_zann <- lovecraftr::the_music_of_erich_zann
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1056,14 +720,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE NAMELESS CITY"
 #' @usage data(the_nameless_city)
 #' @format A character vector with 418 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_nameless_city)
-#'
-#' the_nameless_city <- lovecraftr::the_nameless_city
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1081,14 +737,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE OTHER GODS"
 #' @usage data(the_other_gods)
 #' @format A character vector with 160 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_other_gods)
-#'
-#' the_other_gods <- lovecraftr::the_other_gods
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1106,14 +754,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE OUTSIDER"
 #' @usage data(the_outsider)
 #' @format A character vector with 213 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_outsider)
-#'
-#' the_outsider <- lovecraftr::the_outsider
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1131,14 +771,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE PICTURE IN THE HOUSE"
 #' @usage data(the_picture_in_the_house)
 #' @format A character vector with 263 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_picture_in_the_house)
-#'
-#' the_picture_in_the_house <- lovecraftr::the_picture_in_the_house
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1156,14 +788,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE QUEST OF IRANON"
 #' @usage data(the_quest_of_iranon)
 #' @format A character vector with 215 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_quest_of_iranon)
-#'
-#' the_quest_of_iranon <- lovecraftr::the_quest_of_iranon
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1181,14 +805,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE RATS IN THE WALLS"
 #' @usage data(the_rats_in_the_walls)
 #' @format A character vector with 691 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_rats_in_the_walls)
-#'
-#' the_rats_in_the_walls <- lovecraftr::the_rats_in_the_walls
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1206,14 +822,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE SHADOW OUT OF TIME"
 #' @usage data(the_shadow_out_of_time)
 #' @format A character vector with 2,529 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_shadow_out_of_time)
-#'
-#' the_shadow_out_of_time <- lovecraftr::the_shadow_out_of_time
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1231,14 +839,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE SHADOW OVER INNSMOUTH"
 #' @usage data(the_shadow_over_innsmouth)
 #' @format A character vector with 2,318 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_shadow_over_innsmouth)
-#'
-#' the_shadow_over_innsmouth <- lovecraftr::the_shadow_over_innsmouth
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1256,14 +856,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE SHUNNED HOUSE"
 #' @usage data(the_shunned_house)
 #' @format A character vector with 916 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_shunned_house)
-#'
-#' the_shunned_house <- lovecraftr::the_shunned_house
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1281,14 +873,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE SILVER KEY"
 #' @usage data(the_silver_key)
 #' @format A character vector with 404 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_silver_key)
-#'
-#' the_silver_key <- lovecraftr::the_silver_key
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1306,14 +890,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE STATEMENT OF RANDOLPH CARTER"
 #' @usage data(the_statement_of_randolph_carter)
 #' @format A character vector with 221 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_statement_of_randolph_carter)
-#'
-#' the_statement_of_randolph_carter <- lovecraftr::the_statement_of_randolph_carter
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1331,14 +907,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE STRANGE HIGH HOUSE IN THE MIST"
 #' @usage data(the_strange_high_house_in_the_mist)
 #' @format A character vector with 289 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_strange_high_house_in_the_mist)
-#'
-#' the_strange_high_house_in_the_mist <- lovecraftr::the_strange_high_house_in_the_mist
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1356,14 +924,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE STREET"
 #' @usage data(the_street)
 #' @format A character vector with 183 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_street)
-#'
-#' the_street <- lovecraftr::the_street
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1381,14 +941,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE TEMPLE"
 #' @usage data(the_temple)
 #' @format A character vector with 450 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_temple)
-#'
-#' the_temple <- lovecraftr::the_temple
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1406,14 +958,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE TERRIBLE OLD MAN"
 #' @usage data(the_terrible_old_man)
 #' @format A character vector with 87 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_terrible_old_man)
-#'
-#' the_terrible_old_man <- lovecraftr::the_terrible_old_man
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1431,14 +975,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE THING ON THE DOORSTEP"
 #' @usage data(the_thing_on_the_doorstep)
 #' @format A character vector with 931 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_thing_on_the_doorstep)
-#'
-#' the_thing_on_the_doorstep <- lovecraftr::the_thing_on_the_doorstep
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1456,14 +992,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE TOMB"
 #' @usage data(the_tomb)
 #' @format A character vector with 366 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_tomb)
-#'
-#' the_tomb <- lovecraftr::the_tomb
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1481,14 +1009,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE TRANSITION OF JUAN ROMERO"
 #' @usage data(the_transition_of_juan_romero)
 #' @format A character vector with 234 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_transition_of_juan_romero)
-#'
-#' the_transition_of_juan_romero <- lovecraftr::the_transition_of_juan_romero
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1506,14 +1026,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE TREE"
 #' @usage data(the_tree)
 #' @format A character vector with 127 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_tree)
-#'
-#' the_tree <- lovecraftr::the_tree
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1531,14 +1043,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE UNNAMABLE"
 #' @usage data(the_unnamable)
 #' @format A character vector with 239 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_unnamable)
-#'
-#' the_unnamable <- lovecraftr::the_unnamable
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1556,14 +1060,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE VERY OLD FOLK"
 #' @usage data(the_very_old_folk)
 #' @format A character vector with 210 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_very_old_folk)
-#'
-#' the_very_old_folk <- lovecraftr::the_very_old_folk
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1581,14 +1077,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE WHISPERER IN DARKNESS"
 #' @usage data(the_whisperer_in_darkness)
 #' @format A character vector with 2,303 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_whisperer_in_darkness)
-#'
-#' the_whisperer_in_darkness <- lovecraftr::the_whisperer_in_darkness
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1606,14 +1094,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THE WHITE SHIP"
 #' @usage data(the_white_ship)
 #' @format A character vector with 200 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(the_white_ship)
-#'
-#' the_white_ship <- lovecraftr::the_white_ship
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1631,14 +1111,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "THROUGH THE GATES OF THE SILVER KEY"
 #' @usage data(through_the_gates_of_the_silver_key)
 #' @format A character vector with 1,305 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(through_the_gates_of_the_silver_key)
-#'
-#' through_the_gates_of_the_silver_key <- lovecraftr::through_the_gates_of_the_silver_key
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1656,14 +1128,6 @@
 #' @description A dataset containing text of H. P. Lovecraft's "WHAT THE MOON BRINGS"
 #' @usage data(what_the_moon_brings)
 #' @format A character vector with 60 elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \dontrun{
-#' library(lovecraftr)
-#' data(what_the_moon_brings)
-#'
-#' what_the_moon_brings <- lovecraftr::what_the_moon_brings
-#' }
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -1684,12 +1148,6 @@
 #' \describe{
 #'   \item{title}{Title of the work}
 #'   \item{text}{~80 characters of text from the title}
-#' }
-#'
-#' @examples
-#' \dontrun{
-#' data(lovecraft)
-#' corpus <- lovecraftr::lovecraft
 #' }
 #' @docType data
 #' @keywords datasets

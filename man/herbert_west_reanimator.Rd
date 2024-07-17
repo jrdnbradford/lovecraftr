@@ -9,21 +9,13 @@ A character vector with 1,053 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/herbert_west_reanimator}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/herbert_west_reanimator.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/herbert_west_reanimator}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/herbert_west_reanimator.rda}{RDA file}.
 }
 \usage{
 data(herbert_west_reanimator)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(herbert_west_reanimator)
-
-herbert_west_reanimator <- lovecraftr::herbert_west_reanimator
-}
 }
 \keyword{datasets}

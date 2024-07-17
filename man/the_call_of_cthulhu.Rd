@@ -9,21 +9,13 @@ A character vector with 1,030 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_call_of_cthulhu}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_call_of_cthulhu.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_call_of_cthulhu}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_call_of_cthulhu.rda}{RDA file}.
 }
 \usage{
 data(the_call_of_cthulhu)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE CALL OF CTHULHU"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_call_of_cthulhu)
-
-the_call_of_cthulhu <- lovecraftr::the_call_of_cthulhu
-}
 }
 \keyword{datasets}

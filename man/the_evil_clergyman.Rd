@@ -9,21 +9,13 @@ A character vector with 147 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_evil_clergyman}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_evil_clergyman.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_evil_clergyman}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_evil_clergyman.rda}{RDA file}.
 }
 \usage{
 data(the_evil_clergyman)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE EVIL CLERGYMAN"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_evil_clergyman)
-
-the_evil_clergyman <- lovecraftr::the_evil_clergyman
-}
 }
 \keyword{datasets}

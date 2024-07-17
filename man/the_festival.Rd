@@ -9,21 +9,13 @@ A character vector with 303 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_festival}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_festival.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_festival}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_festival.rda}{RDA file}.
 }
 \usage{
 data(the_festival)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE FESTIVAL"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_festival)
-
-the_festival <- lovecraftr::the_festival
-}
 }
 \keyword{datasets}

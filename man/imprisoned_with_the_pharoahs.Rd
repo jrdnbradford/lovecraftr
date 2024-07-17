@@ -9,21 +9,13 @@ A character vector with 948 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda}{RDA file}.
 }
 \usage{
 data(imprisoned_with_the_pharoahs)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "IMPRISONED WITH THE PHARAOHS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(imprisoned_with_the_pharoahs)
-
-imprisoned_with_the_pharoahs <- lovecraftr::imprisoned_with_the_pharoahs
-}
 }
 \keyword{datasets}

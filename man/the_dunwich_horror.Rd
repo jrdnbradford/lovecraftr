@@ -9,21 +9,13 @@ A character vector with 1,533 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dunwich_horror}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dunwich_horror.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_dunwich_horror}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_dunwich_horror.rda}{RDA file}.
 }
 \usage{
 data(the_dunwich_horror)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE DUNWICH HORROR"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_dunwich_horror)
-
-the_dunwich_horror <- lovecraftr::the_dunwich_horror
-}
 }
 \keyword{datasets}

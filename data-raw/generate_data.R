@@ -23,14 +23,6 @@ docs_template <- "{header}
 #' @description A dataset containing text of H. P. Lovecraft's \"{title}\"
 #' @usage data({dataset_name})
 #' @format A character vector with {num_vectors} elements, with roughly 80 characters per line.
-#'
-#' @examples
-#' \\dontrun{{
-#' library(lovecraftr)
-#' data({dataset_name})
-#'
-#' {dataset_name} <- lovecraftr::{dataset_name}
-#' }}
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
@@ -74,12 +66,6 @@ corpus_docs <- glue::glue("{header}
 #' \\describe{{
 #'   \\item{{title}}{{Title of the work}}
 #'   \\item{{text}}{{~80 characters of text from the title}}
-#' }}
-#'
-#' @examples
-#' \\dontrun{{
-#' data(lovecraft)
-#' corpus <- lovecraftr::lovecraft
 #' }}
 #' @docType data
 #' @keywords datasets

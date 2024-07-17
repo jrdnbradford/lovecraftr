@@ -9,21 +9,13 @@ A character vector with 3,579 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/at_the_mountains_of_madness}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/at_the_mountains_of_madness.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/at_the_mountains_of_madness}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/at_the_mountains_of_madness.rda}{RDA file}.
 }
 \usage{
 data(at_the_mountains_of_madness)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "AT THE MOUNTAINS OF MADNESS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(at_the_mountains_of_madness)
-
-at_the_mountains_of_madness <- lovecraftr::at_the_mountains_of_madness
-}
 }
 \keyword{datasets}

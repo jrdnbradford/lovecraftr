@@ -9,21 +9,13 @@ A character vector with 691 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_rats_in_the_walls}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_rats_in_the_walls.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_rats_in_the_walls}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_rats_in_the_walls.rda}{RDA file}.
 }
 \usage{
 data(the_rats_in_the_walls)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE RATS IN THE WALLS"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_rats_in_the_walls)
-
-the_rats_in_the_walls <- lovecraftr::the_rats_in_the_walls
-}
 }
 \keyword{datasets}

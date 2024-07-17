@@ -20,10 +20,4 @@ data(lovecraft)
 \description{
 A dataset containing text of all the H. P. Lovecraft works available in this package.
 }
-\examples{
-\dontrun{
-data(lovecraft)
-corpus <- lovecraftr::lovecraft
-}
-}
 \keyword{datasets}

@@ -9,21 +9,13 @@ A character vector with 183 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_street}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_street.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_street}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_street.rda}{RDA file}.
 }
 \usage{
 data(the_street)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "THE STREET"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(the_street)
-
-the_street <- lovecraftr::the_street
-}
 }
 \keyword{datasets}

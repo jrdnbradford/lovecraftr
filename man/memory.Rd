@@ -9,21 +9,13 @@ A character vector with 31 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/memory}{raw text file} or download
-the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/memory.rda}{RDA file} to use with R.
+See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/memory}{raw text file}
+or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/memory.rda}{RDA file}.
 }
 \usage{
 data(memory)
 }
 \description{
 A dataset containing text of H. P. Lovecraft's "MEMORY"
-}
-\examples{
-\dontrun{
-library(lovecraftr)
-data(memory)
-
-memory <- lovecraftr::memory
-}
 }
 \keyword{datasets}
