@@ -3,7 +3,7 @@
 \docType{data}
 \name{pickmans_model}
 \alias{pickmans_model}
-\title{Dataset of "PICKMAN'S MODEL"}
+\title{Dataset of "Pickman's Model"}
 \format{
 A character vector with 455 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/p
 data(pickmans_model)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "PICKMAN'S MODEL"
+A dataset containing text of H. P. Lovecraft's "Pickman's Model"
 }
 \keyword{datasets}
+\keyword{short}

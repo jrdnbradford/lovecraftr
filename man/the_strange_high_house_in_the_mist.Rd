@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_strange_high_house_in_the_mist}
 \alias{the_strange_high_house_in_the_mist}
-\title{Dataset of "THE STRANGE HIGH HOUSE IN THE MIST"}
+\title{Dataset of "The Strange High House in the Mist"}
 \format{
 A character vector with 289 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_strange_high_house_in_the_mist)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE STRANGE HIGH HOUSE IN THE MIST"
+A dataset containing text of H. P. Lovecraft's "The Strange High House in the Mist"
 }
 \keyword{datasets}
+\keyword{short}

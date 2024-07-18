@@ -3,7 +3,7 @@
 \docType{data}
 \name{nyarlathotep}
 \alias{nyarlathotep}
-\title{Dataset of "NYARLATHOTEP"}
+\title{Dataset of "Nyarlathotep"}
 \format{
 A character vector with 97 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/n
 data(nyarlathotep)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "NYARLATHOTEP"
+A dataset containing text of H. P. Lovecraft's "Nyarlathotep"
 }
 \keyword{datasets}
+\keyword{short}

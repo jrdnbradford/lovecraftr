@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_dunwich_horror}
 \alias{the_dunwich_horror}
-\title{Dataset of "THE DUNWICH HORROR"}
+\title{Dataset of \emph{The Dunwich Horror}}
 \format{
 A character vector with 1,533 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_dunwich_horror)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE DUNWICH HORROR"
+A dataset containing text of H. P. Lovecraft's \emph{The Dunwich Horror}
 }
 \keyword{datasets}
+\keyword{novella}

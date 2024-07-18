@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_nameless_city}
 \alias{the_nameless_city}
-\title{Dataset of "THE NAMELESS CITY"}
+\title{Dataset of "The Nameless City"}
 \format{
 A character vector with 418 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_nameless_city)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE NAMELESS CITY"
+A dataset containing text of H. P. Lovecraft's "The Nameless City"
 }
 \keyword{datasets}
+\keyword{short}

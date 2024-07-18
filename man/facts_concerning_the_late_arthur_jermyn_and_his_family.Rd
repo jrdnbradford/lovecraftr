@@ -3,7 +3,7 @@
 \docType{data}
 \name{facts_concerning_the_late_arthur_jermyn_and_his_family}
 \alias{facts_concerning_the_late_arthur_jermyn_and_his_family}
-\title{Dataset of "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"}
+\title{Dataset of "Facts Concerning the Late Arthur Jermyn and His Family"}
 \format{
 A character vector with 303 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/f
 data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "FACTS CONCERNING THE LATE ARTHUR JERMYN AND HIS FAMILY"
+A dataset containing text of H. P. Lovecraft's "Facts Concerning the Late Arthur Jermyn and His Family"
 }
 \keyword{datasets}
+\keyword{short}

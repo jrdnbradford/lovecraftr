@@ -3,7 +3,7 @@
 \docType{data}
 \name{from_beyond}
 \alias{from_beyond}
-\title{Dataset of "FROM BEYOND"}
+\title{Dataset of "From Beyond"}
 \format{
 A character vector with 222 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/f
 data(from_beyond)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "FROM BEYOND"
+A dataset containing text of H. P. Lovecraft's "From Beyond"
 }
 \keyword{datasets}
+\keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{medusas_coil}
 \alias{medusas_coil}
-\title{Dataset of "MEDUSA'S COIL"}
+\title{Dataset of "Medusa's Coil"}
 \format{
 A character vector with 1,443 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/m
 data(medusas_coil)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "MEDUSA'S COIL"
+A dataset containing text of H. P. Lovecraft's "Medusa's Coil"
 }
 \keyword{datasets}
+\keyword{short}

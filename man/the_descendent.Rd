@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_descendent}
 \alias{the_descendent}
-\title{Dataset of "THE DESCENDANT"}
+\title{Dataset of "The Descendant"}
 \format{
 A character vector with 121 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_descendent)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE DESCENDANT"
+A dataset containing text of H. P. Lovecraft's "The Descendant"
 }
 \keyword{datasets}
+\keyword{short}

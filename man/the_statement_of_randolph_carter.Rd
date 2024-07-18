@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_statement_of_randolph_carter}
 \alias{the_statement_of_randolph_carter}
-\title{Dataset of "THE STATEMENT OF RANDOLPH CARTER"}
+\title{Dataset of "The Statement of Randolph Carter"}
 \format{
 A character vector with 221 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_statement_of_randolph_carter)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE STATEMENT OF RANDOLPH CARTER"
+A dataset containing text of H. P. Lovecraft's "The Statement of Randolph Carter"
 }
 \keyword{datasets}
+\keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{polaris}
 \alias{polaris}
-\title{Dataset of "POLARIS"}
+\title{Dataset of "Polaris"}
 \format{
 A character vector with 129 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/p
 data(polaris)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "POLARIS"
+A dataset containing text of H. P. Lovecraft's "Polaris"
 }
 \keyword{datasets}
+\keyword{short}
