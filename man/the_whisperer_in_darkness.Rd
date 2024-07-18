@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_whisperer_in_darkness}
 \alias{the_whisperer_in_darkness}
-\title{Dataset of "THE WHISPERER IN DARKNESS"}
+\title{Dataset of \emph{The Whisperer in Darkness}}
 \format{
 A character vector with 2,303 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_whisperer_in_darkness)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE WHISPERER IN DARKNESS"
+A dataset containing text of H. P. Lovecraft's \emph{The Whisperer in Darkness}
 }
 \keyword{datasets}
+\keyword{novella}

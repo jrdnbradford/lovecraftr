@@ -3,7 +3,7 @@
 \docType{data}
 \name{memory}
 \alias{memory}
-\title{Dataset of "MEMORY"}
+\title{Dataset of "Memory"}
 \format{
 A character vector with 31 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/m
 data(memory)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "MEMORY"
+A dataset containing text of H. P. Lovecraft's "Memory"
 }
 \keyword{datasets}
+\keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_alchemist}
 \alias{the_alchemist}
-\title{Dataset of "THE ALCHEMIST"}
+\title{Dataset of "The Alchemist"}
 \format{
 A character vector with 295 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_alchemist)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE ALCHEMIST"
+A dataset containing text of H. P. Lovecraft's "The Alchemist"
 }
 \keyword{datasets}
+\keyword{short}

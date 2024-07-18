@@ -3,7 +3,7 @@
 \docType{data}
 \name{poetry_of_the_gods}
 \alias{poetry_of_the_gods}
-\title{Dataset of "POETRY OF THE GODS"}
+\title{Dataset of "Poetry of the Gods"}
 \format{
 A character vector with 157 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/p
 data(poetry_of_the_gods)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "POETRY OF THE GODS"
+A dataset containing text of H. P. Lovecraft's "Poetry of the Gods"
 }
 \keyword{datasets}
+\keyword{short}

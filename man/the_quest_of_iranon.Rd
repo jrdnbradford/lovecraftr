@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_quest_of_iranon}
 \alias{the_quest_of_iranon}
-\title{Dataset of "THE QUEST OF IRANON"}
+\title{Dataset of "The Quest of Iranon"}
 \format{
 A character vector with 215 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_quest_of_iranon)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE QUEST OF IRANON"
+A dataset containing text of H. P. Lovecraft's "The Quest of Iranon"
 }
 \keyword{datasets}
+\keyword{short}

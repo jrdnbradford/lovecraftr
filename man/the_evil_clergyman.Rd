@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_evil_clergyman}
 \alias{the_evil_clergyman}
-\title{Dataset of "THE EVIL CLERGYMAN"}
+\title{Dataset of "The Evil Clergyman"}
 \format{
 A character vector with 147 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_evil_clergyman)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE EVIL CLERGYMAN"
+A dataset containing text of H. P. Lovecraft's "The Evil Clergyman"
 }
 \keyword{datasets}
+\keyword{short}

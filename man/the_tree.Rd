@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_tree}
 \alias{the_tree}
-\title{Dataset of "THE TREE"}
+\title{Dataset of "The Tree"}
 \format{
 A character vector with 127 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_tree)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE TREE"
+A dataset containing text of H. P. Lovecraft's "The Tree"
 }
 \keyword{datasets}
+\keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_beast_in_the_cave}
 \alias{the_beast_in_the_cave}
-\title{Dataset of "THE BEAST IN THE CAVE"}
+\title{Dataset of "The Beast in the Cave"}
 \format{
 A character vector with 204 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_beast_in_the_cave)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE BEAST IN THE CAVE"
+A dataset containing text of H. P. Lovecraft's "The Beast in the Cave"
 }
 \keyword{datasets}
+\keyword{short}

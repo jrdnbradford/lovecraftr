@@ -3,7 +3,7 @@
 \docType{data}
 \name{dagon}
 \alias{dagon}
-\title{Dataset of "DAGON"}
+\title{Dataset of "Dagon"}
 \format{
 A character vector with 187 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/d
 data(dagon)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "DAGON"
+A dataset containing text of H. P. Lovecraft's "Dagon"
 }
 \keyword{datasets}
+\keyword{short}

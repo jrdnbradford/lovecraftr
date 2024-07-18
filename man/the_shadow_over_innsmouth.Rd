@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_shadow_over_innsmouth}
 \alias{the_shadow_over_innsmouth}
-\title{Dataset of "THE SHADOW OVER INNSMOUTH"}
+\title{Dataset of \emph{The Shadow Over Innsmouth}}
 \format{
 A character vector with 2,318 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_shadow_over_innsmouth)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE SHADOW OVER INNSMOUTH"
+A dataset containing text of H. P. Lovecraft's \emph{The Shadow Over Innsmouth}
 }
 \keyword{datasets}
+\keyword{novella}

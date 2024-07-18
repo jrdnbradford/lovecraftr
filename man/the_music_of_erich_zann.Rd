@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_music_of_erich_zann}
 \alias{the_music_of_erich_zann}
-\title{Dataset of "THE MUSIC OF ERICH ZANN"}
+\title{Dataset of "The Music of Erich Zann"}
 \format{
 A character vector with 285 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_music_of_erich_zann)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE MUSIC OF ERICH ZANN"
+A dataset containing text of H. P. Lovecraft's "The Music of Erich Zann"
 }
 \keyword{datasets}
+\keyword{short}

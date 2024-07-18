@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_doom_that_came_to_sarnath}
 \alias{the_doom_that_came_to_sarnath}
-\title{Dataset of "THE DOOM THAT CAME TO SARNATH"}
+\title{Dataset of "The Doom that Came to Sarnath"}
 \format{
 A character vector with 218 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_doom_that_came_to_sarnath)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE DOOM THAT CAME TO SARNATH"
+A dataset containing text of H. P. Lovecraft's "The Doom that Came to Sarnath"
 }
 \keyword{datasets}
+\keyword{short}

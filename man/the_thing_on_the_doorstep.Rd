@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_thing_on_the_doorstep}
 \alias{the_thing_on_the_doorstep}
-\title{Dataset of "THE THING ON THE DOORSTEP"}
+\title{Dataset of "The Thing on the Doorstep"}
 \format{
 A character vector with 931 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_thing_on_the_doorstep)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE THING ON THE DOORSTEP"
+A dataset containing text of H. P. Lovecraft's "The Thing on the Doorstep"
 }
 \keyword{datasets}
+\keyword{short}

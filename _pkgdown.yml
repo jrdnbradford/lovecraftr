@@ -5,13 +5,21 @@ template:
 
 reference:
 - title: Data
-  desc: >
-    {`lovecraftr`} contains the following datasets.
+
+- subtitle: Data Frames
+- contents:
+  - lovecraft
+
+- subtitle: Novels
+  desc: Character vectors of novels
+- contents:
+  - has_keyword("novella")
+
+- subtitle: Short Stories
+  desc: Character vectors of short stories
   contents:
-  - has_keyword("datasets")
+  - has_keyword("short")
 
 - title: Functions
-  desc: >
-    {`lovecraftr`} contains the following functions.
   contents:
   - lovecraft_corpus

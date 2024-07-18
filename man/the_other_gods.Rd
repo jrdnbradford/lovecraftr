@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_other_gods}
 \alias{the_other_gods}
-\title{Dataset of "THE OTHER GODS"}
+\title{Dataset of "The Other Gods"}
 \format{
 A character vector with 160 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_other_gods)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE OTHER GODS"
+A dataset containing text of H. P. Lovecraft's "The Other Gods"
 }
 \keyword{datasets}
+\keyword{short}

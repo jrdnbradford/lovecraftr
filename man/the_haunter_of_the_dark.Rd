@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_haunter_of_the_dark}
 \alias{the_haunter_of_the_dark}
-\title{Dataset of "THE HAUNTER OF THE DARK"}
+\title{Dataset of "The Haunter of the Dark"}
 \format{
 A character vector with 828 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_haunter_of_the_dark)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE HAUNTER OF THE DARK"
+A dataset containing text of H. P. Lovecraft's "The Haunter of the Dark"
 }
 \keyword{datasets}
+\keyword{short}

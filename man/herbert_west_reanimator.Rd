@@ -3,7 +3,7 @@
 \docType{data}
 \name{herbert_west_reanimator}
 \alias{herbert_west_reanimator}
-\title{Dataset of "HERBERT WEST: REANIMATOR"}
+\title{Dataset of "Herbert West: Reanimator"}
 \format{
 A character vector with 1,053 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/h
 data(herbert_west_reanimator)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "HERBERT WEST: REANIMATOR"
+A dataset containing text of H. P. Lovecraft's "Herbert West: Reanimator"
 }
 \keyword{datasets}
+\keyword{short}

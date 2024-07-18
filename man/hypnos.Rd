@@ -3,7 +3,7 @@
 \docType{data}
 \name{hypnos}
 \alias{hypnos}
-\title{Dataset of "HYPNOS"}
+\title{Dataset of "Hypnos"}
 \format{
 A character vector with 233 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/h
 data(hypnos)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "HYPNOS"
+A dataset containing text of H. P. Lovecraft's "Hypnos"
 }
 \keyword{datasets}
+\keyword{short}

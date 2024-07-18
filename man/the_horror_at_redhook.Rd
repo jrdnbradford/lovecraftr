@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_horror_at_redhook}
 \alias{the_horror_at_redhook}
-\title{Dataset of "THE HORROR AT RED HOOK"}
+\title{Dataset of "The Horror at Red Hook"}
 \format{
 A character vector with 702 elements, with roughly 80 characters per line.
 }
@@ -16,6 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_horror_at_redhook)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "THE HORROR AT RED HOOK"
+A dataset containing text of H. P. Lovecraft's "The Horror at Red Hook"
 }
 \keyword{datasets}
+\keyword{short}
