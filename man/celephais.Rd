@@ -3,7 +3,7 @@
 \docType{data}
 \name{celephais}
 \alias{celephais}
-\title{Dataset of "Celephais"}
+\title{"Celephais"}
 \format{
 A character vector with 202 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/c
 data(celephais)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Celephais"
+A dataset containing text of H. P. Lovecraft's "Celephais".
 }
 \keyword{datasets}
 \keyword{short}

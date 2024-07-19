@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_outsider}
 \alias{the_outsider}
-\title{Dataset of "The Outsider"}
+\title{"The Outsider"}
 \format{
 A character vector with 213 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_outsider)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Outsider"
+A dataset containing text of H. P. Lovecraft's "The Outsider".
 }
 \keyword{datasets}
 \keyword{short}

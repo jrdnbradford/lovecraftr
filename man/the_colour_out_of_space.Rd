@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_colour_out_of_space}
 \alias{the_colour_out_of_space}
-\title{Dataset of "The Colour Out of Space"}
+\title{"The Colour Out of Space"}
 \format{
 A character vector with 967 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_colour_out_of_space)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Colour Out of Space"
+A dataset containing text of H. P. Lovecraft's "The Colour Out of Space".
 }
 \keyword{datasets}
 \keyword{short}

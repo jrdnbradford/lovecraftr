@@ -3,7 +3,7 @@
 \docType{data}
 \name{cool_air}
 \alias{cool_air}
-\title{Dataset of "Cool Air"}
+\title{"Cool Air"}
 \format{
 A character vector with 292 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/c
 data(cool_air)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Cool Air"
+A dataset containing text of H. P. Lovecraft's "Cool Air".
 }
 \keyword{datasets}
 \keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_transition_of_juan_romero}
 \alias{the_transition_of_juan_romero}
-\title{Dataset of "The Transition of Juan Romero"}
+\title{"The Transition of Juan Romero"}
 \format{
 A character vector with 234 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_transition_of_juan_romero)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Transition of Juan Romero"
+A dataset containing text of H. P. Lovecraft's "The Transition of Juan Romero".
 }
 \keyword{datasets}
 \keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_terrible_old_man}
 \alias{the_terrible_old_man}
-\title{Dataset of "The Terrible Old Man"}
+\title{"The Terrible Old Man"}
 \format{
 A character vector with 87 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_terrible_old_man)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Terrible Old Man"
+A dataset containing text of H. P. Lovecraft's "The Terrible Old Man".
 }
 \keyword{datasets}
 \keyword{short}

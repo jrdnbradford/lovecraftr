@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_shadow_out_of_time}
 \alias{the_shadow_out_of_time}
-\title{Dataset of \emph{The Shadow Out of Time}}
+\title{\emph{The Shadow Out of Time}}
 \format{
 A character vector with 2,529 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_shadow_out_of_time)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's \emph{The Shadow Out of Time}
+A dataset containing text of H. P. Lovecraft's \emph{The Shadow Out of Time}.
 }
 \keyword{datasets}
 \keyword{novella}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{imprisoned_with_the_pharoahs}
 \alias{imprisoned_with_the_pharoahs}
-\title{Dataset of "Imprisoned with the Pharaohs"}
+\title{"Imprisoned with the Pharaohs"}
 \format{
 A character vector with 948 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/i
 data(imprisoned_with_the_pharoahs)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Imprisoned with the Pharaohs"
+A dataset containing text of H. P. Lovecraft's "Imprisoned with the Pharaohs".
 }
 \keyword{datasets}
 \keyword{short}

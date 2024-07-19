@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_dream_quest_of_unknown_kadath}
 \alias{the_dream_quest_of_unknown_kadath}
-\title{Dataset of \emph{The Dream Quest of Unknown Kadath}}
+\title{\emph{The Dream Quest of Unknown Kadath}}
 \format{
 A character vector with 3,475 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_dream_quest_of_unknown_kadath)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's \emph{The Dream Quest of Unknown Kadath}
+A dataset containing text of H. P. Lovecraft's \emph{The Dream Quest of Unknown Kadath}.
 }
 \keyword{datasets}
 \keyword{novella}

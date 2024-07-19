@@ -2,8 +2,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _At the Mountains of Madness_
-#' @description A dataset containing text of H. P. Lovecraft's _At the Mountains of Madness_
+#' @title _At the Mountains of Madness_
+#' @description A dataset containing text of H. P. Lovecraft's _At the Mountains of Madness_.
 #' @usage data(at_the_mountains_of_madness)
 #' @format A character vector with 3,579 elements, with roughly 80 characters per line.
 #' @docType data
@@ -19,8 +19,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Azathoth"
-#' @description A dataset containing text of H. P. Lovecraft's "Azathoth"
+#' @title "Azathoth"
+#' @description A dataset containing text of H. P. Lovecraft's "Azathoth".
 #' @usage data(azathoth)
 #' @format A character vector with 37 elements, with roughly 80 characters per line.
 #' @docType data
@@ -36,8 +36,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Beyond the Wall of Sleep"
-#' @description A dataset containing text of H. P. Lovecraft's "Beyond the Wall of Sleep"
+#' @title "Beyond the Wall of Sleep"
+#' @description A dataset containing text of H. P. Lovecraft's "Beyond the Wall of Sleep".
 #' @usage data(beyond_the_wall_of_sleep)
 #' @format A character vector with 361 elements, with roughly 80 characters per line.
 #' @docType data
@@ -53,8 +53,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Celephais"
-#' @description A dataset containing text of H. P. Lovecraft's "Celephais"
+#' @title "Celephais"
+#' @description A dataset containing text of H. P. Lovecraft's "Celephais".
 #' @usage data(celephais)
 #' @format A character vector with 202 elements, with roughly 80 characters per line.
 #' @docType data
@@ -70,8 +70,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Cool Air"
-#' @description A dataset containing text of H. P. Lovecraft's "Cool Air"
+#' @title "Cool Air"
+#' @description A dataset containing text of H. P. Lovecraft's "Cool Air".
 #' @usage data(cool_air)
 #' @format A character vector with 292 elements, with roughly 80 characters per line.
 #' @docType data
@@ -87,8 +87,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Dagon"
-#' @description A dataset containing text of H. P. Lovecraft's "Dagon"
+#' @title "Dagon"
+#' @description A dataset containing text of H. P. Lovecraft's "Dagon".
 #' @usage data(dagon)
 #' @format A character vector with 187 elements, with roughly 80 characters per line.
 #' @docType data
@@ -104,8 +104,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Dreams in the Witch-House"
-#' @description A dataset containing text of H. P. Lovecraft's "Dreams in the Witch-House"
+#' @title "Dreams in the Witch-House"
+#' @description A dataset containing text of H. P. Lovecraft's "Dreams in the Witch-House".
 #' @usage data(dreams_in_the_witch_house)
 #' @format A character vector with 1,271 elements, with roughly 80 characters per line.
 #' @docType data
@@ -121,8 +121,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Ex Oblivione"
-#' @description A dataset containing text of H. P. Lovecraft's "Ex Oblivione"
+#' @title "Ex Oblivione"
+#' @description A dataset containing text of H. P. Lovecraft's "Ex Oblivione".
 #' @usage data(ex_oblivione)
 #' @format A character vector with 66 elements, with roughly 80 characters per line.
 #' @docType data
@@ -138,8 +138,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Facts Concerning the Late Arthur Jermyn and His Family"
-#' @description A dataset containing text of H. P. Lovecraft's "Facts Concerning the Late Arthur Jermyn and His Family"
+#' @title "Facts Concerning the Late Arthur Jermyn and His Family"
+#' @description A dataset containing text of H. P. Lovecraft's "Facts Concerning the Late Arthur Jermyn and His Family".
 #' @usage data(facts_concerning_the_late_arthur_jermyn_and_his_family)
 #' @format A character vector with 303 elements, with roughly 80 characters per line.
 #' @docType data
@@ -155,8 +155,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "From Beyond"
-#' @description A dataset containing text of H. P. Lovecraft's "From Beyond"
+#' @title "From Beyond"
+#' @description A dataset containing text of H. P. Lovecraft's "From Beyond".
 #' @usage data(from_beyond)
 #' @format A character vector with 222 elements, with roughly 80 characters per line.
 #' @docType data
@@ -172,8 +172,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "He"
-#' @description A dataset containing text of H. P. Lovecraft's "He"
+#' @title "He"
+#' @description A dataset containing text of H. P. Lovecraft's "He".
 #' @usage data(he)
 #' @format A character vector with 360 elements, with roughly 80 characters per line.
 #' @docType data
@@ -189,8 +189,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Herbert West: Reanimator"
-#' @description A dataset containing text of H. P. Lovecraft's "Herbert West: Reanimator"
+#' @title "Herbert West: Reanimator"
+#' @description A dataset containing text of H. P. Lovecraft's "Herbert West: Reanimator".
 #' @usage data(herbert_west_reanimator)
 #' @format A character vector with 1,053 elements, with roughly 80 characters per line.
 #' @docType data
@@ -206,8 +206,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Hypnos"
-#' @description A dataset containing text of H. P. Lovecraft's "Hypnos"
+#' @title "Hypnos"
+#' @description A dataset containing text of H. P. Lovecraft's "Hypnos".
 #' @usage data(hypnos)
 #' @format A character vector with 233 elements, with roughly 80 characters per line.
 #' @docType data
@@ -223,8 +223,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Imprisoned with the Pharaohs"
-#' @description A dataset containing text of H. P. Lovecraft's "Imprisoned with the Pharaohs"
+#' @title "Imprisoned with the Pharaohs"
+#' @description A dataset containing text of H. P. Lovecraft's "Imprisoned with the Pharaohs".
 #' @usage data(imprisoned_with_the_pharoahs)
 #' @format A character vector with 948 elements, with roughly 80 characters per line.
 #' @docType data
@@ -240,8 +240,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "In the Vault"
-#' @description A dataset containing text of H. P. Lovecraft's "In the Vault"
+#' @title "In the Vault"
+#' @description A dataset containing text of H. P. Lovecraft's "In the Vault".
 #' @usage data(in_the_vault)
 #' @format A character vector with 272 elements, with roughly 80 characters per line.
 #' @docType data
@@ -257,8 +257,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Medusa's Coil"
-#' @description A dataset containing text of H. P. Lovecraft's "Medusa's Coil"
+#' @title "Medusa's Coil"
+#' @description A dataset containing text of H. P. Lovecraft's "Medusa's Coil".
 #' @usage data(medusas_coil)
 #' @format A character vector with 1,443 elements, with roughly 80 characters per line.
 #' @docType data
@@ -274,8 +274,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Memory"
-#' @description A dataset containing text of H. P. Lovecraft's "Memory"
+#' @title "Memory"
+#' @description A dataset containing text of H. P. Lovecraft's "Memory".
 #' @usage data(memory)
 #' @format A character vector with 31 elements, with roughly 80 characters per line.
 #' @docType data
@@ -291,8 +291,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Nyarlathotep"
-#' @description A dataset containing text of H. P. Lovecraft's "Nyarlathotep"
+#' @title "Nyarlathotep"
+#' @description A dataset containing text of H. P. Lovecraft's "Nyarlathotep".
 #' @usage data(nyarlathotep)
 #' @format A character vector with 97 elements, with roughly 80 characters per line.
 #' @docType data
@@ -308,8 +308,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Pickman's Model"
-#' @description A dataset containing text of H. P. Lovecraft's "Pickman's Model"
+#' @title "Pickman's Model"
+#' @description A dataset containing text of H. P. Lovecraft's "Pickman's Model".
 #' @usage data(pickmans_model)
 #' @format A character vector with 455 elements, with roughly 80 characters per line.
 #' @docType data
@@ -325,8 +325,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Poetry of the Gods"
-#' @description A dataset containing text of H. P. Lovecraft's "Poetry of the Gods"
+#' @title "Poetry of the Gods"
+#' @description A dataset containing text of H. P. Lovecraft's "Poetry of the Gods".
 #' @usage data(poetry_of_the_gods)
 #' @format A character vector with 157 elements, with roughly 80 characters per line.
 #' @docType data
@@ -342,8 +342,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Polaris"
-#' @description A dataset containing text of H. P. Lovecraft's "Polaris"
+#' @title "Polaris"
+#' @description A dataset containing text of H. P. Lovecraft's "Polaris".
 #' @usage data(polaris)
 #' @format A character vector with 129 elements, with roughly 80 characters per line.
 #' @docType data
@@ -359,8 +359,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Alchemist"
-#' @description A dataset containing text of H. P. Lovecraft's "The Alchemist"
+#' @title "The Alchemist"
+#' @description A dataset containing text of H. P. Lovecraft's "The Alchemist".
 #' @usage data(the_alchemist)
 #' @format A character vector with 295 elements, with roughly 80 characters per line.
 #' @docType data
@@ -376,8 +376,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Beast in the Cave"
-#' @description A dataset containing text of H. P. Lovecraft's "The Beast in the Cave"
+#' @title "The Beast in the Cave"
+#' @description A dataset containing text of H. P. Lovecraft's "The Beast in the Cave".
 #' @usage data(the_beast_in_the_cave)
 #' @format A character vector with 204 elements, with roughly 80 characters per line.
 #' @docType data
@@ -393,8 +393,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Book"
-#' @description A dataset containing text of H. P. Lovecraft's "The Book"
+#' @title "The Book"
+#' @description A dataset containing text of H. P. Lovecraft's "The Book".
 #' @usage data(the_book)
 #' @format A character vector with 95 elements, with roughly 80 characters per line.
 #' @docType data
@@ -410,8 +410,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Call of Cthulhu"
-#' @description A dataset containing text of H. P. Lovecraft's "The Call of Cthulhu"
+#' @title "The Call of Cthulhu"
+#' @description A dataset containing text of H. P. Lovecraft's "The Call of Cthulhu".
 #' @usage data(the_call_of_cthulhu)
 #' @format A character vector with 1,030 elements, with roughly 80 characters per line.
 #' @docType data
@@ -427,8 +427,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _The Case of Charles Dexter Ward_
-#' @description A dataset containing text of H. P. Lovecraft's _The Case of Charles Dexter Ward_
+#' @title _The Case of Charles Dexter Ward_
+#' @description A dataset containing text of H. P. Lovecraft's _The Case of Charles Dexter Ward_.
 #' @usage data(the_case_of_charles_dexter_ward)
 #' @format A character vector with 4,358 elements, with roughly 80 characters per line.
 #' @docType data
@@ -444,8 +444,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Cats of Ulthar"
-#' @description A dataset containing text of H. P. Lovecraft's "The Cats of Ulthar"
+#' @title "The Cats of Ulthar"
+#' @description A dataset containing text of H. P. Lovecraft's "The Cats of Ulthar".
 #' @usage data(the_cats_of_ulthar)
 #' @format A character vector with 109 elements, with roughly 80 characters per line.
 #' @docType data
@@ -461,8 +461,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Colour Out of Space"
-#' @description A dataset containing text of H. P. Lovecraft's "The Colour Out of Space"
+#' @title "The Colour Out of Space"
+#' @description A dataset containing text of H. P. Lovecraft's "The Colour Out of Space".
 #' @usage data(the_colour_out_of_space)
 #' @format A character vector with 967 elements, with roughly 80 characters per line.
 #' @docType data
@@ -478,8 +478,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Crawling Chaos"
-#' @description A dataset containing text of H. P. Lovecraft's "The Crawling Chaos"
+#' @title "The Crawling Chaos"
+#' @description A dataset containing text of H. P. Lovecraft's "The Crawling Chaos".
 #' @usage data(the_crawling_chaos)
 #' @format A character vector with 234 elements, with roughly 80 characters per line.
 #' @docType data
@@ -495,8 +495,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Descendant"
-#' @description A dataset containing text of H. P. Lovecraft's "The Descendant"
+#' @title "The Descendant"
+#' @description A dataset containing text of H. P. Lovecraft's "The Descendant".
 #' @usage data(the_descendent)
 #' @format A character vector with 121 elements, with roughly 80 characters per line.
 #' @docType data
@@ -512,8 +512,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Doom that Came to Sarnath"
-#' @description A dataset containing text of H. P. Lovecraft's "The Doom that Came to Sarnath"
+#' @title "The Doom that Came to Sarnath"
+#' @description A dataset containing text of H. P. Lovecraft's "The Doom that Came to Sarnath".
 #' @usage data(the_doom_that_came_to_sarnath)
 #' @format A character vector with 218 elements, with roughly 80 characters per line.
 #' @docType data
@@ -529,8 +529,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _The Dream Quest of Unknown Kadath_
-#' @description A dataset containing text of H. P. Lovecraft's _The Dream Quest of Unknown Kadath_
+#' @title _The Dream Quest of Unknown Kadath_
+#' @description A dataset containing text of H. P. Lovecraft's _The Dream Quest of Unknown Kadath_.
 #' @usage data(the_dream_quest_of_unknown_kadath)
 #' @format A character vector with 3,475 elements, with roughly 80 characters per line.
 #' @docType data
@@ -546,8 +546,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _The Dunwich Horror_
-#' @description A dataset containing text of H. P. Lovecraft's _The Dunwich Horror_
+#' @title _The Dunwich Horror_
+#' @description A dataset containing text of H. P. Lovecraft's _The Dunwich Horror_.
 #' @usage data(the_dunwich_horror)
 #' @format A character vector with 1,533 elements, with roughly 80 characters per line.
 #' @docType data
@@ -563,8 +563,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Evil Clergyman"
-#' @description A dataset containing text of H. P. Lovecraft's "The Evil Clergyman"
+#' @title "The Evil Clergyman"
+#' @description A dataset containing text of H. P. Lovecraft's "The Evil Clergyman".
 #' @usage data(the_evil_clergyman)
 #' @format A character vector with 147 elements, with roughly 80 characters per line.
 #' @docType data
@@ -580,8 +580,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Festival"
-#' @description A dataset containing text of H. P. Lovecraft's "The Festival"
+#' @title "The Festival"
+#' @description A dataset containing text of H. P. Lovecraft's "The Festival".
 #' @usage data(the_festival)
 #' @format A character vector with 303 elements, with roughly 80 characters per line.
 #' @docType data
@@ -597,8 +597,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Haunter of the Dark"
-#' @description A dataset containing text of H. P. Lovecraft's "The Haunter of the Dark"
+#' @title "The Haunter of the Dark"
+#' @description A dataset containing text of H. P. Lovecraft's "The Haunter of the Dark".
 #' @usage data(the_haunter_of_the_dark)
 #' @format A character vector with 828 elements, with roughly 80 characters per line.
 #' @docType data
@@ -614,8 +614,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Horror at Martin's Beach"
-#' @description A dataset containing text of H. P. Lovecraft's "The Horror at Martin's Beach"
+#' @title "The Horror at Martin's Beach"
+#' @description A dataset containing text of H. P. Lovecraft's "The Horror at Martin's Beach".
 #' @usage data(the_horror_at_martins_beach)
 #' @format A character vector with 225 elements, with roughly 80 characters per line.
 #' @docType data
@@ -631,8 +631,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Horror at Red Hook"
-#' @description A dataset containing text of H. P. Lovecraft's "The Horror at Red Hook"
+#' @title "The Horror at Red Hook"
+#' @description A dataset containing text of H. P. Lovecraft's "The Horror at Red Hook".
 #' @usage data(the_horror_at_redhook)
 #' @format A character vector with 702 elements, with roughly 80 characters per line.
 #' @docType data
@@ -648,8 +648,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Hound"
-#' @description A dataset containing text of H. P. Lovecraft's "The Hound"
+#' @title "The Hound"
+#' @description A dataset containing text of H. P. Lovecraft's "The Hound".
 #' @usage data(the_hound)
 #' @format A character vector with 266 elements, with roughly 80 characters per line.
 #' @docType data
@@ -665,8 +665,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Lurking Fear"
-#' @description A dataset containing text of H. P. Lovecraft's "The Lurking Fear"
+#' @title "The Lurking Fear"
+#' @description A dataset containing text of H. P. Lovecraft's "The Lurking Fear".
 #' @usage data(the_lurking_fear)
 #' @format A character vector with 656 elements, with roughly 80 characters per line.
 #' @docType data
@@ -682,8 +682,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Moon Bog"
-#' @description A dataset containing text of H. P. Lovecraft's "The Moon Bog"
+#' @title "The Moon Bog"
+#' @description A dataset containing text of H. P. Lovecraft's "The Moon Bog".
 #' @usage data(the_moon_bog)
 #' @format A character vector with 266 elements, with roughly 80 characters per line.
 #' @docType data
@@ -699,8 +699,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Music of Erich Zann"
-#' @description A dataset containing text of H. P. Lovecraft's "The Music of Erich Zann"
+#' @title "The Music of Erich Zann"
+#' @description A dataset containing text of H. P. Lovecraft's "The Music of Erich Zann".
 #' @usage data(the_music_of_erich_zann)
 #' @format A character vector with 285 elements, with roughly 80 characters per line.
 #' @docType data
@@ -716,8 +716,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Nameless City"
-#' @description A dataset containing text of H. P. Lovecraft's "The Nameless City"
+#' @title "The Nameless City"
+#' @description A dataset containing text of H. P. Lovecraft's "The Nameless City".
 #' @usage data(the_nameless_city)
 #' @format A character vector with 418 elements, with roughly 80 characters per line.
 #' @docType data
@@ -733,8 +733,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Other Gods"
-#' @description A dataset containing text of H. P. Lovecraft's "The Other Gods"
+#' @title "The Other Gods"
+#' @description A dataset containing text of H. P. Lovecraft's "The Other Gods".
 #' @usage data(the_other_gods)
 #' @format A character vector with 160 elements, with roughly 80 characters per line.
 #' @docType data
@@ -750,8 +750,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Outsider"
-#' @description A dataset containing text of H. P. Lovecraft's "The Outsider"
+#' @title "The Outsider"
+#' @description A dataset containing text of H. P. Lovecraft's "The Outsider".
 #' @usage data(the_outsider)
 #' @format A character vector with 213 elements, with roughly 80 characters per line.
 #' @docType data
@@ -767,8 +767,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Picture in the House"
-#' @description A dataset containing text of H. P. Lovecraft's "The Picture in the House"
+#' @title "The Picture in the House"
+#' @description A dataset containing text of H. P. Lovecraft's "The Picture in the House".
 #' @usage data(the_picture_in_the_house)
 #' @format A character vector with 263 elements, with roughly 80 characters per line.
 #' @docType data
@@ -784,8 +784,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Quest of Iranon"
-#' @description A dataset containing text of H. P. Lovecraft's "The Quest of Iranon"
+#' @title "The Quest of Iranon"
+#' @description A dataset containing text of H. P. Lovecraft's "The Quest of Iranon".
 #' @usage data(the_quest_of_iranon)
 #' @format A character vector with 215 elements, with roughly 80 characters per line.
 #' @docType data
@@ -801,8 +801,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Rats in the Walls"
-#' @description A dataset containing text of H. P. Lovecraft's "The Rats in the Walls"
+#' @title "The Rats in the Walls"
+#' @description A dataset containing text of H. P. Lovecraft's "The Rats in the Walls".
 #' @usage data(the_rats_in_the_walls)
 #' @format A character vector with 691 elements, with roughly 80 characters per line.
 #' @docType data
@@ -818,8 +818,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _The Shadow Out of Time_
-#' @description A dataset containing text of H. P. Lovecraft's _The Shadow Out of Time_
+#' @title _The Shadow Out of Time_
+#' @description A dataset containing text of H. P. Lovecraft's _The Shadow Out of Time_.
 #' @usage data(the_shadow_out_of_time)
 #' @format A character vector with 2,529 elements, with roughly 80 characters per line.
 #' @docType data
@@ -835,8 +835,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _The Shadow Over Innsmouth_
-#' @description A dataset containing text of H. P. Lovecraft's _The Shadow Over Innsmouth_
+#' @title _The Shadow Over Innsmouth_
+#' @description A dataset containing text of H. P. Lovecraft's _The Shadow Over Innsmouth_.
 #' @usage data(the_shadow_over_innsmouth)
 #' @format A character vector with 2,318 elements, with roughly 80 characters per line.
 #' @docType data
@@ -852,8 +852,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Shunned House"
-#' @description A dataset containing text of H. P. Lovecraft's "The Shunned House"
+#' @title "The Shunned House"
+#' @description A dataset containing text of H. P. Lovecraft's "The Shunned House".
 #' @usage data(the_shunned_house)
 #' @format A character vector with 916 elements, with roughly 80 characters per line.
 #' @docType data
@@ -869,8 +869,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Silver Key"
-#' @description A dataset containing text of H. P. Lovecraft's "The Silver Key"
+#' @title "The Silver Key"
+#' @description A dataset containing text of H. P. Lovecraft's "The Silver Key".
 #' @usage data(the_silver_key)
 #' @format A character vector with 404 elements, with roughly 80 characters per line.
 #' @docType data
@@ -886,8 +886,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Statement of Randolph Carter"
-#' @description A dataset containing text of H. P. Lovecraft's "The Statement of Randolph Carter"
+#' @title "The Statement of Randolph Carter"
+#' @description A dataset containing text of H. P. Lovecraft's "The Statement of Randolph Carter".
 #' @usage data(the_statement_of_randolph_carter)
 #' @format A character vector with 221 elements, with roughly 80 characters per line.
 #' @docType data
@@ -903,8 +903,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Strange High House in the Mist"
-#' @description A dataset containing text of H. P. Lovecraft's "The Strange High House in the Mist"
+#' @title "The Strange High House in the Mist"
+#' @description A dataset containing text of H. P. Lovecraft's "The Strange High House in the Mist".
 #' @usage data(the_strange_high_house_in_the_mist)
 #' @format A character vector with 289 elements, with roughly 80 characters per line.
 #' @docType data
@@ -920,8 +920,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Street"
-#' @description A dataset containing text of H. P. Lovecraft's "The Street"
+#' @title "The Street"
+#' @description A dataset containing text of H. P. Lovecraft's "The Street".
 #' @usage data(the_street)
 #' @format A character vector with 183 elements, with roughly 80 characters per line.
 #' @docType data
@@ -937,8 +937,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Temple"
-#' @description A dataset containing text of H. P. Lovecraft's "The Temple"
+#' @title "The Temple"
+#' @description A dataset containing text of H. P. Lovecraft's "The Temple".
 #' @usage data(the_temple)
 #' @format A character vector with 450 elements, with roughly 80 characters per line.
 #' @docType data
@@ -954,8 +954,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Terrible Old Man"
-#' @description A dataset containing text of H. P. Lovecraft's "The Terrible Old Man"
+#' @title "The Terrible Old Man"
+#' @description A dataset containing text of H. P. Lovecraft's "The Terrible Old Man".
 #' @usage data(the_terrible_old_man)
 #' @format A character vector with 87 elements, with roughly 80 characters per line.
 #' @docType data
@@ -971,8 +971,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Thing on the Doorstep"
-#' @description A dataset containing text of H. P. Lovecraft's "The Thing on the Doorstep"
+#' @title "The Thing on the Doorstep"
+#' @description A dataset containing text of H. P. Lovecraft's "The Thing on the Doorstep".
 #' @usage data(the_thing_on_the_doorstep)
 #' @format A character vector with 931 elements, with roughly 80 characters per line.
 #' @docType data
@@ -988,8 +988,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Tomb"
-#' @description A dataset containing text of H. P. Lovecraft's "The Tomb"
+#' @title "The Tomb"
+#' @description A dataset containing text of H. P. Lovecraft's "The Tomb".
 #' @usage data(the_tomb)
 #' @format A character vector with 366 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1005,8 +1005,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Transition of Juan Romero"
-#' @description A dataset containing text of H. P. Lovecraft's "The Transition of Juan Romero"
+#' @title "The Transition of Juan Romero"
+#' @description A dataset containing text of H. P. Lovecraft's "The Transition of Juan Romero".
 #' @usage data(the_transition_of_juan_romero)
 #' @format A character vector with 234 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1022,8 +1022,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Tree"
-#' @description A dataset containing text of H. P. Lovecraft's "The Tree"
+#' @title "The Tree"
+#' @description A dataset containing text of H. P. Lovecraft's "The Tree".
 #' @usage data(the_tree)
 #' @format A character vector with 127 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1039,8 +1039,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Unnamable"
-#' @description A dataset containing text of H. P. Lovecraft's "The Unnamable"
+#' @title "The Unnamable"
+#' @description A dataset containing text of H. P. Lovecraft's "The Unnamable".
 #' @usage data(the_unnamable)
 #' @format A character vector with 239 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1056,8 +1056,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The Very Old Folk"
-#' @description A dataset containing text of H. P. Lovecraft's "The Very Old Folk"
+#' @title "The Very Old Folk"
+#' @description A dataset containing text of H. P. Lovecraft's "The Very Old Folk".
 #' @usage data(the_very_old_folk)
 #' @format A character vector with 210 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1073,8 +1073,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of _The Whisperer in Darkness_
-#' @description A dataset containing text of H. P. Lovecraft's _The Whisperer in Darkness_
+#' @title _The Whisperer in Darkness_
+#' @description A dataset containing text of H. P. Lovecraft's _The Whisperer in Darkness_.
 #' @usage data(the_whisperer_in_darkness)
 #' @format A character vector with 2,303 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1090,8 +1090,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "The White Ship"
-#' @description A dataset containing text of H. P. Lovecraft's "The White Ship"
+#' @title "The White Ship"
+#' @description A dataset containing text of H. P. Lovecraft's "The White Ship".
 #' @usage data(the_white_ship)
 #' @format A character vector with 200 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1107,8 +1107,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "Through the Gates of the Silver Key"
-#' @description A dataset containing text of H. P. Lovecraft's "Through the Gates of the Silver Key"
+#' @title "Through the Gates of the Silver Key"
+#' @description A dataset containing text of H. P. Lovecraft's "Through the Gates of the Silver Key".
 #' @usage data(through_the_gates_of_the_silver_key)
 #' @format A character vector with 1,305 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1124,8 +1124,8 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of "What the Moon Brings"
-#' @description A dataset containing text of H. P. Lovecraft's "What the Moon Brings"
+#' @title "What the Moon Brings"
+#' @description A dataset containing text of H. P. Lovecraft's "What the Moon Brings".
 #' @usage data(what_the_moon_brings)
 #' @format A character vector with 60 elements, with roughly 80 characters per line.
 #' @docType data
@@ -1141,7 +1141,7 @@
 # To update, edit the raw txt in data-raw/corpus and run data-raw/generate_data.R
 ##################################################################################
 
-#' @title Dataset of Lovecraft's corpus
+#' @title Dataset of Lovecraft's Corpus
 #' @description A dataset containing text of all the H. P. Lovecraft works available in this package.
 #' @usage data(lovecraft)
 #' @format A tibble with 43,347 rows and 2 columns:

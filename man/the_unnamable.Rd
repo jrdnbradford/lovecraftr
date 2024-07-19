@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_unnamable}
 \alias{the_unnamable}
-\title{Dataset of "The Unnamable"}
+\title{"The Unnamable"}
 \format{
 A character vector with 239 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_unnamable)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Unnamable"
+A dataset containing text of H. P. Lovecraft's "The Unnamable".
 }
 \keyword{datasets}
 \keyword{short}

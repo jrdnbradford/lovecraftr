@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_moon_bog}
 \alias{the_moon_bog}
-\title{Dataset of "The Moon Bog"}
+\title{"The Moon Bog"}
 \format{
 A character vector with 266 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_moon_bog)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Moon Bog"
+A dataset containing text of H. P. Lovecraft's "The Moon Bog".
 }
 \keyword{datasets}
 \keyword{short}

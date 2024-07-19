@@ -3,7 +3,7 @@
 \docType{data}
 \name{lovecraft}
 \alias{lovecraft}
-\title{Dataset of Lovecraft's corpus}
+\title{Dataset of Lovecraft's Corpus}
 \format{
 A tibble with 43,347 rows and 2 columns:
 \describe{

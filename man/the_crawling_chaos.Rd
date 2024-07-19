@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_crawling_chaos}
 \alias{the_crawling_chaos}
-\title{Dataset of "The Crawling Chaos"}
+\title{"The Crawling Chaos"}
 \format{
 A character vector with 234 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_crawling_chaos)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Crawling Chaos"
+A dataset containing text of H. P. Lovecraft's "The Crawling Chaos".
 }
 \keyword{datasets}
 \keyword{short}

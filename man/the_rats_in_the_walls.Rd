@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_rats_in_the_walls}
 \alias{the_rats_in_the_walls}
-\title{Dataset of "The Rats in the Walls"}
+\title{"The Rats in the Walls"}
 \format{
 A character vector with 691 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_rats_in_the_walls)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Rats in the Walls"
+A dataset containing text of H. P. Lovecraft's "The Rats in the Walls".
 }
 \keyword{datasets}
 \keyword{short}

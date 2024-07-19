@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_street}
 \alias{the_street}
-\title{Dataset of "The Street"}
+\title{"The Street"}
 \format{
 A character vector with 183 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_street)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Street"
+A dataset containing text of H. P. Lovecraft's "The Street".
 }
 \keyword{datasets}
 \keyword{short}
