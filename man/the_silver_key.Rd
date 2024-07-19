@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_silver_key}
 \alias{the_silver_key}
-\title{Dataset of "The Silver Key"}
+\title{"The Silver Key"}
 \format{
 A character vector with 404 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_silver_key)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Silver Key"
+A dataset containing text of H. P. Lovecraft's "The Silver Key".
 }
 \keyword{datasets}
 \keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_call_of_cthulhu}
 \alias{the_call_of_cthulhu}
-\title{Dataset of "The Call of Cthulhu"}
+\title{"The Call of Cthulhu"}
 \format{
 A character vector with 1,030 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_call_of_cthulhu)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Call of Cthulhu"
+A dataset containing text of H. P. Lovecraft's "The Call of Cthulhu".
 }
 \keyword{datasets}
 \keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{at_the_mountains_of_madness}
 \alias{at_the_mountains_of_madness}
-\title{Dataset of \emph{At the Mountains of Madness}}
+\title{\emph{At the Mountains of Madness}}
 \format{
 A character vector with 3,579 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/a
 data(at_the_mountains_of_madness)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's \emph{At the Mountains of Madness}
+A dataset containing text of H. P. Lovecraft's \emph{At the Mountains of Madness}.
 }
 \keyword{datasets}
 \keyword{novella}

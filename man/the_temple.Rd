@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_temple}
 \alias{the_temple}
-\title{Dataset of "The Temple"}
+\title{"The Temple"}
 \format{
 A character vector with 450 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_temple)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Temple"
+A dataset containing text of H. P. Lovecraft's "The Temple".
 }
 \keyword{datasets}
 \keyword{short}

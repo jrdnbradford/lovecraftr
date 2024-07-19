@@ -3,7 +3,7 @@
 \docType{data}
 \name{what_the_moon_brings}
 \alias{what_the_moon_brings}
-\title{Dataset of "What the Moon Brings"}
+\title{"What the Moon Brings"}
 \format{
 A character vector with 60 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/w
 data(what_the_moon_brings)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "What the Moon Brings"
+A dataset containing text of H. P. Lovecraft's "What the Moon Brings".
 }
 \keyword{datasets}
 \keyword{short}

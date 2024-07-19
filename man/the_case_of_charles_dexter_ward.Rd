@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_case_of_charles_dexter_ward}
 \alias{the_case_of_charles_dexter_ward}
-\title{Dataset of \emph{The Case of Charles Dexter Ward}}
+\title{\emph{The Case of Charles Dexter Ward}}
 \format{
 A character vector with 4,358 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_case_of_charles_dexter_ward)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's \emph{The Case of Charles Dexter Ward}
+A dataset containing text of H. P. Lovecraft's \emph{The Case of Charles Dexter Ward}.
 }
 \keyword{datasets}
 \keyword{novella}

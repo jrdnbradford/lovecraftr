@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_very_old_folk}
 \alias{the_very_old_folk}
-\title{Dataset of "The Very Old Folk"}
+\title{"The Very Old Folk"}
 \format{
 A character vector with 210 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_very_old_folk)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Very Old Folk"
+A dataset containing text of H. P. Lovecraft's "The Very Old Folk".
 }
 \keyword{datasets}
 \keyword{short}

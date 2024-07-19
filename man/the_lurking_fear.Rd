@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_lurking_fear}
 \alias{the_lurking_fear}
-\title{Dataset of "The Lurking Fear"}
+\title{"The Lurking Fear"}
 \format{
 A character vector with 656 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_lurking_fear)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Lurking Fear"
+A dataset containing text of H. P. Lovecraft's "The Lurking Fear".
 }
 \keyword{datasets}
 \keyword{short}

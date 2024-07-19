@@ -7,11 +7,11 @@
 lovecraft_corpus()
 }
 \value{
-A data frame of Lovecraft's corpus
+A tibble of Lovecraft's corpus.
 }
 \description{
-See `?lovecraftr::lovecraft_corpus` for documentation
+See \code{\link[lovecraftr:lovecraft]{lovecraftr:lovecraft}} for documentation.
 }
-\examples{
-lovecraft_corpus()
+\seealso{
+\code{\link[lovecraftr:lovecraft]{lovecraftr:lovecraft}}
 }

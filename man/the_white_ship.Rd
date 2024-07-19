@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_white_ship}
 \alias{the_white_ship}
-\title{Dataset of "The White Ship"}
+\title{"The White Ship"}
 \format{
 A character vector with 200 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_white_ship)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The White Ship"
+A dataset containing text of H. P. Lovecraft's "The White Ship".
 }
 \keyword{datasets}
 \keyword{short}

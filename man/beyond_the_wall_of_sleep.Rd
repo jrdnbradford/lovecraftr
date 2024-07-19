@@ -3,7 +3,7 @@
 \docType{data}
 \name{beyond_the_wall_of_sleep}
 \alias{beyond_the_wall_of_sleep}
-\title{Dataset of "Beyond the Wall of Sleep"}
+\title{"Beyond the Wall of Sleep"}
 \format{
 A character vector with 361 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/b
 data(beyond_the_wall_of_sleep)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Beyond the Wall of Sleep"
+A dataset containing text of H. P. Lovecraft's "Beyond the Wall of Sleep".
 }
 \keyword{datasets}
 \keyword{short}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{he}
 \alias{he}
-\title{Dataset of "He"}
+\title{"He"}
 \format{
 A character vector with 360 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/h
 data(he)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "He"
+A dataset containing text of H. P. Lovecraft's "He".
 }
 \keyword{datasets}
 \keyword{short}

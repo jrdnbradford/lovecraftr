@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_festival}
 \alias{the_festival}
-\title{Dataset of "The Festival"}
+\title{"The Festival"}
 \format{
 A character vector with 303 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_festival)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Festival"
+A dataset containing text of H. P. Lovecraft's "The Festival".
 }
 \keyword{datasets}
 \keyword{short}

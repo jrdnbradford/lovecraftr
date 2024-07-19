@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex_oblivione}
 \alias{ex_oblivione}
-\title{Dataset of "Ex Oblivione"}
+\title{"Ex Oblivione"}
 \format{
 A character vector with 66 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/e
 data(ex_oblivione)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Ex Oblivione"
+A dataset containing text of H. P. Lovecraft's "Ex Oblivione".
 }
 \keyword{datasets}
 \keyword{short}

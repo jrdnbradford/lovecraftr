@@ -3,7 +3,7 @@
 \docType{data}
 \name{through_the_gates_of_the_silver_key}
 \alias{through_the_gates_of_the_silver_key}
-\title{Dataset of "Through the Gates of the Silver Key"}
+\title{"Through the Gates of the Silver Key"}
 \format{
 A character vector with 1,305 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(through_the_gates_of_the_silver_key)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Through the Gates of the Silver Key"
+A dataset containing text of H. P. Lovecraft's "Through the Gates of the Silver Key".
 }
 \keyword{datasets}
 \keyword{short}

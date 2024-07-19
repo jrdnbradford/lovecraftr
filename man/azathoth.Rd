@@ -3,7 +3,7 @@
 \docType{data}
 \name{azathoth}
 \alias{azathoth}
-\title{Dataset of "Azathoth"}
+\title{"Azathoth"}
 \format{
 A character vector with 37 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/a
 data(azathoth)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "Azathoth"
+A dataset containing text of H. P. Lovecraft's "Azathoth".
 }
 \keyword{datasets}
 \keyword{short}

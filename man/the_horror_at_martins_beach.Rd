@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_horror_at_martins_beach}
 \alias{the_horror_at_martins_beach}
-\title{Dataset of "The Horror at Martin's Beach"}
+\title{"The Horror at Martin's Beach"}
 \format{
 A character vector with 225 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_horror_at_martins_beach)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Horror at Martin's Beach"
+A dataset containing text of H. P. Lovecraft's "The Horror at Martin's Beach".
 }
 \keyword{datasets}
 \keyword{short}

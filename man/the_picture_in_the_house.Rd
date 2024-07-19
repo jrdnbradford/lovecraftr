@@ -3,7 +3,7 @@
 \docType{data}
 \name{the_picture_in_the_house}
 \alias{the_picture_in_the_house}
-\title{Dataset of "The Picture in the House"}
+\title{"The Picture in the House"}
 \format{
 A character vector with 263 elements, with roughly 80 characters per line.
 }
@@ -16,7 +16,7 @@ or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/t
 data(the_picture_in_the_house)
 }
 \description{
-A dataset containing text of H. P. Lovecraft's "The Picture in the House"
+A dataset containing text of H. P. Lovecraft's "The Picture in the House".
 }
 \keyword{datasets}
 \keyword{short}
