@@ -1,14 +1,13 @@
 #' @title Lovecraft's Corpus
 #'
 #' @description
-#' See `?lovecraftr::lovecraft_corpus` for documentation
+#' See \code{\link[lovecraftr:lovecraft]{lovecraftr:lovecraft}} for documentation.
 #'
-#' @return A data frame of Lovecraft's corpus
+#' @return A tibble of Lovecraft's corpus.
 #'
 #' @export
-#'
-#' @examples
-#' lovecraft_corpus()
+#' @seealso \code{\link[lovecraftr:lovecraft]{lovecraftr:lovecraft}}
+#' @usage lovecraft_corpus()
 lovecraft_corpus <- function() {
   lovecraftr::lovecraft
 }
