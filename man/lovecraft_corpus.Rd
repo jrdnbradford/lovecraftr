@@ -10,8 +10,8 @@ lovecraft_corpus()
 A tibble of Lovecraft's corpus.
 }
 \description{
-See \code{\link[lovecraftr::lovecraft]{lovecraftr::lovecraft}} for documentation.
+See \code{\link[lovecraftr]{lovecraft}} for documentation.
 }
 \seealso{
-\code{\link[lovecraftr::lovecraft]{lovecraftr::lovecraft}}
+\code{\link[lovecraftr]{lovecraft}}
 }
