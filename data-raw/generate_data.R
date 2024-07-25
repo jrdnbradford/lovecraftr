@@ -84,7 +84,7 @@ corpus_docs <- glue::glue("{header}
 ")
 
 docs <- c(docs, corpus_docs)
-usethis::use_data(lovecraft, overwrite = TRUE)
+usethis::use_data(lovecraft, overwrite = TRUE, version = 3)
 
 doc_file <- file(data_docs_file, "a")
 write(docs, file = doc_file)
