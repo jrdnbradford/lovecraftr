@@ -33,8 +33,11 @@ docs_template <- "{header}
 #' @docType data
 #' @keywords datasets {type}
 #' @source Public domain.
-#'   See the {raw_txt_link}
-#'   or download the {rda_link}.
+#'   For more details see the vignette:
+#'   \\code{{vignette(\"copyright-status\", package = \"lovecraftr\")}}.
+#'
+#'   * {raw_txt_link}
+#'   * {rda_link}
 #' @md
 \"{dataset_name}\"
 
@@ -79,6 +82,8 @@ corpus_docs <- glue::glue("{header}
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
+#'   For more details see the vignette:
+#'   \\code{{vignette(\"copyright-status\", package = \"lovecraftr\")}}.
 #' @md
 \"lovecraft\"
 ")

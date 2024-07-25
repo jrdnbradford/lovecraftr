@@ -9,8 +9,12 @@ A character vector with 361 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep}{raw text file}
-or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda}{RDA file}.
+For more details see the vignette:
+\code{vignette("copyright-status", package = "lovecraftr")}.
+\itemize{
+\item \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/beyond_the_wall_of_sleep}{raw text file}
+\item \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/beyond_the_wall_of_sleep.rda}{RDA file}
+}
 }
 \usage{
 data(beyond_the_wall_of_sleep)

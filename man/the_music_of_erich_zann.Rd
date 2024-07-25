@@ -9,8 +9,12 @@ A character vector with 285 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann}{raw text file}
-or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda}{RDA file}.
+For more details see the vignette:
+\code{vignette("copyright-status", package = "lovecraftr")}.
+\itemize{
+\item \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_music_of_erich_zann}{raw text file}
+\item \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_music_of_erich_zann.rda}{RDA file}
+}
 }
 \usage{
 data(the_music_of_erich_zann)
