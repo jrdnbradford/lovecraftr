@@ -48,7 +48,7 @@ for (txt in corpus) {
   num_vectors <- scales::number(length(text), big.mark = ",")
   dataset_name <- as.name(txt)
   assign(txt, text)
-  do.call(usethis::use_data, list(dataset_name, overwrite = TRUE))
+  do.call(usethis::use_data, list(dataset_name, overwrite = TRUE, version = 3))
 
   type <- subset(metadata, title == dataset_name)$type
   title <- title_case(head(text, 1))
