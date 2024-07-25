@@ -60,7 +60,7 @@ The entire corpus can be accessed as a tibble with:
 corpus <- lovecraftr::lovecraft_corpus()
 
 corpus |>
-  dplyr::filter(title == "THE CALL OF CTHULHU") |>
+  dplyr::filter(title == "The Call of Cthulhu") |>
   head()
 ```
 
