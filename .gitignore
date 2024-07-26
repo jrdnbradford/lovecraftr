@@ -44,3 +44,4 @@ docs/
 
 # Quarto folder
 /.quarto/
+inst/doc
