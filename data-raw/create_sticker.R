@@ -1,11 +1,10 @@
 #!/usr/bin/env Rscript
 
-# This script generates the hex sticker for the packages
-
+# This script generates the hex sticker for the package
 
 signature_url <- "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lovecraft_signature_1924-02-02.png"
 signature_dest_path <- file.path("data-raw", "stickers", "signature.png")
-raw_log_path <- file.path("data-raw", "stickers", "logo-raw.png")
+raw_logo_path <- file.path("data-raw", "stickers", "logo-raw.png")
 
 download.file(signature_url, signature_dest_path)
 
@@ -25,8 +24,8 @@ hexSticker::sticker(
   u_size = 4,
   u_y = 0.1,
   u_color = "black",
-  filename = raw_log_path,
+  filename = raw_logo_path,
   dpi = 600
 )
 
-usethis::use_logo(raw_log_path)
+usethis::use_logo(raw_logo_path)

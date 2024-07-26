@@ -1,7 +1,7 @@
 Package: lovecraftr
 Type: Package
 Title: H. P. Lovecraft's works, for text analysis
-Version: 0.2.4
+Version: 1.0.0
 Authors@R:
     person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = c("aut", "cre"))
 Description: A collection of H. P. Lovecraft's works as R datasets.
@@ -11,8 +11,11 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends:
-    R (>= 2.10)
+    R (>= 3.5)
 Suggests:
-    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.3.2
+VignetteBuilder: knitr

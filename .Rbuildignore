@@ -12,3 +12,4 @@
 ^docs$
 ^pkgdown$
 ^vignettes/*_files$
+^vignettes/.quarto$

@@ -9,8 +9,12 @@ A character vector with 948 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs}{raw text file}
-or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda}{RDA file}.
+For more details see the vignette:
+\code{vignette("copyright-status", package = "lovecraftr")}.
+\itemize{
+\item \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/imprisoned_with_the_pharoahs}{raw text file}
+\item \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/imprisoned_with_the_pharoahs.rda}{RDA file}
+}
 }
 \usage{
 data(imprisoned_with_the_pharoahs)

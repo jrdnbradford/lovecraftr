@@ -9,8 +9,12 @@ A character vector with 266 elements, with roughly 80 characters per line.
 }
 \source{
 Public domain.
-See the \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_moon_bog}{raw text file}
-or download the \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_moon_bog.rda}{RDA file}.
+For more details see the vignette:
+\code{vignette("copyright-status", package = "lovecraftr")}.
+\itemize{
+\item \href{https://raw.githubusercontent.com/jrdnbradford/lovecraftr/main/data-raw/corpus/the_moon_bog}{raw text file}
+\item \href{https://github.com/jrdnbradford/lovecraftr/raw/main/data/the_moon_bog.rda}{RDA file}
+}
 }
 \usage{
 data(the_moon_bog)

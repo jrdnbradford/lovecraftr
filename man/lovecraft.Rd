@@ -13,6 +13,8 @@ A tibble with 43,347 rows and 2 columns:
 }
 \source{
 Public domain.
+For more details see the vignette:
+\code{vignette("copyright-status", package = "lovecraftr")}.
 }
 \usage{
 data(lovecraft)

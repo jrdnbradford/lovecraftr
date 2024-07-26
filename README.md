@@ -4,8 +4,15 @@
 
 # {`lovecraftr`} <img src="man/figures/logo.png" align="right" height="139" alt="H. P. Lovecraft's signature in an R package hexagon"/>
 
+<!-- badges: start -->
+
 [![R-CMD-check](https://github.com/jrdnbradford/lovecraftr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jrdnbradford/lovecraftr/actions/workflows/R-CMD-check.yaml)
 [![dataset-check](https://github.com/jrdnbradford/lovecraftr/actions/workflows/dataset-check.yaml/badge.svg)](https://github.com/jrdnbradford/lovecraftr/actions/workflows/dataset-check.yaml)
+![GitHub R package
+version](https://img.shields.io/github/r-package/v/jrdnbradford/lovecraftr.png)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+<!-- badges: end -->
 
 > The most merciful thing in the world, I think, is the inability of the
 > human mind to correlate all its contents. We live on a placid island
@@ -21,72 +28,69 @@
 Call of Cthulhu*
 
 {`lovecraftr`} contains H. P. Lovecraft’s corpus as R datasets for
-textual analysis. This repository contains both the raw txt files and
-RDA files. See the
-[reference](https://jrdnbradford.github.io/lovecraftr/reference/index.html)
+textual analysis. This repository contains both the raw text files and
+RDA files. See the [package index
+reference](https://jrdnbradford.github.io/lovecraftr/reference/index.html)
 for the list of available works.
 
 ## Installation
 
 Install from [GitHub](https://github.com/jrdnbradford/lovecraftr/) using
-{[`devtools`](https://devtools.r-lib.org/)}:
+any of the methods below.
+
+### {[`devtools`](https://devtools.r-lib.org/)}
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("jrdnbradford/lovecraftr")
 ```
 
-or {[`remotes`](https://remotes.r-lib.org//)}:
+### {[`remotes`](https://remotes.r-lib.org/)}
 
 ``` r
 # install.packages("remotes")
 remotes::install_github("jrdnbradford/lovecraftr")
 ```
 
+### {[`pak`](https://pak.r-lib.org/)}
+
+``` r
+# install.packages("pak")
+pak::pkg_install("jrdnbradford/lovecraftr")
+```
+
 ## Usage
 
-Character vectors of individual works can be accessed in several ways:
+See the [package index
+reference](https://jrdnbradford.github.io/lovecraftr/reference/index.html)
+for documentation on works and usage.
+
+Once the package is loaded, character vectors of individual works can be
+accessed in several ways.
+
+You can load a dataset into the environment directly using:
 
 ``` r
-cthulhu <- lovecraftr::the_call_of_cthulhu
-head(cthulhu)
-#> [1] "THE CALL OF CTHULHU"                                                            
-#> [2] ""                                                                               
-#> [3] "Of such great powers or beings there may be conceivably a survival...a survival"
-#> [4] "of a hugely remote period when...consciousness was manifested, perhaps, in"     
-#> [5] "shapes and forms long since withdrawn before the tide of advancing"             
-#> [6] "humanity...forms of which poetry and legend alone have caught a flying memory"
+data(the_call_of_cthulhu)
 ```
 
-or
+You can also assign a dataset to a variable:
 
 ``` r
-data("the_call_of_cthulhu")
-```
-
-The entire corpus can be accessed as a tibble with:
-
-``` r
-corpus <- lovecraftr::lovecraft_corpus()
+corpus <- lovecraft
 
 corpus |>
-  dplyr::filter(title == "THE CALL OF CTHULHU") |>
+  dplyr::filter(title == "The Call of Cthulhu") |>
   head()
 #> # A tibble: 6 × 2
 #>   title               text                                                      
 #>   <chr>               <chr>                                                     
-#> 1 THE CALL OF CTHULHU "THE CALL OF CTHULHU"                                     
-#> 2 THE CALL OF CTHULHU ""                                                        
-#> 3 THE CALL OF CTHULHU "Of such great powers or beings there may be conceivably …
-#> 4 THE CALL OF CTHULHU "of a hugely remote period when...consciousness was manif…
-#> 5 THE CALL OF CTHULHU "shapes and forms long since withdrawn before the tide of…
-#> 6 THE CALL OF CTHULHU "humanity...forms of which poetry and legend alone have c…
-```
-
-or
-
-``` r
-data("lovecraft")
+#> 1 The Call of Cthulhu "THE CALL OF CTHULHU"                                     
+#> 2 The Call of Cthulhu ""                                                        
+#> 3 The Call of Cthulhu "Of such great powers or beings there may be conceivably …
+#> 4 The Call of Cthulhu "of a hugely remote period when...consciousness was manif…
+#> 5 The Call of Cthulhu "shapes and forms long since withdrawn before the tide of…
+#> 6 The Call of Cthulhu "humanity...forms of which poetry and legend alone have c…
 ```
 
 ## Contributing

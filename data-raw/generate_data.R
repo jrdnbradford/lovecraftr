@@ -4,9 +4,8 @@
 # accompanying documentation for {lovecraftr} using
 # the raw txt files in data-raw/corpus
 
-
 title_case <- function(x) {
-  stopwords <- c("and", "of", "the", "on", "at", "in", "with", "to", "that") # Add more stopwords if needed
+  stopwords <- c("and", "of", "the", "on", "at", "in", "with", "to", "that", "a")
   words <- stringr::str_split(tolower(x), " ")[[1]]
   words <- ifelse(words %in% stopwords & seq_along(words) != 1, words, stringr::str_to_title(words))
   return(stringr::str_c(words, collapse = " "))
@@ -34,8 +33,11 @@ docs_template <- "{header}
 #' @docType data
 #' @keywords datasets {type}
 #' @source Public domain.
-#'   See the {raw_txt_link}
-#'   or download the {rda_link}.
+#'   For more details see the vignette:
+#'   \\code{{vignette(\"copyright-status\", package = \"lovecraftr\")}}.
+#'
+#'   * {raw_txt_link}
+#'   * {rda_link}
 #' @md
 \"{dataset_name}\"
 
@@ -49,7 +51,7 @@ for (txt in corpus) {
   num_vectors <- scales::number(length(text), big.mark = ",")
   dataset_name <- as.name(txt)
   assign(txt, text)
-  do.call(usethis::use_data, list(dataset_name, overwrite = TRUE))
+  do.call(usethis::use_data, list(dataset_name, overwrite = TRUE, version = 3))
 
   type <- subset(metadata, title == dataset_name)$type
   title <- title_case(head(text, 1))
@@ -80,12 +82,14 @@ corpus_docs <- glue::glue("{header}
 #' @docType data
 #' @keywords datasets
 #' @source Public domain.
+#'   For more details see the vignette:
+#'   \\code{{vignette(\"copyright-status\", package = \"lovecraftr\")}}.
 #' @md
 \"lovecraft\"
 ")
 
 docs <- c(docs, corpus_docs)
-usethis::use_data(lovecraft, overwrite = TRUE)
+usethis::use_data(lovecraft, overwrite = TRUE, version = 3)
 
 doc_file <- file(data_docs_file, "a")
 write(docs, file = doc_file)
