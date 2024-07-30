@@ -1,7 +1,7 @@
 Package: lovecraftr
 Type: Package
 Title: H. P. Lovecraft's works, for text analysis
-Version: 1.0.0
+Version: 1.0.0.9000
 Authors@R:
     person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = c("aut", "cre"))
 Description: A collection of H. P. Lovecraft's works as R datasets.
