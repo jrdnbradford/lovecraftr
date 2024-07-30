@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="index.html">lovecraftr</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.0.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.0.0.9000</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,7 +38,7 @@
 <div class="row">
   <main id="main" class="col-md-9"><div class="page-header">
       <img src="logo.png" class="logo" alt=""><h1>How to Contribute</h1>
-      <small class="dont-index">Source: <a href="https://github.com/jrdnbradford/lovecraftr/blob/v1.0.0/.github/CONTRIBUTING.md" class="external-link"><code>.github/CONTRIBUTING.md</code></a></small>
+      <small class="dont-index">Source: <a href="https://github.com/jrdnbradford/lovecraftr/blob/main/.github/CONTRIBUTING.md" class="external-link"><code>.github/CONTRIBUTING.md</code></a></small>
     </div>
 
 <div id="how-to-contribute" class="section level1">
@@ -46,9 +46,9 @@
 <p>Pull requests and issues are welcome! File an issue before opening a pull request so we can discuss.</p>
 <div class="section level2">
 <h2 id="repository-structure">Repository Structure<a class="anchor" aria-label="anchor" href="#repository-structure"></a></h2>
-<p><a href="../data-raw/corpus/"><code>data-raw/corpus</code></a> contains the raw text of the works. Any change to or addition/removal of datasets must be done in this directory.</p>
-<p>The <a href="../data-raw/generate_data.R"><code>generate_data.R</code></a> script automates creating the datasets and their <a href="../R/data.R">accompanying documentation</a> from the <a href="../data-raw/corpus/">raw text files</a>.</p>
-<p>Thus the process for most changes will require updating the raw data or the <a href="../data-raw/generate_data.R"><code>generate_data.R</code> script</a> then running <a href="../data-raw/generate_data.R"><code>generate_data.R</code></a> to generate changes to the datasets or docs.</p>
+<p><a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/corpus/" class="external-link"><code>data-raw/corpus</code></a> contains the raw text of the works. Any change to or addition/removal of datasets must be done in this directory.</p>
+<p>The <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/generate_data.R" class="external-link"><code>generate_data.R</code></a> script automates creating the datasets and their <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/R/data.R" class="external-link">accompanying documentation</a> from the <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/corpus/" class="external-link">raw text files</a>.</p>
+<p>Thus the process for most changes will require updating the raw data or the <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/generate_data.R" class="external-link"><code>generate_data.R</code> script</a> then running <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/generate_data.R" class="external-link"><code>generate_data.R</code></a> to generate changes to the datasets or docs.</p>
 </div>
 <div class="section level2">
 <h2 id="issues">Issues<a class="anchor" aria-label="anchor" href="#issues"></a></h2>
@@ -65,8 +65,8 @@
 </li>
 <li>
 <p>Make your changes</p>
-<ul><li>Run the <a href="../data-raw/generate_data.R"><code>generate_data.R</code></a> script if you made changes to the raw text files or data documentation</li>
-<li>Render <a href="../README.html"><code>README.md</code></a> from <a href="../README.html"><code>README.qmd</code></a> if you made changes to the <code>README</code>
+<ul><li>Run the <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/generate_data.R" class="external-link"><code>generate_data.R</code></a> script if you made changes to the raw text files or data documentation</li>
+<li>Render <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/README.md" class="external-link"><code>README.md</code></a> from <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/README.qmd" class="external-link"><code>README.qmd</code></a> if you made changes to the <code>README</code>
 </li>
 </ul></li>
 <li>
@@ -74,7 +74,7 @@
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">devtools</span><span class="fu">::</span><span class="fu">check</span><span class="op">(</span><span class="op">)</span></span></code></pre></div>
 </li>
-<li><p>Run the <a href="../data-raw/build_github_site.R"><code>build_github_site.R</code> script</a> to preview the {<code>pkgdown</code>} site</p></li>
+<li><p>Run the <a href="https://github.com/jrdnbradford/lovecraftr/tree/main/data-raw/build_github_site.R" class="external-link"><code>build_github_site.R</code> script</a> to preview the {<code>pkgdown</code>} site</p></li>
 <li><p>Submit a PR</p></li>
 </ol></div>
 </div>

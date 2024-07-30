@@ -3,7 +3,7 @@ pkgdown: 2.1.0
 pkgdown_sha: ~
 articles:
   copyright-status: copyright-status.html
-last_built: 2024-07-30T16:13Z
+last_built: 2024-07-30T16:40Z
 urls:
   reference: https://jrdnbradford.github.io/lovecraftr/reference
   article: https://jrdnbradford.github.io/lovecraftr/articles
