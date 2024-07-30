@@ -1,5 +1,7 @@
 # lovecraftr 1.0.0.9000 (Development Version)
-No development changes (yet).
+
+## Documentation
+Fix broken links in `CONTRIBUTING` on GitHub site (#40)
 
 # lovecraftr 1.0.0
 The release of 1.0.0 signals a stable API and base infrastructure on which to maintain the datasets and documentation.
