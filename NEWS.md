@@ -1,7 +1,9 @@
 # lovecraftr 1.0.0.9000 (Development Version)
 
-## Documentation
+## Datasets
 * Fix missing spaces in "The Thing on the Doorstep"
+
+## Documentation
 * Fix broken links in `CONTRIBUTING` on GitHub site (#40)
 
 # lovecraftr 1.0.0
