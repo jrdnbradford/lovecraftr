@@ -1,7 +1,8 @@
 # lovecraftr 1.0.0.9000 (Development Version)
 
 ## Documentation
-Fix broken links in `CONTRIBUTING` on GitHub site (#40)
+* Fix missing spaces in "The Thing on the Doorstep"
+* Fix broken links in `CONTRIBUTING` on GitHub site (#40)
 
 # lovecraftr 1.0.0
 The release of 1.0.0 signals a stable API and base infrastructure on which to maintain the datasets and documentation.
