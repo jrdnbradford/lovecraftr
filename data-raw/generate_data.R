@@ -4,6 +4,8 @@
 # accompanying documentation for {lovecraftr} using
 # the raw txt files in data-raw/corpus
 
+devtools::load_all()
+
 title_case <- function(x) {
   stopwords <- c("and", "of", "the", "on", "at", "in", "with", "to", "that", "a")
   words <- stringr::str_split(tolower(x), " ")[[1]]
